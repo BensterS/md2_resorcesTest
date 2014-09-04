@@ -1,0 +1,706 @@
+  C:\Users\Administrator\Desktop\aa\ark_control\InputMsgDialog.cpp (1 hit)
+	Line 33:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/pet_gaiming.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_control\InputNumDialog.cpp (1 hit)
+	Line 21:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/shuzi_popup.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_battle\ark_battleDisplay.cpp (1 hit)
+	Line 25:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/wanjia_tongxiangkuang.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_battle\ark_battleOptionLayer.cpp (1 hit)
+	Line 23:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/battle_zhaohuanchongwu.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_control\ark_EditBox.cpp (1 hit)
+	Line 32:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/pet_gaiming.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_control\ark_InputNumLayer.cpp (1 hit)
+	Line 21:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/shuzi_popup.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_gameAnnouncement.cpp (1 hit)
+	Line 22:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/yonghuxieyi.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_gameLittleHelper.cpp (1 hit)
+	Line 33:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/shezhi_youxibangzhu.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_gameOurInfo.cpp (1 hit)
+	Line 20:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/shezhi_lianxiwomen.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_gameUIAccept.cpp (1 hit)
+	Line 21:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/yonghuxieyi.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_gameUiAccountSafe.cpp (1 hit)
+	Line 19:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/zhanghaoanquan.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_gameUIAllWorld.cpp (1 hit)
+	Line 29:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/ditu_shijie.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_gameUIBackAccount.cpp (1 hit)
+	Line 17:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/zhaohuizhangmi.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_gameUICurrentWorld.cpp (1 hit)
+	Line 53:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/ditu_dangqian.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_gameUiLogin.cpp (1 hit)
+	Line 51:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/denglu2_960.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_gameUIModify.cpp (3 hits)
+	Line 23: 			FileName.append("xiugaimima.ccbi");
+	Line 26: 			FileName.append("zhanghaobangding.ccbi");
+	Line 29: 			FileName.append("jiechubangding.ccbi");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_gameUiReg.cpp (1 hit)
+	Line 32:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/denglu3.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_gameUISelectServer.cpp (1 hit)
+	Line 31:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/xuanzefuwuqi.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_gameUISet.cpp (1 hit)
+	Line 45:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/shezhi_xitongshezhi.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_heroChooseLayer.cpp (1 hit)
+	Line 20:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/xuanzejuese.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_heroCreateLayer.cpp (1 hit)
+	Line 39:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/jiaosexuanze1.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_InputStringLayer.cpp (1 hit)
+	Line 36: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/pet_gaiming.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_MainMenuLayer.cpp (1 hit)
+	Line 107:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/mainScreen960.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_NormalLoading.cpp (1 hit)
+	Line 91:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/loading2.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\chat\ark_ChatLayer.cpp (1 hit)
+	Line 54:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/liaotian.ccbi", this, gFontName.c_str(), ccbinodeTag, 1);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\chat\ark_ChatMainLayer.cpp (1 hit)
+	Line 28:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str(), ccbiNodeTag, 1);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\chat\ark_chatSetting.cpp (1 hit)
+	Line 23:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/liaotian_shezhi.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\chat\ark_miniChatLayer.cpp (1 hit)
+	Line 21:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/liaotian_duihuakuang.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ActivityLayer.cpp (1 hit)
+	Line 30: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/basicLayer.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_AdvancePath.cpp (1 hit)
+	Line 84: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/huodong_chuangguan01.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_AnimaDonateLayer.cpp (1 hit)
+	Line 49: 		CCNode* node = ccbReader->readNodeGraphFromFile("ccb/lingqijuanxian.ccbi",this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_BagBankLayer.cpp (1 hit)
+	Line 15: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/hero_bag_bank.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_bangpaiLayer.cpp (10 hits)
+	Line 46:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str());
+	Line 355:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/bangpai.ccbi", this, gFontName.c_str());
+	Line 630:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/bangpai_chengyuan.ccbi", this, gFontName.c_str());
+	Line 1228:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/bangpai_liebiao.ccbi", this, gFontName.c_str());
+	Line 1491:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/bangpai_chuangjian.ccbi", this, gFontName.c_str());
+	Line 1717:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/bangpai_xinxi.ccbi", this, gFontName.c_str());
+	Line 1856:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/bangpai_rubangshenqing.ccbi", this, gFontName.c_str());
+	Line 2103:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/bangpai_tiaozhengzhiwei.ccbi", this, gFontName.c_str());
+	Line 2259:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/bangpai_fujinwanjia.ccbi", this, gFontName.c_str());
+	Line 2472:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/bangpai_yaoqing.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_BattleBossAnim.cpp (1 hit)
+	Line 40:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_wanmeitongguan.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_BattleBossPorck.cpp (1 hit)
+	Line 37: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/fubenjiesuan.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_BattleBossStarReward.cpp (2 hits)
+	Line 35: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/huodong_meiripaohuan4.ccbi", this);
+	Line 267: 		CCNode* pNode = ccbReader->readNodeGraphFromFile("ccb/huodong_meiripaohuan5.ccbi",this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_BeStrongLayer.cpp (2 hits)
+	Line 36:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/bianqiang_dikuang.ccbi", this, gFontName.c_str());
+	Line 209:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/bianqiang_xiaokuang.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_CanImproveFunc.cpp (1 hit)
+	Line 44:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tisheng.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ChallengeHeroList.cpp (1 hit)
+	Line 20: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/jingji_yingxiongbang.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ChallengeJiLu.cpp (1 hit)
+	Line 18: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/jingji_jilu.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ChallengeMainLayer.cpp (4 hits)
+	Line 40:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str());
+	Line 322:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/jingji_yingxiongbang.ccbi", this, gFontName.c_str());
+	Line 458:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/jingji_jilu.ccbi", this, gFontName.c_str());
+	Line 644:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/jingji_shangdian.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_challengeMarket.cpp (1 hit)
+	Line 32: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/jingji_shangdian.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ChallengeSlotWar.cpp (1 hit)
+	Line 43:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/jingji.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_changeGiftBagLayer.cpp (1 hit)
+	Line 16: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/huodon_duihuanlibao.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ChongZhiLayer.cpp (3 hits)
+	Line 24:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_chongzhi.ccbi", this, gFontName.c_str(), 0, 1);
+	Line 158:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_chongzhi1.ccbi", this, gFontName.c_str(), 0, 1);
+	Line 367:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_chongzhi2.ccbi", this, gFontName.c_str(), 0, 1);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ClimbFirst.cpp (1 hit)
+	Line 36: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/huodong_tongtianta2.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ClimbTower.cpp (1 hit)
+	Line 49: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/huodong_tongtianta1.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ClimbTowerSlef.cpp (3 hits)
+	Line 55:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_tongtianta.ccbi", this, gFontName.c_str());
+	Line 563:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_tongtianta1.ccbi", this, gFontName.c_str());
+	Line 890:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_tongtianta2.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ContinueLoginLayer.cpp (1 hit)
+	Line 26:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_denglulibao.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_convoyLayer.cpp (2 hits)
+	Line 39:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_husongshenshou.ccbi", this, gFontName.c_str());
+	Line 404:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_husongshenshou1.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_convoyPopBox.cpp (1 hit)
+	Line 17: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/huodong_husongshenshou1.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_CopyCardLayer.cpp (1 hit)
+	Line 22: 		CCNode *node = reader->readNodeGraphFromFile("ccb/fuben_renwukuang.ccbi",this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_copyMainLayer.cpp (5 hits)
+	Line 44:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str());
+	Line 198:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/fuben.ccbi", this, gFontName.c_str());
+	Line 546:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/fuben_renwukuang.ccbi", this, gFontName.c_str());
+	Line 617:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_guajisaodang1.ccbi", this, gFontName.c_str());
+	Line 1030:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tishiScreen7.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_CopySweepLayer.cpp (1 hit)
+	Line 41: 		CCNode *node = reader->readNodeGraphFromFile("ccb/huodong_guajisaodang1.ccbi",this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_dailyQuestionLayer.cpp (1 hit)
+	Line 36: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/dati.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_dailySignInLayer.cpp (2 hits)
+	Line 42: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/huodong_meiriqiandao.ccbi", this);
+	Line 976: 		CCNode* pNode = ccbReader->readNodeGraphFromFile("ccb/huodong_meiriqiandao1.ccbi",this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_dailyTaskLayer.cpp (1 hit)
+	Line 66: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/huodong_meiribizuo.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_DuanZaoLayer.cpp (19 hits)
+	Line 172:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str(), ccbiNodeTag, 1);
+	Line 703:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_qianghua.ccbi", this, gFontName.c_str(), nodeTag, 1);
+	Line 1878:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_shengji.ccbi", this, gFontName.c_str());
+	Line 2635:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_xiangqian.ccbi", this, gFontName.c_str());
+	Line 3654:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_xilian.ccbi", this, gFontName.c_str());
+	Line 4399:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_hecheng.ccbi", this, gFontName.c_str());
+	Line 4923:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_jianding.ccbi", this, gFontName.c_str());
+	Line 5263:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_lanzhuang.ccbi", this, gFontName.c_str());
+	Line 5890:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_lvzhuang.ccbi", this, gFontName.c_str());
+	Line 6400:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_dikuang.ccbi", this, gFontName.c_str());
+	Line 7359:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_xuanze.ccbi", this, gFontName.c_str());
+	Line 7490:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_mingwen.ccbi", this, gFontName.c_str());
+	Line 7810:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_mingwen1.ccbi", this, gFontName.c_str());
+	Line 7878:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_mingwen5.ccbi", this, gFontName.c_str());
+	Line 7969:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_mingwen2.ccbi", this, gFontName.c_str());
+	Line 8157:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_mingwen3.ccbi", this, gFontName.c_str());
+	Line 8360:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_mingwen4.ccbi", this, gFontName.c_str());
+	Line 8613:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_lianhuashiliebiao.ccbi", this, gFontName.c_str());
+	Line 8787:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_lianhuashiliebiao1.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_DuanZaoLianHuaShi.cpp (2 hits)
+	Line 34: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/duanzao_lianhuashiliebiao.ccbi", this);
+	Line 220: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/duanzao_lianhuashiliebiao1.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_EmailLayer.cpp (1 hit)
+	Line 33: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/shejiao_fasongyoujian.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_EnterPetCopyLayer.cpp (1 hit)
+	Line 38: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/tishiScreen7.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ExtractPetLayer.cpp (1 hit)
+	Line 42: 		CCNode* pNode = pReader->readNodeGraphFromFile("ccb/huodong_chongwuchouqu.ccbi",this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_FBAccountLayer.cpp (1 hit)
+	Line 237:             CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_tongguanjiangli.ccbi", this, gFontName.c_str(), 0, 2);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_FishingAbout.cpp (5 hits)
+	Line 37:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_diaoyu4.ccbi", this, gFontName.c_str(), 0, 1);
+	Line 258:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_diaoyu2.ccbi", this, gFontName.c_str());
+	Line 470:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_diaoyu1.ccbi", this, gFontName.c_str());
+	Line 679:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_diaoyu3.ccbi", this, gFontName.c_str());
+	Line 894:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_kunlunfangjian.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_FishingControl.cpp (1 hit)
+	Line 37: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/huodong_diaoyu4.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_FishingOtherBasket.cpp (1 hit)
+	Line 31: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/huodong_diaoyu2.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_FishingOtherInfo.cpp (1 hit)
+	Line 27: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/huodong_diaoyu1.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_FishingRome.cpp (1 hit)
+	Line 27: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/huodong_kunlunfangjian.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_FishingSelfBasket.cpp (1 hit)
+	Line 32: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/huodong_diaoyu3.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_FixWeaponLayer.cpp (1 hit)
+	Line 15:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hero_bag_xiuli.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_gamePersonalShopItem.cpp (1 hit)
+	Line 23: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/wodedianpu_wupin.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_gamePersonalShopPet.cpp (1 hit)
+	Line 29: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/wodedianpu_chongwu.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_gamePersonShop.cpp (2 hits)
+	Line 39: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/basicLayer.ccbi", this);
+	Line 60: 		node2 = ccbReader2->readNodeGraphFromFile("ccb/wodedianpu_wupinlan.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_GuessFitGameLayer.cpp (1 hit)
+	Line 40: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/huodong_chuangguan03.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_HeChengLayer.cpp (6 hits)
+	Line 38:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str(), ccbiNodeTag, 1);
+	Line 384:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hecheng_shipinhecheng.ccbi", this, gFontName.c_str());
+	Line 891:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hecheng_shipinshengji.ccbi", this, gFontName.c_str());
+	Line 1467:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hecheng_lianhuashihecheng.ccbi", this, gFontName.c_str());
+	Line 1860:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hecheng_shuxingfuzhuo.ccbi", this, gFontName.c_str());
+	Line 2247:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hecheng_shuxingchaifen.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroBag.cpp (1 hit)
+	Line 28: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/hero_bag.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroBagEquipLayer.cpp (1 hit)
+	Line 43: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/hero_bag_equip.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroBagLayer.cpp (1 hit)
+	Line 43: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/hero_bag.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroBagWithHeChengLayer.cpp (1 hit)
+	Line 38:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str(), 222);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_HeroCopyLayer.cpp (1 hit)
+	Line 18: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/fuben.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroDevilBodyLayer.cpp (1 hit)
+	Line 42: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/hero_lianti.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroLayer.cpp (6 hits)
+	Line 54:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str(), tag_ccbinode);
+	Line 399:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hero_bag.ccbi", this, gFontName.c_str());
+	Line 655:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hero_bag_equip.ccbi", this, gFontName.c_str());
+	Line 1006:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hero_bag.ccbi", this, gFontName.c_str());
+	Line 1432:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hero_skill.ccbi", this, gFontName.c_str());
+	Line 2099:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hero_task.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroMainLayer.cpp (4 hits)
+	Line 45:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str(), 222);
+	Line 233:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hero_medal.ccbi", this, gFontName.c_str());
+	Line 813:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hero_lianti.ccbi", this, gFontName.c_str());
+	Line 1140:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hero_state.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroMedalLayer.cpp (1 hit)
+	Line 38: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/hero_medal.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroPetMainShow.cpp (1 hit)
+	Line 24:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/Pet_touxiangkuang.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroSkillLayer.cpp (1 hit)
+	Line 26: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/hero_skill.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroSkillUpLayer.cpp (1 hit)
+	Line 38: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/hero_skill.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroStateLayer.cpp (1 hit)
+	Line 27: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/hero_state.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroTaskLayer.cpp (1 hit)
+	Line 37: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/hero_task.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_horseMainLayer.cpp (4 hits)
+	Line 41:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str(), 222);
+	Line 243:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/zuoqi_jibenshuxing.ccbi", this, gFontName.c_str());
+	Line 508:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/zuoqi_qianghua.ccbi", this, gFontName.c_str());
+	Line 820:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/zuoqi_jinjie.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_horseStateLayer.cpp (1 hit)
+	Line 29: 		CCNode* pNode = pReader->readNodeGraphFromFile("ccb/zuoqi_jibenshuxing.ccbi",this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_horseStrengthenLayer.cpp (1 hit)
+	Line 28: 		CCNode* pNode = pReader->readNodeGraphFromFile("ccb/zuoqi_qianghua.ccbi",this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_HuoDongPaiHang.cpp (3 hits)
+	Line 57:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_kaifuhuodong.ccbi", this, gFontName.c_str());
+	Line 678:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_kaifuhuodong2.ccbi", this, gFontName.c_str());
+	Line 809:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_kaifuhuodong3.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_interactLayer.cpp (1 hit)
+	Line 21:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/npc_jiaohu.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ItemInfoLayer.cpp (1 hit)
+	Line 82:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/wupin_popup.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ItemLabelCell.cpp (1 hit)
+	Line 21:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_itemcell.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ItemOrSkillRecvNotify.cpp (1 hit)
+	Line 28:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tuisongjiemian.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_JiFenMainLayer.cpp (2 hits)
+	Line 44: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/huodong_jifenrenwu.ccbi", this);
+	Line 458: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/huodong_jifenrenwu1.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_KunLunShan.cpp (4 hits)
+	Line 41:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_kuilunshang.ccbi", this, gFontName.c_str(), 0, 1);
+	Line 373:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_kuilunshang_paihang.ccbi", this, gFontName.c_str(), 0, 1);
+	Line 500:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_kuilunshang_renwu.ccbi", this, gFontName.c_str(), 0, 1);
+	Line 616:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_kunlunfangjian.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_LearnSkillLayer.cpp (1 hit)
+	Line 27:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/learnSkill_popup.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_LeiTaiLayer.cpp (2 hits)
+	Line 22:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_gerenleitai.ccbi", this, gFontName.c_str());
+	Line 170:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_kuilunshang_paihang.ccbi", this, gFontName.c_str(), 0, 1);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_LevelUpNotify.cpp (2 hits)
+	Line 76:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tishiScreen8.ccbi", this, gFontName.c_str());
+	Line 136:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tishiScreen6.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_LevelUpReward.cpp (1 hit)
+	Line 40:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_dengjilibao.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_MarketDaoJu.cpp (1 hit)
+	Line 46: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/shangcheng1.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_MarketMainLayer.cpp (3 hits)
+	Line 51:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str(), 222);
+	Line 248:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/shangcheng1.ccbi", this, gFontName.c_str());
+	Line 993:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_chongwuchouqu.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_NormalCopyLayer.cpp (1 hit)
+	Line 34: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/fuben.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_NotifyLayer.cpp (6 hits)
+	Line 27:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tishiScreen3_960.ccbi", this, gFontName.c_str());
+	Line 176:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tishiScreen.ccbi", this, gFontName.c_str());
+	Line 309:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tishiScreen2.ccbi", this, gFontName.c_str());
+	Line 515:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tishiScreen4.ccbi", this, gFontName.c_str());
+	Line 697:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tishiScreen5.ccbi", this, gFontName.c_str());
+	Line 832:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_diaoyan.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_NotifyLayer0.cpp (1 hit)
+	Line 22: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/tishiScreen3_960.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_NotifyLayer1.cpp (1 hit)
+	Line 24: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/tishiScreen.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_NotifyLayer2.cpp (1 hit)
+	Line 31: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/tishiScreen2.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_NotifyLayer3.cpp (1 hit)
+	Line 29: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/tishiScreen4.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_NotifyLayer4.cpp (1 hit)
+	Line 24: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/tishiScreen5.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_NotifyLayer5.cpp (1 hit)
+	Line 27: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/huodong_diaoyan.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_onhookLayer.cpp (1 hit)
+	Line 30: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/guaji.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_onHookSkillLayer.cpp (1 hit)
+	Line 24: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/guaji_jinengshezhi.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_OutLineExp.cpp (1 hit)
+	Line 43:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/lixianjingyan_new.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PaoHuanMainLayer.cpp (4 hits)
+	Line 68:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_meiripaohuan.ccbi", this, gFontName.c_str());
+	Line 466:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_meiripaohuan1.ccbi", this, gFontName.c_str());
+	Line 655:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_meiripaohuan4.ccbi", this, gFontName.c_str());
+	Line 876:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_meiripaohuan5.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PayFirstTimeLayer.cpp (2 hits)
+	Line 47:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/shouchong.ccbi", this, gFontName.c_str());
+	Line 238:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_chongzhi3.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PaymentTaocanCell.cpp (1 hit)
+	Line 35: 		CCNode* pNode = ccbReader->readNodeGraphFromFile("ccb/huodong_chaojitehui1.ccbi",this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PaymentTaocanLayer.cpp (2 hits)
+	Line 46:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_chaojitehui.ccbi", this, gFontName.c_str());
+	Line 269:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_chaojitehui1.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PetAptitudeLayer.cpp (1 hit)
+	Line 50: 		CCNode* pNode = pReader->readNodeGraphFromFile("ccb/pet_peiyang.ccbi",this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PetArmourLayer.cpp (2 hits)
+	Line 64: 		CCNode* pNode = pReader->readNodeGraphFromFile("ccb/pet_kaijia.ccbi",this);
+	Line 1574: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/pet_qianghuaxiaoguo.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_petAvolutionLayer.cpp (1 hit)
+	Line 57: 		CCNode* pNode = pReader->readNodeGraphFromFile("ccb/pet_jinhua.ccbi",this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_petCell.cpp (1 hit)
+	Line 23:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/pet_cell.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PetHeadCell.cpp (1 hit)
+	Line 12:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/pet_xiaokuang.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PetInfoLayer.cpp (1 hit)
+	Line 24:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/petSkill_pop1.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_petMainLayer.cpp (6 hits)
+	Line 97:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str(), 222);
+	Line 363:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/pet_state.ccbi", this, gFontName.c_str());
+	Line 1060:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/pet_jinhua.ccbi", this, gFontName.c_str());
+	Line 1889:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/pet_kaijia.ccbi", this, gFontName.c_str(), 10);
+	Line 3363:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/pet_qianghuaxiaoguo.ccbi", this, gFontName.c_str());
+	Line 3503:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/pet_skill.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PetShowLayer.cpp (1 hit)
+	Line 37:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_chouquchongwu.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_petSkillCell.cpp (1 hit)
+	Line 16:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/pet_jinengCell.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PetSkillLayer.cpp (1 hit)
+	Line 36: 		CCNode* pNode = pReader->readNodeGraphFromFile("ccb/pet_skill.ccbi",this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_petSkillPopLayer.cpp (1 hit)
+	Line 47:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/petSkill_pop.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PetStateLayer.cpp (1 hit)
+	Line 63: 		CCNode* pNode = pReader->readNodeGraphFromFile("ccb/pet_state.ccbi",this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PetTransferLayer.cpp (1 hit)
+	Line 35: 		CCNode* pNode = pReader->readNodeGraphFromFile("ccb/pet_zhuanyi.ccbi",this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PlayerInfoCell.cpp (1 hit)
+	Line 12:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_chuangguan02.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PlayerInfoLayer.cpp (1 hit)
+	Line 33:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/juese.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_playerInteractLayer.cpp (1 hit)
+	Line 21:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tishiScreen10.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PopBasicLayer.cpp (1 hit)
+	Line 12:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/pet_xuexijineng.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_popBlankListLayer.cpp (1 hit)
+	Line 27:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/shitubang.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_popPetList.cpp (1 hit)
+	Line 16:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tishiScreen9_960.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_RankList.cpp (1 hit)
+	Line 86:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/paihangbang.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_RankListMainLayer.cpp (1 hit)
+	Line 30:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str(), 222);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_RecvOrFinishTaskLayer.cpp (1 hit)
+	Line 30:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/npc_jiaohu.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_SaveTradeLayer.cpp (1 hit)
+	Line 42:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/jiaoyi.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_SetpTargetMain.cpp (2 hits)
+	Line 61:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_shifanshenqi.ccbi", this, gFontName.c_str());
+	Line 1045:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/wupin_popup.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_SevenDayLogin.cpp (1 hit)
+	Line 31:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_7rilibao.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ShengQiMainLayer.cpp (3 hits)
+	Line 35:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str());
+	Line 228:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_shenqixinxi.ccbi", this, gFontName.c_str());
+	Line 561:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_shenqi_cell.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_shopBankLayer.cpp (1 hit)
+	Line 34: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/hero_bag_shop.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_shopMainLayer.cpp (1 hit)
+	Line 27:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_showEmailDetail.cpp (1 hit)
+	Line 30: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/shejiao_chakanyoujian.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_socialSystemLayer.cpp (4 hits)
+	Line 46:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str(), 200);
+	Line 320:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/shejiao_chakanyoujian.ccbi", this, gFontName.c_str());
+	Line 699:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/shejiao_fasongyoujian.ccbi", this, gFontName.c_str());
+	Line 1015:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hero_bag_shop.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_SpacialItemInfoLayer.cpp (1 hit)
+	Line 15:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_meiripaohuan_tishi.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_SpecialInteractLayer.cpp (1 hit)
+	Line 18:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/npc_duihuakuang.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_StepTargetListSinger.cpp (1 hit)
+	Line 262: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/wupin_popup.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_StrongItem.cpp (1 hit)
+	Line 19: 		CCNode *node = ccbReader->readNodeGraphFromFile("ccb/bianqiang_xiaokuang.ccbi",this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_TaskTrackLayer.cpp (1 hit)
+	Line 51:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/renwuzhuizong.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_TeamLayer.cpp (2 hits)
+	Line 40: 		if(SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str()) == false)
+	Line 44:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duiwu.ccbi", this, gFontName.c_str(), 222);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_VipLayer.cpp (1 hit)
+	Line 40:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/VIP_guibing_new.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_WanFa.cpp (7 hits)
+	Line 92:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_chuangguan01.ccbi", this, gFontName.c_str());
+	Line 647:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/lingqijuanxian.ccbi", this, gFontName.c_str());
+	Line 1100:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/dati.ccbi", this, gFontName.c_str());
+	Line 1424:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_meiriqiandao.ccbi", this, gFontName.c_str());
+	Line 2353:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_meiriqiandao1.ccbi", this, gFontName.c_str());
+	Line 2467:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_meiribizuo.ccbi", this, gFontName.c_str());
+	Line 3350:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_chuangguan03.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_weaponShopLayer.cpp (1 hit)
+	Line 19: 		CCNode * node = ccbReader->readNodeGraphFromFile("ccb/hero_bag.ccbi", this);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ZiChongZhuZhen.cpp (2 hits)
+	Line 22:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_shenchongzhuzhen.ccbi", this, gFontName.c_str());
+	Line 214:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_shenchongzhuzhen1.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\BangPaiLayer.cpp (11 hits)
+	Line 45:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str());
+	Line 342:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/bangpai.ccbi", this, gFontName.c_str());
+	Line 610:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/bangpai_chengyuan.ccbi", this, gFontName.c_str());
+	Line 1202:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/bangpai_liebiao.ccbi", this, gFontName.c_str());
+	Line 1462:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/bangpai_chuangjian.ccbi", this, gFontName.c_str());
+	Line 1682:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/bangpai_xinxi.ccbi", this, gFontName.c_str());
+	Line 1817:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/bangpai_rubangshenqing.ccbi", this, gFontName.c_str());
+	Line 2057:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/bangpai_tiaozhengzhiwei.ccbi", this, gFontName.c_str());
+	Line 2213:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/bangpai_fujinwanjia.ccbi", this, gFontName.c_str());
+	Line 2442:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/bangpai_yaoqing.ccbi", this, gFontName.c_str());
+	Line 2644:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/text_input_dialog.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\BasicDialog.cpp (1 hit)
+	Line 12:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/pet_xuexijineng.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\BattleHeroHeadCell.cpp (1 hit)
+	Line 26:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/wanjia_tongxiangkuang.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\BattleOptionLayer.cpp (1 hit)
+	Line 23:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/battle_zhaohuanchongwu.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\BeStrongLayer.cpp (2 hits)
+	Line 33:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/bianqiang_dikuang.ccbi", this, gFontName.c_str());
+	Line 201:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/bianqiang_xiaokuang.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\BlankListDialog.cpp (1 hit)
+	Line 26:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/shitubang.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\Chat\ChatMainLayer.cpp (1 hit)
+	Line 28:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str(), ccbiNodeTag, 1);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\Chat\ChatMiniShowLayer.cpp (1 hit)
+	Line 19:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/liaotian_duihuakuang.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\Chat\ChatPage.cpp (1 hit)
+	Line 49:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/liaotian.ccbi", this, gFontName.c_str(), ccbinodeTag, 1);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\Chat\ChatSetLayer.cpp (1 hit)
+	Line 23:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/liaotian_shezhi.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ClimbTowerLayer.cpp (3 hits)
+	Line 54:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_tongtianta.ccbi", this, gFontName.c_str());
+	Line 492:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_tongtianta1.ccbi", this, gFontName.c_str());
+	Line 819:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_tongtianta2.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\CompeteMainLayer.cpp (4 hits)
+	Line 39:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str());
+	Line 305:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/jingji_yingxiongbang.ccbi", this, gFontName.c_str());
+	Line 440:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/jingji_jilu.ccbi", this, gFontName.c_str());
+	Line 583:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/jingji_shangdian.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\CompeteRankWarPage.cpp (1 hit)
+	Line 43:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/jingji.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ConvoyLayer.cpp (2 hits)
+	Line 37:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_husongshenshou.ccbi", this, gFontName.c_str());
+	Line 306:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_husongshenshou1.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\CopyAccountDialog.cpp (1 hit)
+	Line 207:             CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_tongguanjiangli.ccbi", this, gFontName.c_str(), 0, 2);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\CopyLayer.cpp (5 hits)
+	Line 43:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str());
+	Line 191:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/fuben.ccbi", this, gFontName.c_str());
+	Line 523:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/fuben_renwukuang.ccbi", this, gFontName.c_str());
+	Line 655:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_guajisaodang1.ccbi", this, gFontName.c_str());
+	Line 1049:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tishiScreen7.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\CopySelPetLayer.cpp (2 hits)
+	Line 22:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_shenchongzhuzhen.ccbi", this, gFontName.c_str());
+	Line 214:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_shenchongzhuzhen1.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\DailyBossLayer.cpp (4 hits)
+	Line 51:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_meiripaohuan.ccbi", this, gFontName.c_str());
+	Line 476:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_meiripaohuan1.ccbi", this, gFontName.c_str());
+	Line 665:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_meiripaohuan4.ccbi", this, gFontName.c_str());
+	Line 869:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_meiripaohuan5.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\FishingLayer.cpp (5 hits)
+	Line 26:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_diaoyu4.ccbi", this, gFontName.c_str(), 0, 1);
+	Line 219:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_diaoyu2.ccbi", this, gFontName.c_str());
+	Line 404:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_diaoyu1.ccbi", this, gFontName.c_str());
+	Line 586:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_diaoyu3.ccbi", this, gFontName.c_str());
+	Line 770:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_kunlunfangjian.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\GameMenu.cpp (1 hit)
+	Line 74:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/mainScreen960.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\HelpLayer.cpp (1 hit)
+	Line 35:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/shezhi_youxibangzhu.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\HeroBagItemHeChengLayer.cpp (1 hit)
+	Line 37:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str(), 222);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\HeroInfoCell.cpp (1 hit)
+	Line 12:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_chuangguan02.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\HeroInfoDialog.cpp (6 hits)
+	Line 43:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hero_info.ccbi", this, gFontName.c_str());
+	Line 218:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hero_renwu.ccbi", this, gFontName.c_str());
+	Line 394:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hero_pet.ccbi", this, gFontName.c_str());
+	Line 607:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/pet_cell2.ccbi", this, gFontName.c_str());
+	Line 669:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/zuoqi_skill.ccbi", this, gFontName.c_str());
+	Line 838:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/chongwukaijia_skill.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\HeroInteractDialog.cpp (1 hit)
+	Line 21:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tishiScreen10.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\HeroLayer.cpp (4 hits)
+	Line 42:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str(), 222);
+	Line 222:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hero_medal.ccbi", this, gFontName.c_str());
+	Line 713:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hero_lianti.ccbi", this, gFontName.c_str());
+	Line 1034:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hero_state.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\HeroSinglePageLayer.cpp (6 hits)
+	Line 49:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str(), tag_ccbinode);
+	Line 383:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hero_bag.ccbi", this, gFontName.c_str());
+	Line 637:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hero_bag_equip.ccbi", this, gFontName.c_str());
+	Line 987:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hero_bag.ccbi", this, gFontName.c_str());
+	Line 1414:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hero_skill.ccbi", this, gFontName.c_str());
+	Line 2075:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hero_task.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\HorseLayer.cpp (4 hits)
+	Line 39:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str(), 222);
+	Line 240:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/zuoqi_jibenshuxing.ccbi", this, gFontName.c_str());
+	Line 503:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/zuoqi_qianghua.ccbi", this, gFontName.c_str());
+	Line 815:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/zuoqi_jinjie.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ImproveLayer.cpp (1 hit)
+	Line 34:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tisheng.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ItemBriefInfoDialog.cpp (1 hit)
+	Line 15:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_meiripaohuan_tishi.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ItemDuanZaoLayer.cpp (14 hits)
+	Line 172:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str(), TAG_CCBI_NODE, 1);
+	Line 614:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_qianghua.ccbi", this, gFontName.c_str(), TAG_IMOD, 1);
+	Line 1707:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_shengji.ccbi", this, gFontName.c_str());
+	Line 2290:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_hecheng.ccbi", this, gFontName.c_str());
+	Line 2718:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_dikuang.ccbi", this, gFontName.c_str());
+	Line 3495:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_xuanze.ccbi", this, gFontName.c_str());
+	Line 3624:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_mingwen.ccbi", this, gFontName.c_str());
+	Line 3914:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_mingwen1.ccbi", this, gFontName.c_str());
+	Line 3982:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_mingwen5.ccbi", this, gFontName.c_str());
+	Line 4069:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_mingwen2.ccbi", this, gFontName.c_str());
+	Line 4244:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_mingwen3.ccbi", this, gFontName.c_str());
+	Line 4443:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_mingwen4.ccbi", this, gFontName.c_str());
+	Line 4692:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_lianhuashiliebiao.ccbi", this, gFontName.c_str());
+	Line 4862:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_lianhuashiliebiao1.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ItemFixLayer.cpp (1 hit)
+	Line 15:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hero_bag_xiuli.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ItemHeChengLayer.cpp (6 hits)
+	Line 37:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str(), ccbiNodeTag, 1);
+	Line 362:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hecheng_shipinhecheng.ccbi", this, gFontName.c_str());
+	Line 834:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hecheng_shipinshengji.ccbi", this, gFontName.c_str());
+	Line 1376:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hecheng_lianhuashihecheng.ccbi", this, gFontName.c_str());
+	Line 1735:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hecheng_shuxingfuzhuo.ccbi", this, gFontName.c_str());
+	Line 2109:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hecheng_shuxingchaifen.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ItemInfoDialog.cpp (1 hit)
+	Line 79:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/wupin_popup.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ItemLabelCell.cpp (1 hit)
+	Line 21:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duanzao_itemcell.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ItemOrSkillRecvDialog.cpp (1 hit)
+	Line 39:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tuisongjiemian.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\KunLunShanLayer.cpp (4 hits)
+	Line 41:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_kuilunshang.ccbi", this, gFontName.c_str(), 0, 1);
+	Line 368:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_kuilunshang_paihang.ccbi", this, gFontName.c_str(), 0, 1);
+	Line 495:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_kuilunshang_renwu.ccbi", this, gFontName.c_str(), 0, 1);
+	Line 611:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_kunlunfangjian.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\LeiTaiLayer.cpp (2 hits)
+	Line 22:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_gerenleitai.ccbi", this, gFontName.c_str());
+	Line 170:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_kuilunshang_paihang.ccbi", this, gFontName.c_str(), 0, 1);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\LevelUpDialog.cpp (2 hits)
+	Line 62:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tishiScreen8.ccbi", this, gFontName.c_str());
+	Line 148:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tishiScreen6.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\LoginAccountSafeLayer.cpp (1 hit)
+	Line 19:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/zhanghaoanquan.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\LoginChooseHeroLayer.cpp (1 hit)
+	Line 20:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/xuanzejuese.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\LoginCreateHeroLayer.cpp (1 hit)
+	Line 39:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/jiaosexuanze1.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\LoginGetBackAccountLayer.cpp (1 hit)
+	Line 17:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/zhaohuizhangmi.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\LoginInputAccountLayer.cpp (1 hit)
+	Line 51:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/denglu2_960.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\LoginModifyLayer.cpp (3 hits)
+	Line 24: 			FileName.append("xiugaimima.ccbi");
+	Line 27: 			FileName.append("zhanghaobangding.ccbi");
+	Line 30: 			FileName.append("jiechubangding.ccbi");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\LoginRegLayer.cpp (1 hit)
+	Line 32:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/denglu3.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\LoginSelectServerLayer.cpp (1 hit)
+	Line 32:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/xuanzefuwuqi.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\LoginUserProtocolLayer.cpp (1 hit)
+	Line 21:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/yonghuxieyi.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\MarketLayer.cpp (3 hits)
+	Line 46:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str(), 222);
+	Line 229:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/shangcheng1.ccbi", this, gFontName.c_str());
+	Line 851:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_chongwuchouqu.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\NotificationLayer.cpp (1 hit)
+	Line 22:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/yonghuxieyi.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\NotifyDialog.cpp (7 hits)
+	Line 29:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tishiScreen3_960.ccbi", this, gFontName.c_str());
+	Line 178:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tishiScreen.ccbi", this, gFontName.c_str());
+	Line 310:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tishiScreen2.ccbi", this, gFontName.c_str());
+	Line 508:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tishiScreen4.ccbi", this, gFontName.c_str());
+	Line 690:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tishiScreen5.ccbi", this, gFontName.c_str());
+	Line 825:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_diaoyan.ccbi", this, gFontName.c_str());
+	Line 1004:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tishiScreen_convoy.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\NPCInteractDialog.cpp (1 hit)
+	Line 31:     _CCBINode = SystemHelper::LoadCCBI("ccb/npc_jiaohu.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PayFirstLayer.cpp (2 hits)
+	Line 47:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/shouchong.ccbi", this, gFontName.c_str());
+	Line 260:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_chongzhi3.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PayLayer.cpp (3 hits)
+	Line 24:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_chongzhi.ccbi", this, gFontName.c_str(), 0, 1);
+	Line 154:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_chongzhi1.ccbi", this, gFontName.c_str(), 0, 1);
+	Line 365:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_chongzhi2.ccbi", this, gFontName.c_str(), 0, 1);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PayTaocanLayer.cpp (2 hits)
+	Line 43:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_chaojitehui.ccbi", this, gFontName.c_str());
+	Line 261:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_chaojitehui1.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PetHeadCell.cpp (1 hit)
+	Line 12:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/pet_xiaokuang.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PetHeadLayer.cpp (1 hit)
+	Line 22:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/Pet_touxiangkuang.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PetInfoCell.cpp (1 hit)
+	Line 22:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/pet_cell.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PetInfoDialog.cpp (1 hit)
+	Line 23:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/petSkill_pop1.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PetLayer.cpp (8 hits)
+	Line 93:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str(),TAG_CCBINODE);
+	Line 335:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/pet_state.ccbi", this, gFontName.c_str());
+	Line 888:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/pet_jinhua.ccbi", this, gFontName.c_str());
+	Line 1661:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/pet_kaijia.ccbi", this, gFontName.c_str(), 10);
+	Line 3092:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/pet_qianghuaxiaoguo.ccbi", this, gFontName.c_str());
+	Line 3231:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/pet_skill.ccbi", this, gFontName.c_str());
+	Line 3770:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/pet_shengji.ccbi", this, gFontName.c_str());
+	Line 4034:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/pet_huanhua.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PetListDialog.cpp (1 hit)
+	Line 13:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/tishiScreen9_960.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PetShowLayer.cpp (1 hit)
+	Line 37:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_chouquchongwu.ccbi", this, gFontName.c_str(), TAG_CCBINODE);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PetSkillCell.cpp (1 hit)
+	Line 16:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/pet_jinengCell.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PetSkillDialog.cpp (1 hit)
+	Line 44:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/petSkill_pop.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\RankListLayer.cpp (1 hit)
+	Line 28:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str(), 222);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\RankListPage.cpp (1 hit)
+	Line 29:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/paihangbang.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ResourceLoadLayer.cpp (1 hit)
+	Line 83:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/loading2.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\SaveTradeLayer.cpp (1 hit)
+	Line 43:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/jiaoyi.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ShenQiLayer.cpp (3 hits)
+	Line 34:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str());
+	Line 223:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_shenqixinxi.ccbi", this, gFontName.c_str());
+	Line 556:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_shenqi_cell.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ShopLayer.cpp (1 hit)
+	Line 27:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\SkillLearnDialog.cpp (1 hit)
+	Line 27:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/learnSkill_popup.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\SocialLayer.cpp (4 hits)
+	Line 44:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str(), 200);
+	Line 304:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/shejiao_chakanyoujian.ccbi", this, gFontName.c_str());
+	Line 683:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/shejiao_fasongyoujian.ccbi", this, gFontName.c_str());
+	Line 999:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/hero_bag_shop.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\StageGoalLayer.cpp (2 hits)
+	Line 58:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_shifanshenqi.ccbi", this, gFontName.c_str());
+	Line 963:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/wupin_popup.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\StarAwardDialog.cpp (1 hit)
+	Line 36:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_wanmeitongguan.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\SysSetLayer.cpp (2 hits)
+	Line 52:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/shezhi_xitongshezhi.ccbi", this, gFontName.c_str());
+	Line 506:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/shezhi_lianxiwomen.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\TaskTrackLayer.cpp (1 hit)
+	Line 43:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/renwuzhuizong.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\TeamLayer.cpp (2 hits)
+	Line 37: 		if(SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str()) == false)
+	Line 41:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/duiwu.ccbi", this, gFontName.c_str(), 222);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ViewAllWorldLayer.cpp (1 hit)
+	Line 30:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/ditu_shijie.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ViewCurrMapLayer.cpp (1 hit)
+	Line 52:         CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/ditu_dangqian.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\VipLayer.cpp (1 hit)
+	Line 40:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/VIP_guibing_new.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\WanFaLayer.cpp (8 hits)
+	Line 89:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_chuangguan01.ccbi", this, gFontName.c_str());
+	Line 608:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/lingqijuanxian.ccbi", this, gFontName.c_str());
+	Line 1078:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/dati.ccbi", this, gFontName.c_str());
+	Line 1408:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_meiriqiandao.ccbi", this, gFontName.c_str());
+	Line 2314:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_meiriqiandao1.ccbi", this, gFontName.c_str());
+	Line 2393:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_meiribizuo.ccbi", this, gFontName.c_str());
+	Line 3312:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_chuangguan03.ccbi", this, gFontName.c_str());
+	Line 3673:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/basicLayer.ccbi", this, gFontName.c_str(), TAG_CCBINODE);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\WelcomeDialog.cpp (1 hit)
+	Line 17:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/npc_duihuakuang.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\WelfareKaifuLayer.cpp (3 hits)
+	Line 54:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_kaifuhuodong.ccbi", this, gFontName.c_str());
+	Line 673:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_kaifuhuodong2.ccbi", this, gFontName.c_str());
+	Line 787:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_kaifuhuodong3.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\WelfareLevelUpLayer.cpp (1 hit)
+	Line 40:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_dengjilibao.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\WelfareLoginSerialLayer.cpp (1 hit)
+	Line 26:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_denglulibao.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\WelfareOffLineExpLayer.cpp (1 hit)
+	Line 42:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/lixianjingyan_new.ccbi", this, gFontName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\WelfareSevenDayLoginLayer.cpp (1 hit)
+	Line 30:     CCNode* ccbiNode = SystemHelper::LoadCCBI("ccb/huodong_7rilibao.ccbi", this, gFontName.c_str());

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>biaoti_228.png</key>
+	<string>22</string>
+	<key>cancelButton_nor.png</key>
+	<string>73</string>
+	<key>cancelButton_sel.png</key>
+	<string>72</string>
+	<key>contentBkg.png</key>
+	<string>48</string>
+	<key>detailBkg.png</key>
+	<string>53</string>
+	<key>duabzao_diwen.png</key>
+	<string>10</string>
+	<key>fenge_xian.png</key>
+	<string>10</string>
+	<key>fontBkg_sel.png</key>
+	<string>24</string>
+	<key>hongsubButton_hui.png</key>
+	<string>48</string>
+	<key>hongsubButton_nor.png</key>
+	<string>48</string>
+	<key>hongsubButton_sel.png</key>
+	<string>47</string>
+	<key>inputFrame.png</key>
+	<string>17</string>
+	<key>logBkg.png</key>
+	<string>43</string>
+	<key>moji_diwen.png</key>
+	<string>10</string>
+	<key>objectFrame.png</key>
+	<string>43</string>
+	<key>objectFrame_hui.png</key>
+	<string>10</string>
+	<key>objectFrame_selected.png</key>
+	<string>18</string>
+	<key>ok.png</key>
+	<string>10</string>
+	<key>popupBkg.png</key>
+	<string>13</string>
+	<key>shuzhi_diwenlan.png</key>
+	<string>37</string>
+	<key>star.png</key>
+	<string>11</string>
+	<key>subButton_hui.png</key>
+	<string>10</string>
+	<key>subButton_nor.png</key>
+	<string>35</string>
+	<key>subButton_sel.png</key>
+	<string>35</string>
+	<key>tbaoIcon_nor.png</key>
+	<string>11</string>
+	<key>tishi_logBkg.png</key>
+	<string>11</string>
+	<key>titleBkg_top.png</key>
+	<string>53</string>
+	<key>zhandouli_labelfont.png</key>
+	<string>11</string>
+</dict>
+</plist>

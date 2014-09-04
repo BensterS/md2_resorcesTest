@@ -1,0 +1,1856 @@
+Search "spriteFrameByName" (679 hits in 108 files)
+  C:\Users\Administrator\Desktop\aa\ark_control\ark_MiniMap.cpp (1 hit)
+	Line 238: 	CCSprite* mapSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("mapBkg.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_control\ImageNumConsole.cpp (1 hit)
+	Line 92:         CCSpriteFrame* frame = CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(bitName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_battle\ark_battleOptionLayer.cpp (1 hit)
+	Line 92: 	m_titleSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(TitleFileName[optionType].c_str()));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_battle\ark_BattleTiming.cpp (6 hits)
+	Line 28: 	CCScale9Sprite *tenSpr = CCScale9Sprite::createWithSpriteFrame(cache->spriteFrameByName(tenName.c_str()));
+	Line 33: 	CCScale9Sprite *bitsSpr = CCScale9Sprite::createWithSpriteFrame(cache->spriteFrameByName(bitsName.c_str()));
+	Line 72: 	tenSpr->setSpriteFrame(cache->spriteFrameByName(tenName.c_str()));
+	Line 73: 	bitsSpr->setSpriteFrame(cache->spriteFrameByName(bitsName.c_str()));
+	Line 103: 	tenSpr->setSpriteFrame(cache->spriteFrameByName(tenName.c_str()));
+	Line 104: 	bitsSpr->setSpriteFrame(cache->spriteFrameByName(bitsName.c_str()));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_console\ark_ImageNumConsole.cpp (3 hits)
+	Line 36: 			nSpr->initWithSpriteFrame(cache->spriteFrameByName(pngStr.c_str()));
+	Line 86: 		nSpr1->initWithSpriteFrame(cache->spriteFrameByName(pngStr1.c_str()));
+	Line 98: 			nSpr->initWithSpriteFrame(cache->spriteFrameByName(pngStr.c_str()));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_console\ark_MessageDealManage.cpp (1 hit)
+	Line 5934: 		//notifyLayer->setTitleSprite(cache->spriteFrameByName("bangzhu_artFont.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_console\ImageNumConsole.cpp (3 hits)
+	Line 36: 			nSpr->initWithSpriteFrame(cache->spriteFrameByName(pngStr.c_str()));
+	Line 86: 		nSpr1->initWithSpriteFrame(cache->spriteFrameByName(pngStr1.c_str()));
+	Line 98: 			nSpr->initWithSpriteFrame(cache->spriteFrameByName(pngStr.c_str()));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_control\ark_EmptyLayer.cpp (1 hit)
+	Line 32: 	CCSpriteFrame *pSpriteFrame = cache->spriteFrameByName("listBkg.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_control\ark_ItemWithBg.cpp (16 hits)
+	Line 62: 				bgSpr->initWithSpriteFrame(cache->spriteFrameByName("baise_kung.mydp"));// 白
+	Line 76: 				bgSpr->initWithSpriteFrame(cache->spriteFrameByName("lvse_kung.mydp"));// 绿
+	Line 91: 				bgSpr->initWithSpriteFrame(cache->spriteFrameByName("lanse_kung.mydp"));// 篮
+	Line 106: 				bgSpr->initWithSpriteFrame(cache->spriteFrameByName("zise_kung.mydp"));// 紫
+	Line 120: 				bgSpr->initWithSpriteFrame(cache->spriteFrameByName("huangse_kung.mydp"));// 橙
+	Line 134: 				bgSpr->initWithSpriteFrame(cache->spriteFrameByName("jinse_kung.mydp"));// 金
+	Line 148: 				bgSpr->initWithSpriteFrame(cache->spriteFrameByName("fense_kung.mydp"));// 粉
+	Line 162: 				bgSpr->initWithSpriteFrame(cache->spriteFrameByName("hongse_kung.mydp"));// 红
+	Line 198: 				bgSpr->initWithSpriteFrame(cache->spriteFrameByName("baise_kung.mydp"));// 白
+	Line 212: 				bgSpr->initWithSpriteFrame(cache->spriteFrameByName("lvse_kung.mydp"));// 绿
+	Line 226: 				bgSpr->initWithSpriteFrame(cache->spriteFrameByName("lanse_kung.mydp"));// 篮
+	Line 241: 				bgSpr->initWithSpriteFrame(cache->spriteFrameByName("zise_kung.mydp"));// 紫
+	Line 255: 				bgSpr->initWithSpriteFrame(cache->spriteFrameByName("huangse_kung.mydp"));// 橙
+	Line 269: 				bgSpr->initWithSpriteFrame(cache->spriteFrameByName("jinse_kung.mydp"));// 金
+	Line 283: 				bgSpr->initWithSpriteFrame(cache->spriteFrameByName("fense_kung.mydp"));// 粉
+	Line 297: 				bgSpr->initWithSpriteFrame(cache->spriteFrameByName("hongse_kung.mydp"));// 红
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_control\ark_LabelAnalysisNode.cpp (1 hit)
+	Line 140: 					CCSprite *spr = CCSprite::createWithSpriteFrame(cacer->spriteFrameByName(FileName.c_str()));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_control\ark_LabelAnalysisNodeMiaoBian.cpp (1 hit)
+	Line 135: 					CCSprite *spr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(FileName.c_str()));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_gameAnnouncement.cpp (1 hit)
+	Line 38: 		this->m_xieyiSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("gonggao_artFont.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_gameUISelectServer.cpp (3 hits)
+	Line 55: 		lastServerSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("shurukuang_356.mydp"));
+	Line 288: 			CCSprite* pBtnBg= CCSprite::createWithSpriteFrame(cache->spriteFrameByName("shurukuang_356.mydp"));//CCSprite::create("UI/shurukuang_175.mydp");  // 按钮底图
+	Line 393: 		pBk->initWithSpriteFrame(cache->spriteFrameByName("shurukuang_356man.mydp"));//initWithFile("UI/shurukuang_175man.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_gameUIST.cpp (2 hits)
+	Line 99: 				pBackItem->setNormalSpriteFrame(cache->spriteFrameByName("denglu_nor.mydp"));
+	Line 100: 				pBackItem->setSelectedSpriteFrame(cache->spriteFrameByName("denglu_sel.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_heroChooseLayer.cpp (1 hit)
+	Line 62: 		zhiyeSpr =  CCSprite::createWithSpriteFrame(cache->spriteFrameByName(professionStr[profession].c_str()));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_heroCreateLayer.cpp (4 hits)
+	Line 300: 			Item->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(heroFileName_sel[i - 102].c_str()));
+	Line 301: 			Item->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(heroFileName_nor[i - 102].c_str()));
+	Line 303: 			Item->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(heroFileName_nor[i - 102].c_str()));
+	Line 304: 			Item->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(heroFileName_sel[i - 102].c_str()));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_MainMenuLayer.cpp (2 hits)
+	Line 2115: 			pImage->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("zisechongwu1_nor.mydp"));
+	Line 2116: 			pImage->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("zisechongwu1_sel.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\chat\ark_ChatMainLayer.cpp (3 hits)
+	Line 53: 			CCSpriteFrame *pSpriteFrame = cache->spriteFrameByName(TitleName[i][0]);
+	Line 90: 			CCSpriteFrame *pSpriteFrame = cache->spriteFrameByName(TitleName[m_selectIndex][0]);
+	Line 159: 	CCSpriteFrame *pSpriteFrame = cache->spriteFrameByName(TitleName[index][1]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\chat\ark_ExpressionLayer.cpp (2 hits)
+	Line 34: 		CCSpriteFrame *fream = cache->spriteFrameByName(FileName.c_str());
+	Line 36: 		CCSprite *spr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(FileName.c_str()));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_bangpaiLayer.cpp (25 hits)
+	Line 62: 			CCSpriteFrame *pSpriteFrame = cache->spriteFrameByName(TitleName[i][0]);
+	Line 120: 			CCSpriteFrame *pSpriteFrame = cache->spriteFrameByName(TitleName[m_selectIndex][0]);
+	Line 167: 	CCSpriteFrame *pSpriteFrame = cache->spriteFrameByName(TitleName[index][1]);
+	Line 799: 		CCSprite *pLine = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("panhang_line.mydp"));
+	Line 1320: 			CCSprite *pSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("yishenqing_artFont.mydp"));
+	Line 1351: 		CCSprite *pLine = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("panhang_line.mydp"));
+	Line 1437: 		CCSprite *pSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("yishenqing_artFont.mydp"));
+	Line 1922: 		CCSprite *pSprite1 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("subButton_nor.mydp"));
+	Line 1923: 		CCSprite *pSprite2 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("subButton_sel.mydp"));
+	Line 1924: 		CCSprite *pButtonSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("tongyi_buttonFont.mydp"));
+	Line 1935: 		pSprite1 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("subButton_nor.mydp"));
+	Line 1936: 		pSprite2 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("subButton_sel.mydp"));
+	Line 1937: 		pButtonSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("jujue_buttonFont.mydp"));
+	Line 1948: 		CCSprite *pLine = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("panhang_line.mydp"));
+	Line 2323: 		CCSprite *pSprite1 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("subButton_nor.mydp"));
+	Line 2324: 		CCSprite *pSprite2 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("subButton_sel.mydp"));
+	Line 2325: 		CCSprite *pButtonSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("yaoqingrubang_buttonFont.mydp"));
+	Line 2336: 		CCSprite *pLine = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("panhang_line.mydp"));
+	Line 2556: 		CCSprite *pSprite1 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("subButton_nor.mydp"));
+	Line 2557: 		CCSprite *pSprite2 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("subButton_sel.mydp"));
+	Line 2558: 		CCSprite *pButtonSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("tongyi_buttonFont.mydp"));
+	Line 2569: 		pSprite1 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("subButton_nor.mydp"));
+	Line 2570: 		pSprite2 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("subButton_sel.mydp"));
+	Line 2571: 		pButtonSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("jujue_buttonFont.mydp"));
+	Line 2582: 		CCSprite *pLine = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("panhang_line.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_BattleBossAnim.cpp (13 hits)
+	Line 175: 			this->m_Sprite1->initWithSpriteFrame(cache->spriteFrameByName("tongguanshibai.png"));
+	Line 189: 					this->m_Sprite1->initWithSpriteFrame(cache->spriteFrameByName("putong_tongguan.mydp"));
+	Line 190: 					this->m_Sprite2->initWithSpriteFrame(cache->spriteFrameByName("1xing_tongguang.mydp"));
+	Line 196: 					this->m_Sprite1->initWithSpriteFrame(cache->spriteFrameByName("putongjipou.mydp"));
+	Line 197: 					this->m_Sprite2->initWithSpriteFrame(cache->spriteFrameByName("1xing_jipo.mydp"));
+	Line 208: 				this->m_Sprite1->initWithSpriteFrame(cache->spriteFrameByName("wanmei_tongguan.mydp"));
+	Line 209: 				this->m_Sprite2->initWithSpriteFrame(cache->spriteFrameByName("2xing_tongguang.mydp"));
+	Line 215: 				 this->m_Sprite1->initWithSpriteFrame(cache->spriteFrameByName("jingyingjipou.mydp"));
+	Line 216: 				 this->m_Sprite2->initWithSpriteFrame(cache->spriteFrameByName("2xing_jipo.mydp"));
+	Line 228: 				this->m_Sprite1->initWithSpriteFrame(cache->spriteFrameByName("zhaosheng_tongguan.mydp"));
+	Line 229: 				this->m_Sprite2->initWithSpriteFrame(cache->spriteFrameByName("3xing_tongguang.mydp"));
+	Line 235: 				 this->m_Sprite1->initWithSpriteFrame(cache->spriteFrameByName("chaoshenjipou.mydp"));
+	Line 236: 				 this->m_Sprite2->initWithSpriteFrame(cache->spriteFrameByName("3xing_jipo.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_BattleBossPorck.cpp (1 hit)
+	Line 261: 		CCSprite *highSprite = CCSprite::createWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("fengbeng_xuanzhongkuang.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_CanImproveFunc.cpp (1 hit)
+	Line 197: 			CCSprite *listbgSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("tisheng_anjian_nor.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ChallengeHeroWarList.cpp (10 hits)
+	Line 44: 	CCSprite *bgSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("jingji_landikuang_nor.mydp"));
+	Line 51: 	CCSprite *bgHead = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("jinji_touxiangkuang.mydp"));
+	Line 89: 	CCSprite *headSprit = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(headPic.c_str()));
+	Line 104: 	CCSprite *diwenSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("moji_diwen.mydp"));
+	Line 110: 	CCSprite* zhandouliSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("zhandouli_labelfont.mydp"));
+	Line 131: 	CCSprite* shuzidiwenSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("shuzhi_diwenlan.mydp"));
+	Line 162: 	  CCSprite *btnTitle = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("paiweizhan_baizi.mydp"));
+	Line 176: 	  CCSprite *btnTitle = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("suijizhan_buttonFont.mydp"));
+	Line 180: 	  bgSprite->initWithSpriteFrame(cache->spriteFrameByName("jingji_landikuang_sel.mydp"));
+	Line 322: 		//spriteButton->initWithSpriteFrame(cache->spriteFrameByName("jingji_landikuang_sel.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ChallengeMainLayer.cpp (6 hits)
+	Line 78: 			LabelSpr[i] = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(ChallengeNorFileName[i].c_str()));
+	Line 84: 		LabelSpr[selectedBtn] = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(challengeSelFileName[selectedBtn].c_str()));
+	Line 109: 		LabelSpr[selectedBtn] = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(ChallengeNorFileName[selectedBtn].c_str()));
+	Line 115: 		LabelSpr[3- idx] = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(challengeSelFileName[3-idx].c_str()));
+	Line 886: 	CCScale9Sprite *bkgSpr = CCScale9Sprite::createWithSpriteFrame(cache->spriteFrameByName("contentBkg_1.mydp"));  // 底图
+	Line 941: 		CCSprite *hotSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("remaibiaoqian_new.mydp"));  // 是否是热卖商品
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_challengeMarket.cpp (2 hits)
+	Line 278: 	CCScale9Sprite *bkgSpr = CCScale9Sprite::createWithSpriteFrame(cache->spriteFrameByName("contentBkg_1.mydp"));  // 底图
+	Line 333: 		CCSprite *hotSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("remaibiaoqian_new.mydp"));  // 是否是热卖商品
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ChongZhiLayer.cpp (4 hits)
+	Line 66: 		pSprite->initWithSpriteFrame(cache->spriteFrameByName("petcellButton_sel.mydp"));
+	Line 74: 			pSprite->initWithSpriteFrame(cache->spriteFrameByName("petcellButton_nor.mydp"));
+	Line 501: 		CCSprite *pSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("petcellButton_nor.mydp"));
+	Line 502: 		CCSprite *pSprite1 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(frameName[i]));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_dailySignInLayer.cpp (14 hits)
+	Line 89: 		m_monthSprite[0]->initWithSpriteFrame(cache->spriteFrameByName(buf));
+	Line 92: 	m_monthSprite[1]->initWithSpriteFrame(cache->spriteFrameByName(buf));
+	Line 95: 	pSpr->initWithSpriteFrame(cache->spriteFrameByName("dot_sel.mydp"));
+	Line 141: 			pSprite->initWithSpriteFrame(cache->spriteFrameByName("yilingqu_zhang.mydp"));
+	Line 255: 		m_monthSprite[0]->initWithSpriteFrame(cache->spriteFrameByName(buf));
+	Line 258: 	m_monthSprite[1]->initWithSpriteFrame(cache->spriteFrameByName(buf));
+	Line 266: 			pSpr->initWithSpriteFrame(cache->spriteFrameByName("dot_sel.mydp"));
+	Line 397: 		pSprite->initWithSpriteFrame(cache->spriteFrameByName("yilingqu_zhang.mydp"));
+	Line 502: 			pSprite->initWithSpriteFrame(cache->spriteFrameByName("shenglandtiao_dise.mydp"));
+	Line 513: 			pSprite->initWithSpriteFrame(cache->spriteFrameByName("shenglandtiao_dise.mydp"));
+	Line 534: 			pSprite->initWithSpriteFrame(cache->spriteFrameByName("riqi_dikuang.mydp"));
+	Line 553: 				pSpr->initWithSpriteFrame(cache->spriteFrameByName("yiqian_artFont.mydp"));
+	Line 597: 				pSpr->initWithSpriteFrame(cache->spriteFrameByName("buqian_artFont.mydp"));
+	Line 623: 	pSpr->initWithSpriteFrame(cache->spriteFrameByName("yiqian_artFont.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_DuanZaoLayer.cpp (18 hits)
+	Line 195: 		CCSpriteFrame *pSpriteFrame = cache->spriteFrameByName(TitleName[i][0]);
+	Line 264: 			CCSpriteFrame *pSpriteFrame = cache->spriteFrameByName(TitleName[m_selectIndex][0]);
+	Line 491: 	CCSpriteFrame *pSpriteFrame = cache->spriteFrameByName(TitleName[index][1]);
+	Line 1482: 		notifyLayer->setTitleSprite(cache->spriteFrameByName("bangzhu_artFont.mydp"));
+	Line 2476: 		notifyLayer->setTitleSprite(cache->spriteFrameByName("bangzhu_artFont.mydp"));
+	Line 2672: 	CCSpriteFrame *pFrame = cache->spriteFrameByName("xiangqian_subButtonFont.mydp");
+	Line 2776: 	CCSpriteFrame *pFrame = cache->spriteFrameByName("xiangqian_subButtonFont.mydp");
+	Line 3191: 		notifyLayer->setTitleSprite(cache->spriteFrameByName("bangzhu_artFont.mydp"));
+	Line 3247: 					pFrame = cache->spriteFrameByName("dakong_buttonFont.mydp");	// 打孔
+	Line 3258: 						pFrame = cache->spriteFrameByName("tihuan_subButtonFont.mydp");
+	Line 3260: 						pFrame = cache->spriteFrameByName("xiangqian_subButtonFont.mydp");
+	Line 3385: 		CCSpriteFrame *pFrame = cache->spriteFrameByName("tihuan_subButtonFont.mydp");
+	Line 3490: 	CCSpriteFrame *pFrame = cache->spriteFrameByName("xiangqian_subButtonFont.mydp");
+	Line 3902: 		notifyLayer->setTitleSprite(cache->spriteFrameByName("bangzhu_artFont.mydp"));
+	Line 4769: 		notifyLayer->setTitleSprite(cache->spriteFrameByName("bangzhu_artFont.mydp"));
+	Line 8304:         notifyLayer->setTitleSprite(cache->spriteFrameByName("bangzhu_artFont.mydp"));
+	Line 8520:         notifyLayer->setTitleSprite(cache->spriteFrameByName("bangzhu_artFont.mydp"));
+	Line 8683: 		CCSpriteFrame *pFrame = cache->spriteFrameByName("xingyunfuliebiao_artFont.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_DuanZaoLianHuaShi.cpp (1 hit)
+	Line 112: 		CCSpriteFrame *pFrame = cache->spriteFrameByName("xingyunfuliebiao_artFont.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_FishingAbout.cpp (25 hits)
+	Line 92: 			yuGanSprite->initWithSpriteFrame(cache->spriteFrameByName("yugan_roundButton_sel.mydp"));
+	Line 100: 			yuGanSprite->initWithSpriteFrame(cache->spriteFrameByName("shouqi_roundButton_sel.mydp"));
+	Line 109: 		yuLanSprite->initWithSpriteFrame(cache->spriteFrameByName("wode_roundButton_sel.mydp"));
+	Line 144: 				 yuGanSprite->initWithSpriteFrame(cache->spriteFrameByName("yugan_roundButton_nor.mydp"));
+	Line 149: 				 yuGanSprite->initWithSpriteFrame(cache->spriteFrameByName("shouqi_roundButton_nor.mydp"));
+	Line 156: 		 yuLanSprite->initWithSpriteFrame(cache->spriteFrameByName("wode_roundButton_nor.mydp"));
+	Line 168: 	yuGanSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("yugan_roundButton_nor.mydp"));
+	Line 173: 	yuLanSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("wode_roundButton_nor.mydp"));
+	Line 181: 	//yuGanSprite->initWithSpriteFrame(cache->spriteFrameByName("yugan_roundButton_nor.mydp"));
+	Line 196: 			yuGanSprite->initWithSpriteFrame(cache->spriteFrameByName("yugan_roundButton_nor.mydp"));
+	Line 201: 			yuGanSprite->initWithSpriteFrame(cache->spriteFrameByName("shouqi_roundButton_nor.mydp"));
+	Line 365: 		CCSprite *fishBg = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("diaoyu_dikuang.mydp"));  // 鱼背景图
+	Line 410: 		CCSprite *LineSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("diaoyu_xian.mydp"));  // 分割线
+	Line 554: 		CCSprite *fishBg = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("diaoyu_dikuang.mydp"));  // 鱼背景图
+	Line 561: 			CCSprite * fish = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("yulan_roundButton_nor.mydp"));  // 鱼篮 有人是带色，无人灰掉
+	Line 578: 			CCSprite * fish = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("yulan_roundButton_hui.mydp"));  // 鱼篮 有人是带色，无人灰掉  
+	Line 591: 		CCSprite *LineSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("diaoyu_xian.mydp"));  // 分割线
+	Line 794: 		CCSprite *fishBg = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("diaoyu_dikuang.mydp"));  // 鱼背景图
+	Line 838: 		CCSprite *LineSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("diaoyu_xian.mydp"));  // 分割线
+	Line 917: 		TitleNameSpr->initWithSpriteFrame(cache->spriteFrameByName("xinghewan_titleFont.mydp"));
+	Line 1062: 			roombg->initWithSpriteFrame(cache->spriteFrameByName("fangjian_dikuang_sel.mydp"));
+	Line 1083: 			roombg->initWithSpriteFrame(cache->spriteFrameByName("fangjian_dikuang.mydp"));
+	Line 1096: 	CCSprite *roomBg = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("fangjian_dikuang.mydp"));
+	Line 1101: 	CCSprite *yulouSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("yulan_roundButton_nor.mydp"));  // 鱼篓
+	Line 1113: 	CCSprite *manSprBg = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("fangjian_dikuang.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_FishingControl.cpp (11 hits)
+	Line 97: 			yuGanSprite->initWithSpriteFrame(cache->spriteFrameByName("yugan_roundButton_sel.mydp"));
+	Line 105: 			yuGanSprite->initWithSpriteFrame(cache->spriteFrameByName("shouqi_roundButton_sel.mydp"));
+	Line 114: 		yuLanSprite->initWithSpriteFrame(cache->spriteFrameByName("wode_roundButton_sel.mydp"));
+	Line 149: 				 yuGanSprite->initWithSpriteFrame(cache->spriteFrameByName("yugan_roundButton_nor.mydp"));
+	Line 154: 				 yuGanSprite->initWithSpriteFrame(cache->spriteFrameByName("shouqi_roundButton_nor.mydp"));
+	Line 161: 		 yuLanSprite->initWithSpriteFrame(cache->spriteFrameByName("wode_roundButton_nor.mydp"));
+	Line 173: 	yuGanSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("yugan_roundButton_nor.mydp"));
+	Line 178: 	yuLanSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("wode_roundButton_nor.mydp"));
+	Line 186: 	//yuGanSprite->initWithSpriteFrame(cache->spriteFrameByName("yugan_roundButton_nor.mydp"));
+	Line 201: 			yuGanSprite->initWithSpriteFrame(cache->spriteFrameByName("yugan_roundButton_nor.mydp"));
+	Line 206: 			yuGanSprite->initWithSpriteFrame(cache->spriteFrameByName("shouqi_roundButton_nor.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_FishingOtherBasket.cpp (2 hits)
+	Line 156: 		CCSprite *fishBg = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("diaoyu_dikuang.mydp"));  // 鱼背景图
+	Line 201: 		CCSprite *LineSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("diaoyu_xian.mydp"));  // 分割线
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_FishingOtherInfo.cpp (4 hits)
+	Line 130: 		CCSprite *fishBg = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("diaoyu_dikuang.mydp"));  // 鱼背景图
+	Line 137: 			CCSprite * fish = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("yulan_roundButton_nor.mydp"));  // 鱼篮 有人是带色，无人灰掉
+	Line 154: 			CCSprite * fish = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("yulan_roundButton_hui.mydp"));  // 鱼篮 有人是带色，无人灰掉  
+	Line 167: 		CCSprite *LineSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("diaoyu_xian.mydp"));  // 分割线
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_FishingRome.cpp (6 hits)
+	Line 55: 			TitleNameSpr->initWithSpriteFrame(cache->spriteFrameByName("xinghewan_titleFont.mydp"));
+	Line 205: 			roombg->initWithSpriteFrame(cache->spriteFrameByName("fangjian_dikuang_sel.mydp"));
+	Line 226: 			roombg->initWithSpriteFrame(cache->spriteFrameByName("fangjian_dikuang.mydp"));
+	Line 239: 	CCSprite *roomBg = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("fangjian_dikuang.mydp"));
+	Line 244: 	CCSprite *yulouSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("yulan_roundButton_nor.mydp"));  // 鱼篓
+	Line 256: 	CCSprite *manSprBg = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("fangjian_dikuang.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_FishingSelfBasket.cpp (2 hits)
+	Line 157: 		CCSprite *fishBg = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("diaoyu_dikuang.mydp"));  // 鱼背景图
+	Line 201: 		CCSprite *LineSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("diaoyu_xian.mydp"));  // 分割线
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_gamePersonShop.cpp (3 hits)
+	Line 46: 			CCSprite *sprTitle= CCSprite::createWithSpriteFrame(cache->spriteFrameByName("gerendianpu_titleFont.mydp"));
+	Line 494: 					popLayer->SetTitleSprite(cache->spriteFrameByName("chongwuliebiao_artFont.mydp"));
+	Line 527: 						CCSpriteFrame *pFrame = cache->spriteFrameByName("quedingOK_buttonFont.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_HeChengLayer.cpp (3 hits)
+	Line 56: 		CCSpriteFrame *pSpriteFrame = cache->spriteFrameByName(TitleName[i][0]);
+	Line 124: 	CCSpriteFrame *pSpriteFrame = cache->spriteFrameByName(TitleName[index][1]);
+	Line 331: 			CCSpriteFrame *pSpriteFrame = cache->spriteFrameByName(TitleName[m_selectIndex][0]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroBag.cpp (2 hits)
+	Line 51: 		CCSprite *sprNormal = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("gerendianpu_roundButton_sel.mydp"));
+	Line 52: 		CCSprite *sprSel = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("gerendianpu_roundButton_nor.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroLayer.cpp (5 hits)
+	Line 414:     CCSprite *sprNormal = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("gerendianpu_roundButton_sel.mydp"));
+	Line 415:     CCSprite *sprSel = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("gerendianpu_roundButton_nor.mydp"));
+	Line 1590: 	CCSprite *highShow = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("skillFrame_sel.mydp"));
+	Line 2267:         this->buttonSprite->initWithSpriteFrame(cache->spriteFrameByName("renwuxunlu_baizi.mydp")); // 更改按钮状态
+	Line 2285:             this->buttonSprite->initWithSpriteFrame(cache->spriteFrameByName("wanchengrenwu_baizi.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroSkillUpLayer.cpp (1 hit)
+	Line 207: 	CCSprite *highShow = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("skillFrame_sel.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroTaskLayer.cpp (2 hits)
+	Line 210: 		this->buttonSprite->initWithSpriteFrame(cache->spriteFrameByName("renwuxunlu_baizi.mydp")); // 更改按钮状态
+	Line 228: 			this->buttonSprite->initWithSpriteFrame(cache->spriteFrameByName("wanchengrenwu_baizi.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_horseMainLayer.cpp (6 hits)
+	Line 393:         pStar[i]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(starPNG[strenLevel/10]));
+	Line 400:             pStar[i]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(starPNG[strenLevel/10 - 1]));
+	Line 770: 		pStar[i]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(starPNG[star/10]));
+	Line 777: 			pStar[i]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(starPNG[star/10 - 1]));
+	Line 787: 		pStar[i+10]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(starPNG[star/10]));
+	Line 794: 			pStar[i+10]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(starPNG[star/10 - 1]));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_horseStateLayer.cpp (2 hits)
+	Line 175: 		pStar[i]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(starPNG[strenLevel/10]));
+	Line 182: 			pStar[i]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(starPNG[strenLevel/10 - 1]));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_horseStrengthenLayer.cpp (4 hits)
+	Line 297: 		pStar[i]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(starPNG[star/10]));
+	Line 304: 			pStar[i]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(starPNG[star/10 - 1]));
+	Line 314: 		pStar[i+10]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(starPNG[star/10]));
+	Line 321: 			pStar[i+10]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(starPNG[star/10 - 1]));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_HuoDongPaiHang.cpp (11 hits)
+	Line 339: 			    m_Sprite[0]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("kaifu_biaoti.mydp"));
+	Line 359: 				m_Sprite[3]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("wode1dengji_huangzi.mydp"));
+	Line 375: 				m_Sprite[0]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("xinfu_biaoti.mydp"));
+	Line 395: 				m_Sprite[3]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("wodezhanli_huangzi.mydp"));
+	Line 411: 				m_Sprite[0]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("xianchong_biaoti.mydp"));
+	Line 417: 				m_Sprite[0]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("qiangzhuang_biaoti.mydp"));
+	Line 741: 			m_Sprite->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("zhuangyuan_jiangbei.mydp"));
+	Line 746: 			m_Sprite->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("bangyan_jiangbei.mydp"));
+	Line 751: 			m_Sprite->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("taihua_jiangbei.mydp"));
+	Line 769: 			m_Sprite1->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("dengji_huangzi.mydp"));
+	Line 774: 			m_Sprite1->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("zhanli_huangzi.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_interactLayer.cpp (2 hits)
+	Line 133: 		pSprite1 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("subButton_nor.mydp"));
+	Line 134: 		pSprite2 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("subButton_sel.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ItemInfoLayer.cpp (4 hits)
+	Line 298: 	CCSpriteFrame *pSpriteFrame1 = cache->spriteFrameByName(OptionFileName[type-1][0]);
+	Line 299: 	CCSpriteFrame *pSpriteFrame2 = cache->spriteFrameByName(OptionFileName[type-1][1]);
+	Line 303: 		pSpriteFrame1 = cache->spriteFrameByName("zhanshi_buttonFont.mydp");
+	Line 304: 		pSpriteFrame2 = cache->spriteFrameByName("zhanshi_buttonFont.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ItemOrSkillRecvNotify.cpp (5 hits)
+	Line 63: 		bkgMenu->setNormalSpriteFrame(cache->spriteFrameByName("objectFrame.mydp"));
+	Line 88: 		bkgMenu->setNormalSpriteFrame(cache->spriteFrameByName("skillFrame_nor.mydp"));
+	Line 115: 	bkgMenu->setNormalSpriteFrame(cache->spriteFrameByName("objectFrame.mydp"));
+	Line 169: 	CCSpriteFrame *pSpriteFrame = cache->spriteFrameByName("shiyong_subButtonFont.mydp");
+	Line 225: 	bkgMenu->setNormalSpriteFrame(cache->spriteFrameByName("skillFrame_nor.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_JiFenMainLayer.cpp (7 hits)
+	Line 206: 			 m_paohuanSpriet->initWithSpriteFrame(cache->spriteFrameByName("jifenrenwu_Font.mydp"));
+	Line 211: 			 m_paohuanSpriet->initWithSpriteFrame(cache->spriteFrameByName("meiripaohuan_artFont.mydp"));
+	Line 555: 				m_buttonSprite->initWithSpriteFrame(cache->spriteFrameByName("jieshourenwu_buttonFont.mydp"));
+	Line 560: 			m_buttonSprite->initWithSpriteFrame(cache->spriteFrameByName("xunluqianwang_buttonFont.mydp"));
+	Line 565: 			m_buttonSprite->initWithSpriteFrame(cache->spriteFrameByName("jieshourenwu_buttonFont.mydp"));
+	Line 574: 			m_buttonSprite->initWithSpriteFrame(cache->spriteFrameByName("wanchengrenwu_buttonFont.mydp"));
+	Line 584: 		m_buttonSprite->initWithSpriteFrame(cache->spriteFrameByName("xunluqianwang_buttonFont.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_KunLunShan.cpp (5 hits)
+	Line 429: 		CCSprite *pLine = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("kunlun_xian.mydp"));
+	Line 790: 			roombg->initWithSpriteFrame(cache->spriteFrameByName("fangjian_dikuang_sel.mydp"));
+	Line 813: 			roombg->initWithSpriteFrame(cache->spriteFrameByName("fangjian_dikuang.mydp"));
+	Line 843: 	CCSprite *roomBg = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("fangjian_dikuang.mydp"));
+	Line 865: 	CCSprite *manSprBg = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("fangjian_dikuang.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_LearnSkillLayer.cpp (1 hit)
+	Line 235: 		CCSpriteFrame *pSpriteFrame1 = cache->spriteFrameByName("update_buttonFont.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_LeiTaiLayer.cpp (2 hits)
+	Line 179: 		m_mingchengSprite->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("leitaipaihang_font.mydp"));
+	Line 231: 		CCSprite *pLine = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("kunlun_xian.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_MarketDaoJu.cpp (13 hits)
+	Line 94: 			CCSpriteFrame *spriteFrame = cache->sharedSpriteFrameCache()->spriteFrameByName("lvshuzi1_Font.mydp");
+	Line 430: 			CCSprite *OneImage = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("shangchengmeizi_quanshen_new.mydp"));
+	Line 485: 				tbao1Sprite->initWithSpriteFrame(cache->spriteFrameByName("moneyIcon_lock.mydp"));
+	Line 487: 				tbao1Sprite->initWithSpriteFrame(cache->spriteFrameByName("moneyIcon_nor.mydp"));
+	Line 686: 	CCScale9Sprite *bkgSpr = CCScale9Sprite::createWithSpriteFrame(cache->spriteFrameByName("contentBkg_1.mydp"));  // 底图
+	Line 715: 		tongbaoSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("moneyIcon_lock.mydp"));  // 绑定元宝图标
+	Line 717: 		tongbaoSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("moneyIcon_nor.mydp"));  // 元宝图标
+	Line 744: 		CCSprite *hotSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("remaibiaoqian_new.mydp"));  // 是否是热卖商品
+	Line 810: 	CCScale9Sprite *bkgSpr = CCScale9Sprite::createWithSpriteFrame(cache->spriteFrameByName("contentBkg_1.mydp"));  // 底图
+	Line 816: 	CCSprite *goodsBkg = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("objectFrame.mydp"));
+	Line 839: 	   tongbaoSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("moneyIcon_lock.mydp"));  // 绑定元宝图标
+	Line 841: 	  tongbaoSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("moneyIcon_nor.mydp"));  // 元宝图标
+	Line 868: 		CCSprite *hotSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("remaibiaoqian_new.mydp"));  // 是否是热卖商品
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_MarketMainLayer.cpp (13 hits)
+	Line 292: 		CCSpriteFrame *spriteFrame = cache->sharedSpriteFrameCache()->spriteFrameByName("lvshuzi1_Font.mydp");
+	Line 548: 		CCSprite *OneImage = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("shangchengmeizi_quanshen_new.mydp"));
+	Line 603: 				tbao1Sprite->initWithSpriteFrame(cache->spriteFrameByName("moneyIcon_lock.mydp"));
+	Line 605: 				tbao1Sprite->initWithSpriteFrame(cache->spriteFrameByName("moneyIcon_nor.mydp"));
+	Line 776: 	CCScale9Sprite *bkgSpr = CCScale9Sprite::createWithSpriteFrame(cache->spriteFrameByName("contentBkg_1.mydp"));  // 底图
+	Line 805: 		tongbaoSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("moneyIcon_lock.mydp"));  // 绑定元宝图标
+	Line 807: 		tongbaoSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("moneyIcon_nor.mydp"));  // 元宝图标
+	Line 834: 		CCSprite *hotSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("remaibiaoqian_new.mydp"));  // 是否是热卖商品
+	Line 895: 	CCScale9Sprite *bkgSpr = CCScale9Sprite::createWithSpriteFrame(cache->spriteFrameByName("contentBkg_1.mydp"));  // 底图
+	Line 901: 	CCSprite *goodsBkg = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("objectFrame.mydp"));
+	Line 924: 		tongbaoSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("moneyIcon_lock.mydp"));  // 绑定元宝图标
+	Line 926: 		tongbaoSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("moneyIcon_nor.mydp"));  // 元宝图标
+	Line 953: 		CCSprite *hotSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("remaibiaoqian_new.mydp"));  // 是否是热卖商品
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_NotifyLayer.cpp (22 hits)
+	Line 102:     m_titleSprite->initWithSpriteFrame(cache->spriteFrameByName("jiangli_titleFont.mydp"));
+	Line 286:     OkitemImage->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_nor.mydp"));
+	Line 287:     OkitemImage->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_sel.mydp"));
+	Line 288:     OkitemImage->setDisabledSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_hui.mydp"));
+	Line 316: 	OkitemImage->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_nor.mydp"));
+	Line 317: 	OkitemImage->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_sel.mydp"));
+	Line 318: 	OkitemImage->setDisabledSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_hui.mydp"));
+	Line 320: 	CancelitemImage->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_nor.mydp"));
+	Line 321: 	CancelitemImage->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_sel.mydp"));
+	Line 322: 	CancelitemImage->setDisabledSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_hui.mydp"));
+	Line 344: 		OkitemImage->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_nor.mydp"));
+	Line 345: 		OkitemImage->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_sel.mydp"));
+	Line 346: 		OkitemImage->setDisabledSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_hui.mydp"));
+	Line 348: 		CancelitemImage->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_nor.mydp"));
+	Line 349: 		CancelitemImage->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_sel.mydp"));
+	Line 350: 		CancelitemImage->setDisabledSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_hui.mydp"));
+	Line 736: 	OkitemImage->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_nor.mydp"));
+	Line 737: 	OkitemImage->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_sel.mydp"));
+	Line 738: 	OkitemImage->setDisabledSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_hui.mydp"));
+	Line 740: 	CancelitemImage->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_nor.mydp"));
+	Line 741: 	CancelitemImage->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_sel.mydp"));
+	Line 742: 	CancelitemImage->setDisabledSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_hui.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_NotifyLayer0.cpp (1 hit)
+	Line 106: 	m_titleSprite->initWithSpriteFrame(cache->spriteFrameByName("jiangli_titleFont.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_NotifyLayer1.cpp (3 hits)
+	Line 140: 	OkitemImage->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_nor.mydp"));
+	Line 141: 	OkitemImage->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_sel.mydp"));
+	Line 142: 	OkitemImage->setDisabledSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_hui.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_NotifyLayer2.cpp (12 hits)
+	Line 42: 		OkitemImage->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_nor.mydp"));
+	Line 43: 		OkitemImage->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_sel.mydp"));
+	Line 44: 		OkitemImage->setDisabledSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_hui.mydp"));
+	Line 46: 		CancelitemImage->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_nor.mydp"));
+	Line 47: 		CancelitemImage->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_sel.mydp"));
+	Line 48: 		CancelitemImage->setDisabledSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_hui.mydp"));
+	Line 72: 		OkitemImage->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_nor.mydp"));
+	Line 73: 		OkitemImage->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_sel.mydp"));
+	Line 74: 		OkitemImage->setDisabledSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_hui.mydp"));
+	Line 76: 		CancelitemImage->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_nor.mydp"));
+	Line 77: 		CancelitemImage->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_sel.mydp"));
+	Line 78: 		CancelitemImage->setDisabledSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_hui.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_NotifyLayer4.cpp (12 hits)
+	Line 35: 		OkitemImage->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_nor.mydp"));
+	Line 36: 		OkitemImage->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_sel.mydp"));
+	Line 37: 		OkitemImage->setDisabledSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_hui.mydp"));
+	Line 39: 		CancelitemImage->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_nor.mydp"));
+	Line 40: 		CancelitemImage->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_sel.mydp"));
+	Line 41: 		CancelitemImage->setDisabledSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_hui.mydp"));*/
+	Line 79: 	OkitemImage->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_nor.mydp"));
+	Line 80: 	OkitemImage->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_sel.mydp"));
+	Line 81: 	OkitemImage->setDisabledSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_hui.mydp"));
+	Line 83: 	CancelitemImage->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_nor.mydp"));
+	Line 84: 	CancelitemImage->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_sel.mydp"));
+	Line 85: 	CancelitemImage->setDisabledSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_hui.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_OutLineExp.cpp (2 hits)
+	Line 64: 			goumaiItem->setSelectedSpriteFrame(cache->spriteFrameByName("subButton_sel.mydp"));
+	Line 65: 			goumaiItem->setNormalSpriteFrame(cache->spriteFrameByName("subButton_nor.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PaoHuanMainLayer.cpp (7 hits)
+	Line 246: 		 this->m_buttonSprite->initWithSpriteFrame(cache->spriteFrameByName("dianjitiaozhan_banzi.mydp"));
+	Line 272: 		   this->m_buttonSprite->initWithSpriteFrame(cache->spriteFrameByName("dianjitiaozhan_banzi.mydp"));
+	Line 496: 		m_paohuanSprite->initWithSpriteFrame(cache->spriteFrameByName(intToStr->getCString()));
+	Line 510: 		this->m_dengjiSprite->initWithSpriteFrame(cache->spriteFrameByName("dengji_jiandan.mydp"));
+	Line 513: 		this->m_dengjiSprite->initWithSpriteFrame(cache->spriteFrameByName("dengji_putong.mydp"));
+	Line 516: 		this->m_dengjiSprite->initWithSpriteFrame(cache->spriteFrameByName("dengji_zhongdeng.mydp"));
+	Line 519: 		this->m_dengjiSprite->initWithSpriteFrame(cache->spriteFrameByName("dengji_kunnan.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PaymentTaocanLayer.cpp (1 hit)
+	Line 304:     if(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(cframeName->getCString()))
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PetArmourLayer.cpp (29 hits)
+	Line 618: 			CCSpriteFrame *pSpriteFrame = cache->spriteFrameByName("ok.mydp");
+	Line 1274: 			m_Sprite10->initWithSpriteFrame(cache->spriteFrameByName("chongkai3.mydp"));
+	Line 1280: 			m_Sprite10->initWithSpriteFrame(cache->spriteFrameByName("chongkai1.mydp"));
+	Line 1286: 			m_Sprite10->initWithSpriteFrame(cache->spriteFrameByName("chongkai4.mydp"));
+	Line 1292: 			m_Sprite10->initWithSpriteFrame(cache->spriteFrameByName("chongkai2.mydp"));
+	Line 1302: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("objectFrame.mydp"));// 白
+	Line 1307: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("lvse_kung.mydp"));// 绿
+	Line 1312: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("lanse_kung.mydp"));// 篮
+	Line 1318: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("zise_kung.mydp"));// 紫
+	Line 1323: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("huangse_kung.mydp"));// 橙
+	Line 1329: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("jinse_kung.mydp"));// 金
+	Line 1334: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("fense_kung.mydp"));// 粉
+	Line 1340: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("hongse_kung.mydp"));// 红
+	Line 1345: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("objectFrame.mydp"));// 白
+	Line 1441: 		pImage->setNormalSpriteFrame(cache->spriteFrameByName("pinzhi1_hui.mydp"));
+	Line 1442: 		pImage->setSelectedSpriteFrame(cache->spriteFrameByName("pinzhi1_hui.mydp"));
+	Line 1451: 			pImage->setNormalSpriteFrame(cache->spriteFrameByName(strTmp->getCString()));
+	Line 1453: 			pImage->setSelectedSpriteFrame(cache->spriteFrameByName(strTmp->getCString()));
+	Line 1472: 				m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("objectFrame.mydp"));// 白
+	Line 1476: 				m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("lvse_kung.mydp"));// 绿
+	Line 1480: 				m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("lanse_kung.mydp"));// 篮
+	Line 1485: 				m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("zise_kung.mydp"));// 紫
+	Line 1489: 				m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("huangse_kung.mydp"));// 橙
+	Line 1494: 				m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("jinse_kung.mydp"));// 金
+	Line 1498: 				m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("fense_kung.mydp"));// 粉
+	Line 1503: 				m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("hongse_kung.mydp"));// 红
+	Line 1506: 			m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("objectFrame.mydp"));// 白
+	Line 1509: 		//		m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("zise_kung.mydp"));// 紫
+	Line 1516: 		//		m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("huangse_kung.mydp"));// 橙
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_petCell.cpp (2 hits)
+	Line 91: 		CCSprite *spr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("pinzhi1_hui.mydp"));
+	Line 102: 		CCSprite *spr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(strTmp->getCString()));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_petMainLayer.cpp (27 hits)
+	Line 2432: 			CCSpriteFrame *pSpriteFrame = cache->spriteFrameByName("ok.mydp");
+	Line 3107: 			m_Sprite10->initWithSpriteFrame(cache->spriteFrameByName("chongkai3.mydp"));
+	Line 3113: 			m_Sprite10->initWithSpriteFrame(cache->spriteFrameByName("chongkai1.mydp"));
+	Line 3119: 			m_Sprite10->initWithSpriteFrame(cache->spriteFrameByName("chongkai4.mydp"));
+	Line 3125: 			m_Sprite10->initWithSpriteFrame(cache->spriteFrameByName("chongkai2.mydp"));
+	Line 3135: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("objectFrame.mydp"));// 白
+	Line 3140: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("lvse_kung.mydp"));// 绿
+	Line 3145: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("lanse_kung.mydp"));// 篮
+	Line 3151: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("zise_kung.mydp"));// 紫
+	Line 3156: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("huangse_kung.mydp"));// 橙
+	Line 3162: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("jinse_kung.mydp"));// 金
+	Line 3167: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("fense_kung.mydp"));// 粉
+	Line 3173: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("hongse_kung.mydp"));// 红
+	Line 3178: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("objectFrame.mydp"));// 白
+	Line 3274: 		pImage->setNormalSpriteFrame(cache->spriteFrameByName("pinzhi1_hui.mydp"));
+	Line 3275: 		pImage->setSelectedSpriteFrame(cache->spriteFrameByName("pinzhi1_hui.mydp"));
+	Line 3284: 			pImage->setNormalSpriteFrame(cache->spriteFrameByName(strTmp->getCString()));
+	Line 3286: 			pImage->setSelectedSpriteFrame(cache->spriteFrameByName(strTmp->getCString()));
+	Line 3305: 				m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("objectFrame.mydp"));// 白
+	Line 3309: 				m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("lvse_kung.mydp"));// 绿
+	Line 3313: 				m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("lanse_kung.mydp"));// 篮
+	Line 3318: 				m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("zise_kung.mydp"));// 紫
+	Line 3322: 				m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("huangse_kung.mydp"));// 橙
+	Line 3327: 				m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("jinse_kung.mydp"));// 金
+	Line 3331: 				m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("fense_kung.mydp"));// 粉
+	Line 3336: 				m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("hongse_kung.mydp"));// 红
+	Line 3339: 			m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("objectFrame.mydp"));// 白
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_RecvOrFinishTaskLayer.cpp (4 hits)
+	Line 109: 	pSprite1 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("hongsubButton_nor.mydp"));
+	Line 110: 	pSprite2 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("hongsubButton_sel.mydp"));
+	Line 118: 		BtnLabelSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("jieshourenwu_baizi.mydp"));
+	Line 120: 		BtnLabelSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("wanchengrenwu_baizi.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_SaveTradeLayer.cpp (12 hits)
+	Line 60: 	m_buttonSprite[1]->initWithSpriteFrame(cache->spriteFrameByName("suoding02_subButtonFont.mydp"));
+	Line 163: 		popLayer->SetTitleSprite(cache->spriteFrameByName("chongwuliebiao_artFont.mydp"));
+	Line 191: 			CCSpriteFrame *pFrame = cache->spriteFrameByName("quedingOK_buttonFont.mydp");
+	Line 220: 			m_selfLockSprite->initWithSpriteFrame(cache->spriteFrameByName("lockIcon.mydp"));
+	Line 222: 			m_buttonSprite[1]->initWithSpriteFrame(cache->spriteFrameByName("jiaoyi01_subButtonFont.mydp"));
+	Line 278: 				CCSprite *pSprite1 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("listBkg.mydp"));
+	Line 279: 				CCSprite *pSprite2 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("listBkg.mydp"));
+	Line 296: 				pSprite1 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("listBkg.mydp"));
+	Line 297: 				pSprite2 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("listBkg.mydp"));
+	Line 316: 			//	CCSprite *pSprite1 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("listBkg.mydp"));
+	Line 317: 			//	CCSprite *pSprite2 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("listBkg.mydp"));
+	Line 344: 	m_otherLockSprite->initWithSpriteFrame(cache->spriteFrameByName("lockIcon.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_SetpTargetMain.cpp (7 hits)
+	Line 363: 		CCSprite *yiLingquLog = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("yilingqu_artFont.mydp"));  // 已领取
+	Line 411: 			CCSprite* spritetBaoSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("tbaoIcon_nor.mydp"));
+	Line 426: 			CCSprite* spritetBaoSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("moneyIcon_lock.mydp"));
+	Line 468: 		CCSprite *yiLingquLog1 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("yilingqu_artFont.mydp"));  // 已领取
+	Line 744: 		CCSprite* zhangSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("yilingqu_artFont.mydp"));  
+	Line 759: 			CCSprite* zhangSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("kelingjiang_zhang.mydp"));  // 完成
+	Line 773: 		CCSprite* zhangSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("weiwancheng_zhang.mydp"));  
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ShengQiMainLayer.cpp (6 hits)
+	Line 75: 		LabelSpr[i] = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(NorFileName[i].c_str()));
+	Line 82: 	LabelSpr[selectedBtn] = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(SelFileName[selectedBtn].c_str()));
+	Line 103: 		LabelSpr[selectedBtn] = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(NorFileName[selectedBtn].c_str()));
+	Line 109: 		LabelSpr[0- idx] = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(SelFileName[0-idx].c_str()));
+	Line 367: 		lastMenu->setNormalSpriteFrame(cache->spriteFrameByName("petcellButton_nor.mydp"));
+	Line 373: 	nowMenu->setNormalSpriteFrame(cache->spriteFrameByName("petcellButton_sel.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_shopBankLayer.cpp (3 hits)
+	Line 341: 	CCScale9Sprite *bkgSpr = CCScale9Sprite::createWithSpriteFrame(cache->spriteFrameByName("shangdian_kuang.mydp"));  // 底图
+	Line 346: 	CCSprite *goodsBkg = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("wupin_kung.mydp"));
+	Line 369: 	CCSprite *tongbaoSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("tbaoIcon_nor.mydp"));  // 钱图标
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_socialSystemLayer.cpp (3 hits)
+	Line 1305:     CCScale9Sprite *bkgSpr = CCScale9Sprite::createWithSpriteFrame(cache->spriteFrameByName("shangdian_kuang.mydp"));  // 底图
+	Line 1310:     CCSprite *goodsBkg = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("wupin_kung.mydp"));
+	Line 1333:     CCSprite *tongbaoSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("tbaoIcon_nor.mydp"));  // 钱图标
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_TeamLayer.cpp (12 hits)
+	Line 69: 			LabelSpr[i] = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(SelFileName[i].c_str()));
+	Line 95: 		LabelSpr[selectedBtn] = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(SelFileName[selectedBtn].c_str()));
+	Line 295: 		LabelSpr[selectedBtn] = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(SelFileName[selectedBtn].c_str()));
+	Line 580: 	LabelSpr[selectedBtn] = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(SelFileName[selectedBtn].c_str()));
+	Line 603: 						RBtn->setNormalSpriteFrame(cache->spriteFrameByName("tuichu_Button_nor.mydp"));
+	Line 604: 						RBtn->setSelectedSpriteFrame(cache->spriteFrameByName("tuichu_Button_sel.mydp"));
+	Line 607: 							LBtn->setNormalSpriteFrame(cache->spriteFrameByName("likai_roundButton_nor.mydp"));
+	Line 608: 							LBtn->setSelectedSpriteFrame(cache->spriteFrameByName("likai_roundButton_sel.mydp"));
+	Line 610: 							LBtn->setNormalSpriteFrame(cache->spriteFrameByName("guidui_Button_nor.mydp"));
+	Line 611: 							LBtn->setSelectedSpriteFrame(cache->spriteFrameByName("guidui_Button_sel.mydp"));
+	Line 628: 						RBtn->setNormalSpriteFrame(cache->spriteFrameByName("chuangjian_roundButton_nor.mydp"));
+	Line 629: 						RBtn->setSelectedSpriteFrame(cache->spriteFrameByName("chuangjian_roundButton_sel.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_WanFa.cpp (14 hits)
+	Line 1467:         m_monthSprite[0]->initWithSpriteFrame(cache->spriteFrameByName(buf));
+	Line 1470:     m_monthSprite[1]->initWithSpriteFrame(cache->spriteFrameByName(buf));
+	Line 1473:     pSpr->initWithSpriteFrame(cache->spriteFrameByName("dot_sel.mydp"));
+	Line 1519:             pSprite->initWithSpriteFrame(cache->spriteFrameByName("yilingqu_zhang.mydp"));
+	Line 1633:         m_monthSprite[0]->initWithSpriteFrame(cache->spriteFrameByName(buf));
+	Line 1636:     m_monthSprite[1]->initWithSpriteFrame(cache->spriteFrameByName(buf));
+	Line 1644:             pSpr->initWithSpriteFrame(cache->spriteFrameByName("dot_sel.mydp"));
+	Line 1775:         pSprite->initWithSpriteFrame(cache->spriteFrameByName("yilingqu_zhang.mydp"));
+	Line 1881:             pSprite->initWithSpriteFrame(cache->spriteFrameByName("shenglandtiao_dise.mydp"));
+	Line 1892:             pSprite->initWithSpriteFrame(cache->spriteFrameByName("shenglandtiao_dise.mydp"));
+	Line 1913:             pSprite->initWithSpriteFrame(cache->spriteFrameByName("riqi_dikuang.mydp"));
+	Line 1932:                 pSpr->initWithSpriteFrame(cache->spriteFrameByName("yiqian_artFont.mydp"));
+	Line 1976:                 pSpr->initWithSpriteFrame(cache->spriteFrameByName("buqian_artFont.mydp"));
+	Line 2002:     pSpr->initWithSpriteFrame(cache->spriteFrameByName("yiqian_artFont.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ZiChongZhuZhen.cpp (5 hits)
+	Line 278: 			m_shuxingSprite->initWithSpriteFrame(cache->spriteFrameByName("pet_zidian.mydp"));
+	Line 283: 			m_shuxingSprite->initWithSpriteFrame(cache->spriteFrameByName("pet_zidian4.mydp"));
+	Line 288: 			m_shuxingSprite->initWithSpriteFrame(cache->spriteFrameByName("pet_zidian1.mydp"));
+	Line 293: 			m_shuxingSprite->initWithSpriteFrame(cache->spriteFrameByName("pet_zidian2.mydp"));
+	Line 298: 			m_shuxingSprite->initWithSpriteFrame(cache->spriteFrameByName("pet_zidian3.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\BangPaiLayer.cpp (24 hits)
+	Line 107: 			CCSpriteFrame *pSpriteFrame = cache->spriteFrameByName(TitleName[m_selectIndex][0]);
+	Line 154: 	CCSpriteFrame *pSpriteFrame = cache->spriteFrameByName(TitleName[index][1]);
+	Line 776: 		CCSprite* pLine = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("panhang_line.mydp"));
+	Line 1291: 			CCSprite* pSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("yishenqing_artFont.mydp"));
+	Line 1322: 		CCSprite* pLine = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("panhang_line.mydp"));
+	Line 1408: 		CCSprite* pSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("yishenqing_artFont.mydp"));
+	Line 1876: 		CCSprite* pSprite1 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("subButton_nor.mydp"));
+	Line 1877: 		CCSprite* pSprite2 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("subButton_sel.mydp"));
+	Line 1878: 		CCSprite* pButtonSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("tongyi_buttonFont.mydp"));
+	Line 1889: 		pSprite1 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("subButton_nor.mydp"));
+	Line 1890: 		pSprite2 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("subButton_sel.mydp"));
+	Line 1891: 		pButtonSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("jujue_buttonFont.mydp"));
+	Line 1902: 		CCSprite* pLine = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("panhang_line.mydp"));
+	Line 2274: 		CCSprite* pSprite1 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("subButton_nor.mydp"));
+	Line 2275: 		CCSprite* pSprite2 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("subButton_sel.mydp"));
+	Line 2276: 		CCSprite* pButtonSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("yaoqingrubang_buttonFont.mydp"));
+	Line 2287: 		CCSprite* pLine = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("panhang_line.mydp"));
+	Line 2519: 		CCSprite* pSprite1 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("subButton_nor.mydp"));
+	Line 2520: 		CCSprite* pSprite2 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("subButton_sel.mydp"));
+	Line 2521: 		CCSprite* pButtonSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("tongyi_buttonFont.mydp"));
+	Line 2532: 		pSprite1 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("subButton_nor.mydp"));
+	Line 2533: 		pSprite2 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("subButton_sel.mydp"));
+	Line 2534: 		pButtonSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("jujue_buttonFont.mydp"));
+	Line 2545: 		CCSprite* pLine = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("panhang_line.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\BattleOptionLayer.cpp (1 hit)
+	Line 111: 	m_titleSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(TitleFileName[optionType].c_str()));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\BattleTimer.cpp (6 hits)
+	Line 36: 	CCScale9Sprite *tenSpr = CCScale9Sprite::createWithSpriteFrame(cache->spriteFrameByName(tenName.c_str()));
+	Line 41: 	CCScale9Sprite *bitsSpr = CCScale9Sprite::createWithSpriteFrame(cache->spriteFrameByName(bitsName.c_str()));
+	Line 87: 	tenSpr->setSpriteFrame(cache->spriteFrameByName(tenName.c_str()));
+	Line 88: 	bitsSpr->setSpriteFrame(cache->spriteFrameByName(bitsName.c_str()));
+	Line 125: 	tenSpr->setSpriteFrame(cache->spriteFrameByName(tenName.c_str()));
+	Line 126: 	bitsSpr->setSpriteFrame(cache->spriteFrameByName(bitsName.c_str()));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\Chat\ChatEmotionLayer.cpp (2 hits)
+	Line 34: 		CCSpriteFrame *fream = cache->spriteFrameByName(FileName.c_str());
+	Line 36: 		CCSprite* spr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(FileName.c_str()));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\CompeteMainLayer.cpp (4 hits)
+	Line 105: 		LabelSpr[selectedBtn] = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(ChallengeNorFileName[selectedBtn].c_str()));
+	Line 111: 		LabelSpr[3- idx] = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(challengeSelFileName[3-idx].c_str()));
+	Line 799: 	CCScale9Sprite *bkgSpr = CCScale9Sprite::createWithSpriteFrame(cache->spriteFrameByName("contentBkg_1.mydp"));  // 底图
+	Line 853: 		CCSprite* hotSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("remaibiaoqian_new.mydp"));  // 是否是热卖商品
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\CopySelPetLayer.cpp (5 hits)
+	Line 277: 			m_shuxingSprite->initWithSpriteFrame(cache->spriteFrameByName("pet_zidian.mydp"));
+	Line 282: 			m_shuxingSprite->initWithSpriteFrame(cache->spriteFrameByName("pet_zidian4.mydp"));
+	Line 287: 			m_shuxingSprite->initWithSpriteFrame(cache->spriteFrameByName("pet_zidian1.mydp"));
+	Line 292: 			m_shuxingSprite->initWithSpriteFrame(cache->spriteFrameByName("pet_zidian2.mydp"));
+	Line 297: 			m_shuxingSprite->initWithSpriteFrame(cache->spriteFrameByName("pet_zidian3.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\DailyBossLayer.cpp (7 hits)
+	Line 79:     m_buttonSprite->initWithSpriteFrame(cache->spriteFrameByName("dianjitiaozhan_banzi.mydp"));
+	Line 245: 		   this->m_buttonSprite->initWithSpriteFrame(cache->spriteFrameByName("dianjitiaozhan_banzi.mydp"));
+	Line 506: 		m_paohuanSprite->initWithSpriteFrame(cache->spriteFrameByName(intToStr->getCString()));
+	Line 520: 		this->m_dengjiSprite->initWithSpriteFrame(cache->spriteFrameByName("dengji_jiandan.mydp"));
+	Line 523: 		this->m_dengjiSprite->initWithSpriteFrame(cache->spriteFrameByName("dengji_putong.mydp"));
+	Line 526: 		this->m_dengjiSprite->initWithSpriteFrame(cache->spriteFrameByName("dengji_zhongdeng.mydp"));
+	Line 529: 		this->m_dengjiSprite->initWithSpriteFrame(cache->spriteFrameByName("dengji_kunnan.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\FishingLayer.cpp (2 hits)
+	Line 922: 			roombg->initWithSpriteFrame(cache->spriteFrameByName("fangjian_dikuang_sel.mydp"));
+	Line 940: 			roombg->initWithSpriteFrame(cache->spriteFrameByName("fangjian_dikuang.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\GameMenu.cpp (3 hits)
+	Line 1918: 			pImage->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("zisechongwu1_nor.mydp"));
+	Line 1919: 			pImage->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("zisechongwu1_sel.mydp"));
+	Line 2106:     CCSpriteFrame* pFrame = CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(norName);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\HeroSinglePageLayer.cpp (3 hits)
+	Line 1565: 	CCSprite* highShow = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("skillFrame_sel.mydp"));
+	Line 2249:         this->buttonSprite->initWithSpriteFrame(cache->spriteFrameByName("renwuxunlu_baizi.mydp")); // 更改按钮状态
+	Line 2267:             this->buttonSprite->initWithSpriteFrame(cache->spriteFrameByName("wanchengrenwu_baizi.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\HorseLayer.cpp (6 hits)
+	Line 384:         pStar[i]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(starPNG[strenLevel/10]));
+	Line 391:             pStar[i]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(starPNG[strenLevel/10 - 1]));
+	Line 765: 		pStar[i]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(starPNG[star/10]));
+	Line 772: 			pStar[i]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(starPNG[star/10 - 1]));
+	Line 782: 		pStar[i+10]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(starPNG[star/10]));
+	Line 789: 			pStar[i+10]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(starPNG[star/10 - 1]));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ItemDuanZaoLayer.cpp (8 hits)
+	Line 242: 			CCSpriteFrame *pSpriteFrame = cache->spriteFrameByName(TitleName[_selectIndex][0]);
+	Line 427: 	CCSpriteFrame *pSpriteFrame = CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(TitleName[index][1]);
+	Line 1373: 		notifyLayer->setTitleSprite(cache->spriteFrameByName("bangzhu_artFont.mydp"));
+	Line 2202: 		notifyLayer->setTitleSprite(cache->spriteFrameByName("bangzhu_artFont.mydp"));
+	Line 2631: 		notifyLayer->setTitleSprite(cache->spriteFrameByName("bangzhu_artFont.mydp"));
+	Line 4387:         notifyLayer->setTitleSprite(cache->spriteFrameByName("bangzhu_artFont.mydp"));
+	Line 4600:         notifyLayer->setTitleSprite(cache->spriteFrameByName("bangzhu_artFont.mydp"));
+	Line 4759: 		CCSpriteFrame *pFrame = cache->spriteFrameByName("xingyunfuliebiao_artFont.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ItemHeChengLayer.cpp (2 hits)
+	Line 116: 	CCSpriteFrame *pSpriteFrame = cache->spriteFrameByName(TitleName[index][1]);
+	Line 309: 			CCSpriteFrame *pSpriteFrame = cache->spriteFrameByName(TitleName[m_selectIndex][0]);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ItemInfoDialog.cpp (4 hits)
+	Line 286: 	CCSpriteFrame *pSpriteFrame1 = cache->spriteFrameByName(OptionFileName[type-1][0]);
+	Line 287: 	CCSpriteFrame *pSpriteFrame2 = cache->spriteFrameByName(OptionFileName[type-1][1]);
+	Line 291: 		pSpriteFrame1 = cache->spriteFrameByName("zhanshi_buttonFont.mydp");
+	Line 292: 		pSpriteFrame2 = cache->spriteFrameByName("zhanshi_buttonFont.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ItemOrSkillRecvDialog.cpp (4 hits)
+	Line 77: 		bkgMenu->setNormalSpriteFrame(cache->spriteFrameByName("objectFrame.mydp"));
+	Line 101: 		bkgMenu->setNormalSpriteFrame(cache->spriteFrameByName("skillFrame_nor.mydp"));
+	Line 129: 	bkgMenu->setNormalSpriteFrame(cache->spriteFrameByName("objectFrame.mydp"));
+	Line 189: 	bkgMenu->setNormalSpriteFrame(cache->spriteFrameByName("skillFrame_nor.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\KunLunShanLayer.cpp (5 hits)
+	Line 424: 		CCSprite* pLine = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("kunlun_xian.mydp"));
+	Line 785: 			roombg->initWithSpriteFrame(cache->spriteFrameByName("fangjian_dikuang_sel.mydp"));
+	Line 808: 			roombg->initWithSpriteFrame(cache->spriteFrameByName("fangjian_dikuang.mydp"));
+	Line 838: 	CCSprite* roomBg = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("fangjian_dikuang.mydp"));
+	Line 860: 	CCSprite* manSprBg = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("fangjian_dikuang.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\LeiTaiLayer.cpp (2 hits)
+	Line 179: 		m_mingchengSprite->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("leitaipaihang_font.mydp"));
+	Line 231: 		CCSprite* pLine = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("kunlun_xian.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\LevelUpDialog.cpp (2 hits)
+	Line 165: 		petSpr[i]->setDisplayFrame(frameCache->spriteFrameByName("LevelUpCircleOpen.mydp"));
+	Line 171: 		petSpr[i]->setDisplayFrame(frameCache->spriteFrameByName(fName.c_str()));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\LoginConsole.cpp (10 hits)
+	Line 569: 				pBackItem->setNormalSpriteFrame(cache->spriteFrameByName("denglu_nor.mydp"));
+	Line 570: 				pBackItem->setSelectedSpriteFrame(cache->spriteFrameByName("denglu_sel.mydp"));
+	Line 1931: 		zhiyeSpr =  CCSprite::createWithSpriteFrame(cache->spriteFrameByName(professionStr[profession].c_str()));
+	Line 2389: 			Item->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(heroFileName_sel[i - 102].c_str()));
+	Line 2390: 			Item->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(heroFileName_nor[i - 102].c_str()));
+	Line 2392: 			Item->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(heroFileName_nor[i - 102].c_str()));
+	Line 2393: 			Item->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(heroFileName_sel[i - 102].c_str()));
+	Line 2538: 		lastServerSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("shurukuang_356.mydp"));
+	Line 2779: 			CCSprite* pBtnBg= CCSprite::createWithSpriteFrame(cache->spriteFrameByName("shurukuang_356.mydp"));//CCSprite::create("UI/shurukuang_175.mydp");  // 按钮底图
+	Line 2884: 		pBk->initWithSpriteFrame(cache->spriteFrameByName("shurukuang_356man.mydp"));//initWithFile("UI/shurukuang_175man.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\MarketLayer.cpp (7 hits)
+	Line 506: 		CCSprite* OneImage = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("shangchengmeizi_quanshen_new.mydp"));
+	Line 561: 				tbao1Sprite->initWithSpriteFrame(cache->spriteFrameByName("moneyIcon_lock.mydp"));
+	Line 563: 				tbao1Sprite->initWithSpriteFrame(cache->spriteFrameByName("moneyIcon_nor.mydp"));
+	Line 748: 	CCScale9Sprite *bkgSpr = CCScale9Sprite::createWithSpriteFrame(cache->spriteFrameByName("contentBkg_1.mydp"));  // 底图
+	Line 777: 		tongbaoSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("moneyIcon_lock.mydp"));  // 绑定元宝图标
+	Line 779: 		tongbaoSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("moneyIcon_nor.mydp"));  // 元宝图标
+	Line 806: 		CCSprite* hotSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("remaibiaoqian_new.mydp"));  // 是否是热卖商品
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\NotifyDialog.cpp (22 hits)
+	Line 104:     m_titleSprite->initWithSpriteFrame(cache->spriteFrameByName("jiangli_titleFont.mydp"));
+	Line 287:     OkitemImage->setNormalSpriteFrame(cache->spriteFrameByName("hongsubButton_nor.mydp"));
+	Line 288:     OkitemImage->setSelectedSpriteFrame(cache->spriteFrameByName("hongsubButton_sel.mydp"));
+	Line 289:     OkitemImage->setDisabledSpriteFrame(cache->spriteFrameByName("hongsubButton_hui.mydp"));
+	Line 317: 	OkitemImage->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_nor.mydp"));
+	Line 318: 	OkitemImage->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_sel.mydp"));
+	Line 319: 	OkitemImage->setDisabledSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_hui.mydp"));
+	Line 321: 	CancelitemImage->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_nor.mydp"));
+	Line 322: 	CancelitemImage->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_sel.mydp"));
+	Line 323: 	CancelitemImage->setDisabledSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_hui.mydp"));
+	Line 345: 		OkitemImage->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_nor.mydp"));
+	Line 346: 		OkitemImage->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_sel.mydp"));
+	Line 347: 		OkitemImage->setDisabledSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_hui.mydp"));
+	Line 349: 		CancelitemImage->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_nor.mydp"));
+	Line 350: 		CancelitemImage->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_sel.mydp"));
+	Line 351: 		CancelitemImage->setDisabledSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_hui.mydp"));
+	Line 729: 	OkitemImage->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_nor.mydp"));
+	Line 730: 	OkitemImage->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_sel.mydp"));
+	Line 731: 	OkitemImage->setDisabledSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("subButton_hui.mydp"));
+	Line 733: 	CancelitemImage->setNormalSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_nor.mydp"));
+	Line 734: 	CancelitemImage->setSelectedSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_sel.mydp"));
+	Line 735: 	CancelitemImage->setDisabledSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("hongsubButton_hui.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PayLayer.cpp (4 hits)
+	Line 62: 		pSprite->initWithSpriteFrame(cache->spriteFrameByName("petcellButton_sel.mydp"));
+	Line 70: 			pSprite->initWithSpriteFrame(cache->spriteFrameByName("petcellButton_nor.mydp"));
+	Line 499: 		CCSprite* pSprite = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("petcellButton_nor.mydp"));
+	Line 500: 		CCSprite* pSprite1 = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(frameName[i]));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PayTaocanLayer.cpp (1 hit)
+	Line 296:     if(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName(cframeName->getCString()))
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PetInfoCell.cpp (2 hits)
+	Line 90: 		CCSprite* spr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("pinzhi1_hui.mydp"));
+	Line 101: 		CCSprite* spr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(strTmp->getCString()));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PetLayer.cpp (26 hits)
+	Line 2875: 			m_Sprite10->initWithSpriteFrame(cache->spriteFrameByName("chongkai3.mydp"));
+	Line 2881: 			m_Sprite10->initWithSpriteFrame(cache->spriteFrameByName("chongkai1.mydp"));
+	Line 2887: 			m_Sprite10->initWithSpriteFrame(cache->spriteFrameByName("chongkai4.mydp"));
+	Line 2893: 			m_Sprite10->initWithSpriteFrame(cache->spriteFrameByName("chongkai2.mydp"));
+	Line 2903: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("objectFrame.mydp"));// 白
+	Line 2908: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("lvse_kung.mydp"));// 绿
+	Line 2913: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("lanse_kung.mydp"));// 篮
+	Line 2919: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("zise_kung.mydp"));// 紫
+	Line 2924: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("huangse_kung.mydp"));// 橙
+	Line 2930: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("jinse_kung.mydp"));// 金
+	Line 2935: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("fense_kung.mydp"));// 粉
+	Line 2941: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("hongse_kung.mydp"));// 红
+	Line 2946: 			m_Sprite9->initWithSpriteFrame(cache->spriteFrameByName("objectFrame.mydp"));// 白
+	Line 3042: 		pImage->setNormalSpriteFrame(cache->spriteFrameByName("pinzhi1_hui.mydp"));
+	Line 3043: 		pImage->setSelectedSpriteFrame(cache->spriteFrameByName("pinzhi1_hui.mydp"));
+	Line 3051: 			pImage->setNormalSpriteFrame(cache->spriteFrameByName(strTmp->getCString()));
+	Line 3053: 			pImage->setSelectedSpriteFrame(cache->spriteFrameByName(strTmp->getCString()));
+	Line 3072: 				m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("objectFrame.mydp"));// 白
+	Line 3076: 				m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("lvse_kung.mydp"));// 绿
+	Line 3080: 				m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("lanse_kung.mydp"));// 篮
+	Line 3085: 				m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("zise_kung.mydp"));// 紫
+	Line 3089: 				m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("huangse_kung.mydp"));// 橙
+	Line 3094: 				m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("jinse_kung.mydp"));// 金
+	Line 3098: 				m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("fense_kung.mydp"));// 粉
+	Line 3103: 				m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("hongse_kung.mydp"));// 红
+	Line 3106: 			m_Sprite[k]->initWithSpriteFrame(cache->spriteFrameByName("objectFrame.mydp"));// 白
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\SaveTradeLayer.cpp (2 hits)
+	Line 156: 		popLayer->SetTitleSprite(cache->spriteFrameByName("chongwuliebiao_artFont.mydp"));
+	Line 183: 			CCSpriteFrame *pFrame = cache->spriteFrameByName("quedingOK_buttonFont.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ShenQiLayer.cpp (4 hits)
+	Line 98: 		LabelSpr[selectedBtn] = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(NorFileName[selectedBtn].c_str()));
+	Line 104: 		LabelSpr[0- idx] = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(SelFileName[0-idx].c_str()));
+	Line 362: 		lastMenu->setNormalSpriteFrame(cache->spriteFrameByName("petcellButton_nor.mydp"));
+	Line 368: 	nowMenu->setNormalSpriteFrame(cache->spriteFrameByName("petcellButton_sel.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\SkillLearnDialog.cpp (1 hit)
+	Line 212: 		CCSpriteFrame *pSpriteFrame1 = cache->spriteFrameByName("update_buttonFont.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\SocialLayer.cpp (3 hits)
+	Line 1283:     CCScale9Sprite *bkgSpr = CCScale9Sprite::createWithSpriteFrame(cache->spriteFrameByName("shangdian_kuang.mydp"));  // 底图
+	Line 1288:     CCSprite* goodsBkg = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("wupin_kung.mydp"));
+	Line 1311:     CCSprite* tongbaoSpr = CCSprite::createWithSpriteFrame(cache->spriteFrameByName("tbaoIcon_nor.mydp"));  // 钱图标
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\TeamLayer.cpp (12 hits)
+	Line 66: 			LabelSpr[i] = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(SelFileName[i].c_str()));
+	Line 92: 		LabelSpr[selectedBtn] = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(SelFileName[selectedBtn].c_str()));
+	Line 292: 		LabelSpr[selectedBtn] = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(SelFileName[selectedBtn].c_str()));
+	Line 577: 	LabelSpr[selectedBtn] = CCSprite::createWithSpriteFrame(cache->spriteFrameByName(SelFileName[selectedBtn].c_str()));
+	Line 600: 						RBtn->setNormalSpriteFrame(cache->spriteFrameByName("tuichu_Button_nor.mydp"));
+	Line 601: 						RBtn->setSelectedSpriteFrame(cache->spriteFrameByName("tuichu_Button_sel.mydp"));
+	Line 604: 							LBtn->setNormalSpriteFrame(cache->spriteFrameByName("likai_roundButton_nor.mydp"));
+	Line 605: 							LBtn->setSelectedSpriteFrame(cache->spriteFrameByName("likai_roundButton_sel.mydp"));
+	Line 607: 							LBtn->setNormalSpriteFrame(cache->spriteFrameByName("guidui_Button_nor.mydp"));
+	Line 608: 							LBtn->setSelectedSpriteFrame(cache->spriteFrameByName("guidui_Button_sel.mydp"));
+	Line 625: 						RBtn->setNormalSpriteFrame(cache->spriteFrameByName("chuangjian_roundButton_nor.mydp"));
+	Line 626: 						RBtn->setSelectedSpriteFrame(cache->spriteFrameByName("chuangjian_roundButton_sel.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\WanFaLayer.cpp (14 hits)
+	Line 1447:         m_monthSprite[0]->initWithSpriteFrame(cache->spriteFrameByName(buf));
+	Line 1450:     m_monthSprite[1]->initWithSpriteFrame(cache->spriteFrameByName(buf));
+	Line 1453:     pSpr->initWithSpriteFrame(cache->spriteFrameByName("dot_sel.mydp"));
+	Line 1486:             pSprite->initWithSpriteFrame(cache->spriteFrameByName("yilingqu_zhang.mydp"));
+	Line 1600:         m_monthSprite[0]->initWithSpriteFrame(cache->spriteFrameByName(buf));
+	Line 1603:     m_monthSprite[1]->initWithSpriteFrame(cache->spriteFrameByName(buf));
+	Line 1611:             pSpr->initWithSpriteFrame(cache->spriteFrameByName("dot_sel.mydp"));
+	Line 1742:         pSprite->initWithSpriteFrame(cache->spriteFrameByName("yilingqu_zhang.mydp"));
+	Line 1848:             pSprite->initWithSpriteFrame(cache->spriteFrameByName("shenglandtiao_dise.mydp"));
+	Line 1859:             pSprite->initWithSpriteFrame(cache->spriteFrameByName("shenglandtiao_dise.mydp"));
+	Line 1879:             pSprite->initWithSpriteFrame(cache->spriteFrameByName("riqi_dikuang.mydp"));
+	Line 1898:                 pSpr->initWithSpriteFrame(cache->spriteFrameByName("yiqian_artFont.mydp"));
+	Line 1942:                 pSpr->initWithSpriteFrame(cache->spriteFrameByName("buqian_artFont.mydp"));
+	Line 1963:     pSpr->initWithSpriteFrame(cache->spriteFrameByName("yiqian_artFont.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\WelfareKaifuLayer.cpp (6 hits)
+	Line 336: 			    m_Sprite[0]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("kaifu_biaoti.mydp"));
+	Line 356: 				m_Sprite[3]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("wode1dengji_huangzi.mydp"));
+	Line 372: 				m_Sprite[0]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("xinfu_biaoti.mydp"));
+	Line 392: 				m_Sprite[3]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("wodezhanli_huangzi.mydp"));
+	Line 408: 				m_Sprite[0]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("xianchong_biaoti.mydp"));
+	Line 414: 				m_Sprite[0]->initWithSpriteFrame(CCSpriteFrameCache::sharedSpriteFrameCache()->spriteFrameByName("qiangzhuang_biaoti.mydp"));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\WelfareOffLineExpLayer.cpp (2 hits)
+	Line 63: 			goumaiItem->setSelectedSpriteFrame(cache->spriteFrameByName("subButton_sel.mydp"));
+	Line 64: 			goumaiItem->setNormalSpriteFrame(cache->spriteFrameByName("subButton_nor.mydp"));
+
+
+
+
+Search "initWithSpriteFrameName" (389 hits in 86 files)
+  C:\Users\Administrator\Desktop\aa\ark_control\BattleNumChangeAni.cpp (2 hits)
+	Line 199: 	pSprite1->initWithSpriteFrameName("jia_lv.mydp");
+	Line 241: 	pSprite1->initWithSpriteFrameName("jian_hong.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_control\InputMsgDialog.cpp (8 hits)
+	Line 181: 		titleName->initWithSpriteFrameName("mimashuru_artFont.mydp");
+	Line 184: 		titleName->initWithSpriteFrameName("shuru_artFont.mydp");
+	Line 189: 		titleName->initWithSpriteFrameName("shoujianren_artFont.mydp");
+	Line 194: 		titleName->initWithSpriteFrameName("xinjianzhengwen_artFont.mydp");
+	Line 198: 		titleName->initWithSpriteFrameName("querenshuru_artFont.mydp");
+	Line 204: 		titleName->initWithSpriteFrameName("jihuomalibao_artFont.mydp");
+	Line 208: 		titleName->initWithSpriteFrameName("libaoduihuan_font.mydp");
+	Line 212: 		titleName->initWithSpriteFrameName("wanjianicheng_artFont.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_control\ark_BattleNumberChangeAnmi.cpp (2 hits)
+	Line 205: 	pSprite1->initWithSpriteFrameName("jia_lv.mydp");
+	Line 247: 	pSprite1->initWithSpriteFrameName("jian_hong.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_control\ark_EditBox.cpp (8 hits)
+	Line 180: 		titleName->initWithSpriteFrameName("mimashuru_artFont.mydp");
+	Line 183: 		titleName->initWithSpriteFrameName("shuru_artFont.mydp");
+	Line 188: 		titleName->initWithSpriteFrameName("shoujianren_artFont.mydp");
+	Line 193: 		titleName->initWithSpriteFrameName("xinjianzhengwen_artFont.mydp");
+	Line 197: 		titleName->initWithSpriteFrameName("querenshuru_artFont.mydp");
+	Line 203: 		titleName->initWithSpriteFrameName("jihuomalibao_artFont.mydp");
+	Line 207: 		titleName->initWithSpriteFrameName("libaoduihuan_font.mydp");
+	Line 211: 		titleName->initWithSpriteFrameName("wanjianicheng_artFont.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_gameUISelectServer.cpp (9 hits)
+	Line 172: 					lastServerSpr->initWithSpriteFrameName("shurukuang_356man.mydp");
+	Line 420: 	    vecAreaButton[selectBtn]->initWithSpriteFrameName("107x40_sel.mydp");
+	Line 467: 		vecAreaButton[selectBtn]->initWithSpriteFrameName("107x40_nor.mydp");
+	Line 479: 		vecAreaButton[idx]->initWithSpriteFrameName("107x40_sel.mydp");
+	Line 554: 			pBk->initWithSpriteFrameName("shurukuang_356.mydp");
+	Line 563: 	lastServerSpr->initWithSpriteFrameName("shurukuang_356.mydp");
+	Line 569: 		pBk->initWithSpriteFrameName("shurukuang_356man.mydp");
+	Line 588: 			pBk->initWithSpriteFrameName("shurukuang_356.mydp");
+	Line 592: 		lastServerSpr->initWithSpriteFrameName("shurukuang_356man.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_MainMenuLayer.cpp (6 hits)
+	Line 318: 		mVipSprite->initWithSpriteFrameName(vipstr[DATA_MNR->m_hero.vipType.type].c_str());
+	Line 2270: 	mVipSprite->initWithSpriteFrameName(vipstr[DATA_MNR->m_hero.vipType.type].c_str());
+	Line 2393: 					pNumBack->initWithSpriteFrameName("yuandian_2.mydp");
+	Line 2395: 					pNumBack->initWithSpriteFrameName("yuandian_1.mydp");
+	Line 2447: 			NumBack->initWithSpriteFrameName("yuandian_2.mydp");
+	Line 2449: 			NumBack->initWithSpriteFrameName("yuandian_1.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\chat\ark_ChatLayer.cpp (6 hits)
+	Line 611:         m_selChannelSprite->initWithSpriteFrameName(channelOption[0]);
+	Line 614:         m_selChannelSprite->initWithSpriteFrameName(channelOption[0]);
+	Line 617:         m_selChannelSprite->initWithSpriteFrameName (channelOption[1]);
+	Line 653:         m_selChannelSprite->initWithSpriteFrameName(channelOption[2]);
+	Line 656:         m_selChannelSprite->initWithSpriteFrameName(channelOption[3]);
+	Line 659:         m_selChannelSprite->initWithSpriteFrameName(channelOption[0]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ActivityLayer.cpp (3 hits)
+	Line 75: 	titleSpr[0]->initWithSpriteFrameName(TitleName[0][0]);
+	Line 82: 	titleSpr[selectedBtn]->initWithSpriteFrameName(TitleName[selectedBtn][1]);
+	Line 111: 		titleSpr[selectedBtn]->initWithSpriteFrameName(TitleName[selectedBtn][0]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_BeStrongLayer.cpp (3 hits)
+	Line 68: 	m_titleSprite->initWithSpriteFrameName(frame.c_str());
+	Line 248:     pLogo->initWithSpriteFrameName(logoname);
+	Line 249:     pTitleName->initWithSpriteFrameName(titlename);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_CopyCardLayer.cpp (2 hits)
+	Line 36: 	pBack->initWithSpriteFrameName(backFilename[copyIdx]);
+	Line 38: 	pCopyName->initWithSpriteFrameName(copyName[copyIdx]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_copyMainLayer.cpp (9 hits)
+	Line 77: 	titleSpr[selectedBtn]->initWithSpriteFrameName(TitleName[selectedBtn][1]);
+	Line 100: 		titleSpr[selectedBtn]->initWithSpriteFrameName(TitleName[selectedBtn][0]);
+	Line 555:     pBack->initWithSpriteFrameName(backFilename[copyIdx]);
+	Line 557:     pCopyName->initWithSpriteFrameName(fileName[copyIdx]);
+	Line 955:         pSprite[1]->initWithSpriteFrameName("quxiaoguaji_font.mydp");
+	Line 957:         pSprite[1]->initWithSpriteFrameName("guajisaodang_font.mydp");
+	Line 1084: 		pLogo[2]->initWithSpriteFrameName("fuben_right.mydp");
+	Line 1093: 		pLogo[1]->initWithSpriteFrameName("fuben_right.mydp");
+	Line 1101: 		pLogo[0]->initWithSpriteFrameName("fuben_right.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_CopySweepLayer.cpp (2 hits)
+	Line 376: 	    pSprite[1]->initWithSpriteFrameName("quxiaoguaji_font.mydp");
+	Line 378: 		pSprite[1]->initWithSpriteFrameName("guajisaodang_font.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_DuanZaoLayer.cpp (11 hits)
+	Line 2788: 		m_bkSprite[i]->initWithSpriteFrameName(Item_back_color[0][0]);//先把所有的细底框置成白色
+	Line 2789: 		m_bkcSprite[i]->initWithSpriteFrameName(Item_back_color[0][1]);//先把所有的底框置成白色
+	Line 2800: 		m_bkSprite[count]->initWithSpriteFrameName(Item_back_color[info.type][0]);
+	Line 2801: 		m_bkcSprite[count]->initWithSpriteFrameName(Item_back_color[info.type][1]);
+	Line 3355: 		m_bkcSprite[m_selectIndex-1]->initWithSpriteFrameName(Item_back_color[info.type][1]);
+	Line 3356: 		m_bkSprite[m_selectIndex-1]->initWithSpriteFrameName(Item_back_color[info.type][0]);
+	Line 7855:         pTitle->initWithSpriteFrameName("mingwenshuoming_font.mydp");
+	Line 7863:         pTitle->initWithSpriteFrameName("lianhuashuoming_font.mydp");
+	Line 7915: 	    pBack->initWithSpriteFrameName(Item_back_color[0][1]);
+	Line 8178: 	pBack->initWithSpriteFrameName(Item_back_color[0][1]);
+	Line 8380: 	pBack->initWithSpriteFrameName(Item_back_color[0][1]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_EnterPetCopyLayer.cpp (11 hits)
+	Line 54: 		pFont[0]->initWithSpriteFrameName("tishi_jiaodi.mydp");
+	Line 55: 		pFont[1]->initWithSpriteFrameName("tishi_jiaodi.mydp");
+	Line 59: 		pFont[0]->initWithSpriteFrameName("tishi_yiban.mydp");
+	Line 60: 		pFont[1]->initWithSpriteFrameName("tishi_yiban.mydp");
+	Line 64: 		pFont[0]->initWithSpriteFrameName("tishi_jiaogao.mydp");
+	Line 65: 		pFont[1]->initWithSpriteFrameName("tishi_jiaogao.mydp");
+	Line 69: 		pFont[0]->initWithSpriteFrameName("tishi_jigao.mydp");
+	Line 70: 		pFont[1]->initWithSpriteFrameName("tishi_jigao.mydp");
+	Line 123: 			pLogo[2]->initWithSpriteFrameName("fuben_right.mydp");
+	Line 132: 			pLogo[1]->initWithSpriteFrameName("fuben_right.mydp");
+	Line 140: 			pLogo[0]->initWithSpriteFrameName("fuben_right.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_FBAccountLayer.cpp (1 hit)
+	Line 250: 				pFontSpr->initWithSpriteFrameName("chongwuchouqu1_font.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_GuessFitGameLayer.cpp (13 hits)
+	Line 154: 			//_myFist->initWithSpriteFrameName(fistImage[fistType]);
+	Line 160: 			//_myFist->initWithSpriteFrameName(fistImage[fistType]);
+	Line 166: 			//_myFist->initWithSpriteFrameName(fistImage[fistType]);
+	Line 212: 		_myFist->initWithSpriteFrameName(fistImage[1]);
+	Line 220: 		_myFist->initWithSpriteFrameName(fistImage[1]);
+	Line 246: 	_myFist->initWithSpriteFrameName(fistImage[fistType]);
+	Line 255: 		_yourFist->initWithSpriteFrameName(fistImage[fistType]);
+	Line 263: 		_yourFist->initWithSpriteFrameName(fistImage[fistType]);
+	Line 278: 		_yourFist->initWithSpriteFrameName(fistImage[fistType]);
+	Line 297: 		_myFist->initWithSpriteFrameName(fistImage[1]);
+	Line 298: 		_yourFist->initWithSpriteFrameName(fistImage[1]);
+	Line 334: 	_myFist->initWithSpriteFrameName(fistImage[1]);
+	Line 342: 	_myFist->initWithSpriteFrameName(fistImage[1]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroBagWithHeChengLayer.cpp (2 hits)
+	Line 82:    titleSpr[selectedBtn]->initWithSpriteFrameName(TitleNameBagHeCheng[selectedBtn][1]);
+	Line 335: 		titleSpr[selectedBtn]->initWithSpriteFrameName(TitleNameBagHeCheng[selectedBtn][0]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroDevilBodyLayer.cpp (2 hits)
+	Line 260: 	pSprite[0]->initWithSpriteFrameName(filename[type]);
+	Line 269: 	pSprite[1]->initWithSpriteFrameName(spriteName[ark_DataManage::getinstance()->m_heroData.DetailData.lianti[5].level]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroLayer.cpp (7 hits)
+	Line 104: 	titleSpr->initWithSpriteFrameName(TitleName[selectedBtn][1]);
+	Line 1854: 			m_renwuSprite->initWithSpriteFrameName("cike_yingzi02.mydp");
+	Line 1858: 			m_renwuSprite->initWithSpriteFrameName("cike_yinzi01.mydp");
+	Line 1866: 			m_renwuSprite->initWithSpriteFrameName("fashi_yinzi02.mydp");
+	Line 1870: 			m_renwuSprite->initWithSpriteFrameName("fashi_yinzi01.mydp");
+	Line 1878: 			m_renwuSprite->initWithSpriteFrameName("zhanshi_yinzi02.mydp");
+	Line 1882: 			m_renwuSprite->initWithSpriteFrameName("zhanshi_yinzi01.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroMainLayer.cpp (4 hits)
+	Line 88: 		titleSpr[selectedBtn]->initWithSpriteFrameName(TitleName[selectedBtn][0]);
+	Line 109: 	titleSpr[selectedBtn]->initWithSpriteFrameName(TitleName[selectedBtn][1]);
+	Line 1030:     pSprite[0]->initWithSpriteFrameName(filename[type]);
+	Line 1036:     pSprite[1]->initWithSpriteFrameName(spriteName[DATA_MNR->m_hero.m_heroData.DetailData.lianti[5].level]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroSkillUpLayer.cpp (6 hits)
+	Line 489: 			m_renwuSprite->initWithSpriteFrameName("cike_yingzi02.mydp");
+	Line 493: 			m_renwuSprite->initWithSpriteFrameName("cike_yinzi01.mydp");
+	Line 501: 			m_renwuSprite->initWithSpriteFrameName("fashi_yinzi02.mydp");
+	Line 505: 			m_renwuSprite->initWithSpriteFrameName("fashi_yinzi01.mydp");
+	Line 513: 			m_renwuSprite->initWithSpriteFrameName("zhanshi_yinzi02.mydp");
+	Line 517: 			m_renwuSprite->initWithSpriteFrameName("zhanshi_yinzi01.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_horseMainLayer.cpp (2 hits)
+	Line 75: 	titleSpr[selectedBtn]->initWithSpriteFrameName(TitleName[selectedBtn][1]);
+	Line 128: 		titleSpr[selectedBtn]->initWithSpriteFrameName(TitleName[selectedBtn][0]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_HuoDongPaiHang.cpp (2 hits)
+	Line 91: 		pTitle[selectBtn]->initWithSpriteFrameName(VecTitleName[selectBtn][0]);
+	Line 98: 	pTitle[selectBtn]->initWithSpriteFrameName(VecTitleName[selectBtn][1]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ItemOrSkillRecvNotify.cpp (1 hit)
+	Line 93: 		okSprite->initWithSpriteFrameName("learn_buttonFont.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_LevelUpReward.cpp (4 hits)
+	Line 83: 			dotSpr[i]->initWithSpriteFrameName("liangdian_hui.mydp");
+	Line 92: 				dotSpr[i]->initWithSpriteFrameName("liangdian_nor.mydp");
+	Line 100: 				dotSpr[i]->initWithSpriteFrameName("liangdian_hui.mydp");
+	Line 244: 	pLevel->initWithSpriteFrameName(level[m_index]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_MarketMainLayer.cpp (2 hits)
+	Line 101: 		titleSpr[selectedBtn]->initWithSpriteFrameName(upBtnName[selectedBtn][0]);
+	Line 107: 	titleSpr[selectedBtn]->initWithSpriteFrameName(upBtnName[selectedBtn][1]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_NotifyLayer.cpp (4 hits)
+	Line 277:     m_fontSprite->initWithSpriteFrameName(filename);
+	Line 494: 	BtnSpr[1]->initWithSpriteFrameName("guajisaodang_font.mydp");
+	Line 542:     m_titleSprite->initWithSpriteFrameName(framename.c_str());
+	Line 871: 	m_titleSprite->initWithSpriteFrameName(fileName);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_NotifyLayer1.cpp (1 hit)
+	Line 131: 	m_fontSprite->initWithSpriteFrameName(filename);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_NotifyLayer2.cpp (1 hit)
+	Line 240: 	BtnSpr[1]->initWithSpriteFrameName("guajisaodang_font.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_NotifyLayer3.cpp (1 hit)
+	Line 63: 	m_titleSprite->initWithSpriteFrameName(framename.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_NotifyLayer5.cpp (1 hit)
+	Line 83: 	m_titleSprite->initWithSpriteFrameName(fileName);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_onhookLayer.cpp (1 hit)
+	Line 39: 			pSprite->initWithSpriteFrameName("tingzhi_buttonFont.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_OutLineExp.cpp (1 hit)
+	Line 252: 			 BuyFont->initWithSpriteFrameName("duihuan_new.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PaymentTaocanCell.cpp (3 hits)
+	Line 62: 	pSpr[0]->initWithSpriteFrameName(buf);
+	Line 366: 	pTag->initWithSpriteFrameName("yilingqu_artFont.mydp");
+	Line 367: 	pSpr[1]->initWithSpriteFrameName("lingqu1_font.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PaymentTaocanLayer.cpp (4 hits)
+	Line 126: 	pTitle[selectBtn]->initWithSpriteFrameName(TitleName[selectBtn][1]);
+	Line 149: 		pTitle[selectBtn]->initWithSpriteFrameName(TitleName[selectBtn][0]);
+	Line 305:         pSpr[2]->initWithSpriteFrameName(cframeName->getCString());
+	Line 543:     pSpr[1]->initWithSpriteFrameName("lingqu1_font.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PetAptitudeLayer.cpp (10 hits)
+	Line 280: 		pArrow[0]->initWithSpriteFrameName("pet_hongjiantou.mydp");
+	Line 285: 		pArrow[0]->initWithSpriteFrameName("pet_lvjiantou.mydp");
+	Line 294: 		pArrow[1]->initWithSpriteFrameName("pet_hongjiantou.mydp");
+	Line 299: 		pArrow[1]->initWithSpriteFrameName("pet_lvjiantou.mydp");
+	Line 308: 		pArrow[2]->initWithSpriteFrameName("pet_hongjiantou.mydp");
+	Line 313: 		pArrow[2]->initWithSpriteFrameName("pet_lvjiantou.mydp");
+	Line 322: 		pArrow[3]->initWithSpriteFrameName("pet_hongjiantou.mydp");
+	Line 327: 		pArrow[3]->initWithSpriteFrameName("pet_lvjiantou.mydp");
+	Line 336: 		pArrow[4]->initWithSpriteFrameName("pet_hongjiantou.mydp");
+	Line 341: 		pArrow[4]->initWithSpriteFrameName("pet_lvjiantou.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_petAvolutionLayer.cpp (3 hits)
+	Line 70: 		avoluteFont->initWithSpriteFrameName("tunshi_baizi.mydp");
+	Line 175: 		avoluteFont->initWithSpriteFrameName("jinhua_baizi.mydp");
+	Line 179: 		avoluteFont->initWithSpriteFrameName("tunshi_baizi.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PetInfoLayer.cpp (1 hit)
+	Line 52:     this->petType->initWithSpriteFrameName(qualityName[data.qualityStar-1][data.petType-1]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_petMainLayer.cpp (7 hits)
+	Line 131: 	titleSpr[selectedBtn]->initWithSpriteFrameName(TitleName[selectedBtn][1]);
+	Line 216: 		titleSpr[selectedBtn]->initWithSpriteFrameName(TitleName[selectedBtn][0]);
+	Line 223: 	titleSpr[0]->initWithSpriteFrameName(TitleName[selectedBtn][0]);
+	Line 598: 	m_qualitySprite->initWithSpriteFrameName(qualityName[curPet.qualityStar-1][curPet.petType-1]);
+	Line 1072: 	avoluteFont->initWithSpriteFrameName("tunshi_baizi.mydp");
+	Line 1175: 		avoluteFont->initWithSpriteFrameName("jinhua_baizi.mydp");
+	Line 1179: 		avoluteFont->initWithSpriteFrameName("tunshi_baizi.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PetShowLayer.cpp (1 hit)
+	Line 105: 		pSprite[1]->initWithSpriteFrameName(QualityName[infoList[0].petQuality-1][infoList[0].petType-1]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PetStateLayer.cpp (1 hit)
+	Line 541: 	m_qualitySprite->initWithSpriteFrameName(qualityName[curPet.qualityStar-1][curPet.petType-1]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_popBlankListLayer.cpp (1 hit)
+	Line 92: 		pTitle->initWithSpriteFrameName("tudibang_titleFont.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_RankListMainLayer.cpp (2 hits)
+	Line 70: 	titleSpr[selectedBtn]->initWithSpriteFrameName(TitleName[selectedBtn][1]);
+	Line 104: 		titleSpr[selectedBtn]->initWithSpriteFrameName(TitleName[selectedBtn][0]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_shopBankLayer.cpp (4 hits)
+	Line 242: 			pCon->initWithSpriteFrameName("newxitong_roundButton.mydp");
+	Line 244: 			pCon->initWithSpriteFrameName("xinyoujian_roundButton.mydp");
+	Line 286: 			pCon->initWithSpriteFrameName("xitongyoujian_roundButton.mydp");
+	Line 288: 			pCon->initWithSpriteFrameName("yiduyoujian_roundButton.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_socialSystemLayer.cpp (6 hits)
+	Line 82: 	titleSpr[selectedBtn]->initWithSpriteFrameName(TitleName[selectedBtn][1]);
+	Line 142: 		titleSpr[selectedBtn]->initWithSpriteFrameName(TitleName[selectedBtn][0]);
+	Line 1206:             pCon->initWithSpriteFrameName("newxitong_roundButton.mydp");
+	Line 1208:             pCon->initWithSpriteFrameName("xinyoujian_roundButton.mydp");
+	Line 1250:             pCon->initWithSpriteFrameName("xitongyoujian_roundButton.mydp");
+	Line 1252:             pCon->initWithSpriteFrameName("yiduyoujian_roundButton.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_StrongItem.cpp (2 hits)
+	Line 58: 	pLogo->initWithSpriteFrameName(logoname);
+	Line 59: 	pTitleName->initWithSpriteFrameName(titlename);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_VipLayer.cpp (12 hits)
+	Line 176: 			titleSpr[1]->initWithSpriteFrameName("bannian_new.mydp");
+	Line 177: 			titleSpr[4]->initWithSpriteFrameName("zhizunlibao_new.mydp");
+	Line 178: 			titleSpr[5]->initWithSpriteFrameName("zhizun_new.mydp");
+	Line 179: 			titleSpr[6]->initWithSpriteFrameName("banniankabao_new.mydp");
+	Line 226: 			titleSpr[1]->initWithSpriteFrameName("jidu_new.mydp");
+	Line 227: 			titleSpr[4]->initWithSpriteFrameName("zuanshilibao_new.mydp");
+	Line 228: 			titleSpr[5]->initWithSpriteFrameName("zuanshi_new.mydp");
+	Line 229: 			titleSpr[6]->initWithSpriteFrameName("zuanshikabao_new.mydp");
+	Line 276: 			titleSpr[1]->initWithSpriteFrameName("yuefen_new.mydp");
+	Line 277: 			titleSpr[4]->initWithSpriteFrameName("baijinlibao_new.mydp");
+	Line 278: 			titleSpr[5]->initWithSpriteFrameName("baijin_new.mydp");
+	Line 279: 			titleSpr[6]->initWithSpriteFrameName("jidukabao_new.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_WanFa.cpp (13 hits)
+	Line 3459: 			//_myFist->initWithSpriteFrameName(fistImage[fistType]);
+	Line 3465: 			//_myFist->initWithSpriteFrameName(fistImage[fistType]);
+	Line 3471: 			//_myFist->initWithSpriteFrameName(fistImage[fistType]);
+	Line 3517: 		_myFist->initWithSpriteFrameName(fistImage[1]);
+	Line 3525: 		_myFist->initWithSpriteFrameName(fistImage[1]);
+	Line 3551: 	_myFist->initWithSpriteFrameName(fistImage[fistType]);
+	Line 3560: 		_yourFist->initWithSpriteFrameName(fistImage[fistType]);
+	Line 3568: 		_yourFist->initWithSpriteFrameName(fistImage[fistType]);
+	Line 3583: 		_yourFist->initWithSpriteFrameName(fistImage[fistType]);
+	Line 3602: 		_myFist->initWithSpriteFrameName(fistImage[1]);
+	Line 3603: 		_yourFist->initWithSpriteFrameName(fistImage[1]);
+	Line 3639: 	_myFist->initWithSpriteFrameName(fistImage[1]);
+	Line 3647: 	_myFist->initWithSpriteFrameName(fistImage[1]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_object\ark_moveSprite.cpp (3 hits)
+	Line 27: 	pPaddle->initWithSpriteFrameName(frameName);// ( aTexture );
+	Line 40: bool ark_moveSprite::initWithSpriteFrameName(const char* frameName)
+	Line 42: 	if( CCSprite::initWithSpriteFrameName(frameName) ) 
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_object\ark_moveSprite.h (1 hit)
+	Line 21: 	bool initWithSpriteFrameName(const char* frameName);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\BangPaiLayer.cpp (2 hits)
+	Line 61: 			m_Sprite[i]->initWithSpriteFrameName(TitleName[i][0]);
+	Line 2708:     _TitleSprite->initWithSpriteFrameName(frameName);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\BeStrongLayer.cpp (3 hits)
+	Line 65: 	m_titleSprite->initWithSpriteFrameName(frame.c_str());
+	Line 240:     pLogo->initWithSpriteFrameName(logoname);
+	Line 241:     pTitleName->initWithSpriteFrameName(titlename);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\BlankListDialog.cpp (1 hit)
+	Line 91: 		pTitle->initWithSpriteFrameName("tudibang_titleFont.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\Chat\ChatMainLayer.cpp (3 hits)
+	Line 49: 			m_Sprite[i]->initWithSpriteFrameName(TitleName[i][0]);
+	Line 76: 			m_Sprite[m_selectIndex]->initWithSpriteFrameName(TitleName[m_selectIndex][0]);
+	Line 140: 	m_Sprite[index]->initWithSpriteFrameName(TitleName[index][1]);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\Chat\ChatPage.cpp (6 hits)
+	Line 543:         m_selChannelSprite->initWithSpriteFrameName(channelOption[0]);
+	Line 546:         m_selChannelSprite->initWithSpriteFrameName(channelOption[0]);
+	Line 549:         m_selChannelSprite->initWithSpriteFrameName (channelOption[1]);
+	Line 585:         m_selChannelSprite->initWithSpriteFrameName(channelOption[2]);
+	Line 588:         m_selChannelSprite->initWithSpriteFrameName(channelOption[3]);
+	Line 591:         m_selChannelSprite->initWithSpriteFrameName(channelOption[0]);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\CompeteHeroCell.cpp (2 hits)
+	Line 143: 	    _buttonFont->initWithSpriteFrameName("suijizhan_buttonFont.mydp");
+	Line 144: 	    bgSprite->initWithSpriteFrameName("jingji_landikuang_sel.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\CopyAccountDialog.cpp (1 hit)
+	Line 220: 				pFontSpr->initWithSpriteFrameName("chongwuchouqu1_font.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\CopyLayer.cpp (9 hits)
+	Line 75: 	titleSpr[selectedBtn]->initWithSpriteFrameName(TitleName[selectedBtn][1]);
+	Line 99: 		titleSpr[selectedBtn]->initWithSpriteFrameName(TitleName[selectedBtn][0]);
+	Line 532:     pBack->initWithSpriteFrameName(GetCardNameByIdx(copyIdx));
+	Line 534:     pCopyName->initWithSpriteFrameName(GetTitleNameByIdx(copyIdx));
+	Line 968:         pSprite[1]->initWithSpriteFrameName("quxiaoguaji_font.mydp");
+	Line 970:         pSprite[1]->initWithSpriteFrameName("guajisaodang_font.mydp");
+	Line 1094: 		pLogo[2]->initWithSpriteFrameName("fuben_right.mydp");
+	Line 1103: 		pLogo[1]->initWithSpriteFrameName("fuben_right.mydp");
+	Line 1111: 		pLogo[0]->initWithSpriteFrameName("fuben_right.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\FishingLayer.cpp (9 hits)
+	Line 74: 			yuGanSprite->initWithSpriteFrameName("yugan_roundButton_sel.mydp");
+	Line 82: 			yuGanSprite->initWithSpriteFrameName("shouqi_roundButton_sel.mydp");
+	Line 91: 		yuLanSprite->initWithSpriteFrameName("wode_roundButton_sel.mydp");
+	Line 119: 				 yuGanSprite->initWithSpriteFrameName("yugan_roundButton_nor.mydp");
+	Line 124: 				 yuGanSprite->initWithSpriteFrameName("shouqi_roundButton_nor.mydp");
+	Line 131: 		 yuLanSprite->initWithSpriteFrameName("wode_roundButton_nor.mydp");
+	Line 166: 			yuGanSprite->initWithSpriteFrameName("yugan_roundButton_nor.mydp");
+	Line 171: 			yuGanSprite->initWithSpriteFrameName("shouqi_roundButton_nor.mydp");
+	Line 791: 		TitleNameSpr->initWithSpriteFrameName("xinghewan_titleFont.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\GameMenu.cpp (6 hits)
+	Line 261: 		mVipSprite->initWithSpriteFrameName(vipstr[DATA_MGR->m_hero.vipType.type].c_str());
+	Line 2068: 	mVipSprite->initWithSpriteFrameName(vipstr[DATA_MGR->m_hero.vipType.type].c_str());
+	Line 2164: 					pNumBack->initWithSpriteFrameName("yuandian_2.mydp");
+	Line 2166: 					pNumBack->initWithSpriteFrameName("yuandian_1.mydp");
+	Line 2218: 			NumBack->initWithSpriteFrameName("yuandian_2.mydp");
+	Line 2220: 			NumBack->initWithSpriteFrameName("yuandian_1.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\HeroBagItemHeChengLayer.cpp (2 hits)
+	Line 81:    titleSpr[selectedBtn]->initWithSpriteFrameName(TitleNameBagHeCheng[selectedBtn][1]);
+	Line 319: 		titleSpr[selectedBtn]->initWithSpriteFrameName(TitleNameBagHeCheng[selectedBtn][0]);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\HeroInfoDialog.cpp (8 hits)
+	Line 413:     _pSprite[0]->initWithSpriteFrameName(PetStatePage::GetLogoNameByQuality(data.qualityStar-1,data.petType-1));
+	Line 432:     _pSprite[12]->initWithSpriteFrameName(getBkgNameByIdx(hero.DetailData.m_PetKaiJia[data.fightPos][0].jie).c_str());
+	Line 433:     _pSprite[13]->initWithSpriteFrameName(getBkgNameByIdx(hero.DetailData.m_PetKaiJia[data.fightPos][2].jie).c_str());
+	Line 434:     _pSprite[14]->initWithSpriteFrameName(getBkgNameByIdx(hero.DetailData.m_PetKaiJia[data.fightPos][1].jie).c_str());
+	Line 435:     _pSprite[15]->initWithSpriteFrameName(getBkgNameByIdx(hero.DetailData.m_PetKaiJia[data.fightPos][3].jie).c_str());
+	Line 626:         _pType->initWithSpriteFrameName(petType[pet.petType-1]);
+	Line 854:     _pSpr[1]->initWithSpriteFrameName(PetInfoDialog::getBkgNameByIdx(data.jie).c_str());
+	Line 855:     _pSpr[0]->initWithSpriteFrameName(getNameByIdx(data.type).c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\HeroLayer.cpp (4 hits)
+	Line 85: 		titleSpr[selectedBtn]->initWithSpriteFrameName(TitleName[selectedBtn][0]);
+	Line 106: 	titleSpr[selectedBtn]->initWithSpriteFrameName(TitleName[selectedBtn][1]);
+	Line 931:     pSprite[0]->initWithSpriteFrameName(filename[type]);
+	Line 932:     pSprite[1]->initWithSpriteFrameName(spriteName[detaildata.lianti[5].level]);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\HeroSinglePageLayer.cpp (11 hits)
+	Line 99: 	titleSpr->initWithSpriteFrameName(TitleName[selectedBtn][1]);
+	Line 1614:             _buttonFont->initWithSpriteFrameName("learn_buttonFont.mydp");
+	Line 1616:             _buttonFont->initWithSpriteFrameName("update_buttonFont.mydp");
+	Line 1724:         _buttonFont->initWithSpriteFrameName("learn_buttonFont.mydp");
+	Line 1726:         _buttonFont->initWithSpriteFrameName("update_buttonFont.mydp");
+	Line 1840: 			_renwuSprite->initWithSpriteFrameName("cike_yingzi02.mydp");
+	Line 1844: 			_renwuSprite->initWithSpriteFrameName("cike_yinzi01.mydp");
+	Line 1852: 			_renwuSprite->initWithSpriteFrameName("fashi_yinzi02.mydp");
+	Line 1856: 			_renwuSprite->initWithSpriteFrameName("fashi_yinzi01.mydp");
+	Line 1864: 			_renwuSprite->initWithSpriteFrameName("zhanshi_yinzi02.mydp");
+	Line 1868: 			_renwuSprite->initWithSpriteFrameName("zhanshi_yinzi01.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\HorseLayer.cpp (2 hits)
+	Line 72: 	titleSpr[selectedBtn]->initWithSpriteFrameName(TitleName[selectedBtn][1]);
+	Line 125: 		titleSpr[selectedBtn]->initWithSpriteFrameName(TitleName[selectedBtn][0]);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ItemDuanZaoLayer.cpp (6 hits)
+	Line 186: 		_pSprite[i]->initWithSpriteFrameName(TitleName[i][0]);
+	Line 3959:         pTitle->initWithSpriteFrameName("mingwenshuoming_font.mydp");
+	Line 3967:         pTitle->initWithSpriteFrameName("lianhuashuoming_font.mydp");
+	Line 4019: 	    pBack->initWithSpriteFrameName(Item_back_color[0][1]);
+	Line 4265: 	pBack->initWithSpriteFrameName(Item_back_color[0][1]);
+	Line 4463: 	pBack->initWithSpriteFrameName(Item_back_color[0][1]);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ItemHeChengLayer.cpp (1 hit)
+	Line 51: 		m_Sprite[i]->initWithSpriteFrameName(TitleName[i][0]);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ItemOrSkillRecvDialog.cpp (2 hits)
+	Line 105: 		okSprite->initWithSpriteFrameName("learn_buttonFont.mydp");
+	Line 172: 	okSprite->initWithSpriteFrameName("shiyong_subButtonFont.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\LoginConsole.cpp (9 hits)
+	Line 2655: 					lastServerSpr->initWithSpriteFrameName("shurukuang_356man.mydp");
+	Line 2911: 	    vecAreaButton[selectBtn]->initWithSpriteFrameName("107x40_sel.mydp");
+	Line 2958: 		vecAreaButton[selectBtn]->initWithSpriteFrameName("107x40_nor.mydp");
+	Line 2970: 		vecAreaButton[idx]->initWithSpriteFrameName("107x40_sel.mydp");
+	Line 3045: 			pBk->initWithSpriteFrameName("shurukuang_356.mydp");
+	Line 3054: 	lastServerSpr->initWithSpriteFrameName("shurukuang_356.mydp");
+	Line 3060: 		pBk->initWithSpriteFrameName("shurukuang_356man.mydp");
+	Line 3079: 			pBk->initWithSpriteFrameName("shurukuang_356.mydp");
+	Line 3083: 		lastServerSpr->initWithSpriteFrameName("shurukuang_356man.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\MarketLayer.cpp (3 hits)
+	Line 93: 		titleSpr[selectedBtn]->initWithSpriteFrameName(upBtnName[selectedBtn][0]);
+	Line 99: 	titleSpr[selectedBtn]->initWithSpriteFrameName(upBtnName[selectedBtn][1]);
+	Line 263: 		m_shuomingSprite->initWithSpriteFrameName("lvshuzi1_Font.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\NotifyDialog.cpp (10 hits)
+	Line 279:     m_fontSprite->initWithSpriteFrameName(filename);
+	Line 487: 	BtnSpr[1]->initWithSpriteFrameName("guajisaodang_font.mydp");
+	Line 535:     m_titleSprite->initWithSpriteFrameName(framename.c_str());
+	Line 865: 	m_titleSprite->initWithSpriteFrameName(fileName);
+	Line 1087:         _pFont[2]->initWithSpriteFrameName("zidongyunbiao_font.mydp");
+	Line 1098:         _pFont[0]->initWithSpriteFrameName("huaiche_font.mydp");
+	Line 1099:         _pFont[1]->initWithSpriteFrameName("buhuaiche_font.mydp");
+	Line 1129:         _pFont[2]->initWithSpriteFrameName("jixunyunbiao_font.mydp");
+	Line 1144:         _pFont[2]->initWithSpriteFrameName("jixunyunbiao_font.mydp");
+	Line 1160:             _pFont[2]->initWithSpriteFrameName("wanchengyunbiao_font.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PayFirstLayer.cpp (2 hits)
+	Line 229:         _menuText->initWithSpriteFrameName("lingqujiangli_new.mydp");
+	Line 236:         _menuText->initWithSpriteFrameName("qiangjianli_new.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PayTaocanLayer.cpp (4 hits)
+	Line 120: 	pTitle[selectBtn]->initWithSpriteFrameName(TitleName[selectBtn][1]);
+	Line 143: 		pTitle[selectBtn]->initWithSpriteFrameName(TitleName[selectBtn][0]);
+	Line 297:         pSpr[2]->initWithSpriteFrameName(cframeName->getCString());
+	Line 535:     pSpr[1]->initWithSpriteFrameName("lingqu1_font.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PetInfoDialog.cpp (1 hit)
+	Line 42:     this->petType->initWithSpriteFrameName(PetStatePage::GetLogoNameByQuality(data.qualityStar-1,data.petType-1));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PetLayer.cpp (5 hits)
+	Line 128: 	_TitleSpr[selectedBtn]->initWithSpriteFrameName(GetTitleNameByIdx(selectedBtn,1));
+	Line 209: 		_TitleSpr[_selectedBtn]->initWithSpriteFrameName(GetTitleNameByIdx(_selectedBtn,0));
+	Line 554: 	_qualitySprite->initWithSpriteFrameName(GetLogoNameByQuality(_curPet.qualityStar-1,_curPet.petType-1));
+	Line 900: 	_EvoluteFont->initWithSpriteFrameName("tunshi_baizi.mydp");
+	Line 1000:     _EvoluteFont->initWithSpriteFrameName("jinhua_baizi.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PetShowLayer.cpp (1 hit)
+	Line 122: 		_ArySprite[1]->initWithSpriteFrameName(PetStatePage::GetLogoNameByQuality(infoList[0].petQuality-1,infoList[0].petType-1));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\RankListLayer.cpp (2 hits)
+	Line 68: 	titleSpr[selectedBtn]->initWithSpriteFrameName(TitleName[selectedBtn][1]);
+	Line 102: 		titleSpr[selectedBtn]->initWithSpriteFrameName(TitleName[selectedBtn][0]);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\SaveTradeLayer.cpp (4 hits)
+	Line 55: 	m_buttonSprite[1]->initWithSpriteFrameName("suoding02_subButtonFont.mydp");
+	Line 207: 			m_selfLockSprite->initWithSpriteFrameName("lockIcon.mydp");
+	Line 208: 			m_buttonSprite[1]->initWithSpriteFrameName("jiaoyi01_subButtonFont.mydp");
+	Line 298: 	m_otherLockSprite->initWithSpriteFrameName("lockIcon.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\SocialLayer.cpp (6 hits)
+	Line 81: 	titleSpr[selectedBtn]->initWithSpriteFrameName(TitleName[selectedBtn][1]);
+	Line 141: 		titleSpr[selectedBtn]->initWithSpriteFrameName(TitleName[selectedBtn][0]);
+	Line 1184:             pCon->initWithSpriteFrameName("newxitong_roundButton.mydp");
+	Line 1186:             pCon->initWithSpriteFrameName("xinyoujian_roundButton.mydp");
+	Line 1228:             pCon->initWithSpriteFrameName("xitongyoujian_roundButton.mydp");
+	Line 1230:             pCon->initWithSpriteFrameName("yiduyoujian_roundButton.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\StarAwardDialog.cpp (13 hits)
+	Line 170: 			this->m_Sprite1->initWithSpriteFrameName("tongguanshibai.mydp");
+	Line 184: 					this->m_Sprite1->initWithSpriteFrameName("putong_tongguan.mydp");
+	Line 185: 					this->m_Sprite2->initWithSpriteFrameName("1xing_tongguang.mydp");
+	Line 191: 					this->m_Sprite1->initWithSpriteFrameName("putongjipou.mydp");
+	Line 192: 					this->m_Sprite2->initWithSpriteFrameName("1xing_jipo.mydp");
+	Line 203: 				this->m_Sprite1->initWithSpriteFrameName("wanmei_tongguan.mydp");
+	Line 204: 				this->m_Sprite2->initWithSpriteFrameName("2xing_tongguang.mydp");
+	Line 210: 				 this->m_Sprite1->initWithSpriteFrameName("jingyingjipou.mydp");
+	Line 211: 				 this->m_Sprite2->initWithSpriteFrameName("2xing_jipo.mydp");
+	Line 223: 				this->m_Sprite1->initWithSpriteFrameName("zhaosheng_tongguan.mydp");
+	Line 224: 				this->m_Sprite2->initWithSpriteFrameName("3xing_tongguang.mydp");
+	Line 230: 				 this->m_Sprite1->initWithSpriteFrameName("chaoshenjipou.mydp");
+	Line 231: 				 this->m_Sprite2->initWithSpriteFrameName("3xing_jipo.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\VipLayer.cpp (12 hits)
+	Line 176: 			titleSpr[1]->initWithSpriteFrameName("bannian_new.mydp");
+	Line 177: 			titleSpr[4]->initWithSpriteFrameName("zhizunlibao_new.mydp");
+	Line 178: 			titleSpr[5]->initWithSpriteFrameName("zhizun_new.mydp");
+	Line 179: 			titleSpr[6]->initWithSpriteFrameName("banniankabao_new.mydp");
+	Line 226: 			titleSpr[1]->initWithSpriteFrameName("jidu_new.mydp");
+	Line 227: 			titleSpr[4]->initWithSpriteFrameName("zuanshilibao_new.mydp");
+	Line 228: 			titleSpr[5]->initWithSpriteFrameName("zuanshi_new.mydp");
+	Line 229: 			titleSpr[6]->initWithSpriteFrameName("zuanshikabao_new.mydp");
+	Line 276: 			titleSpr[1]->initWithSpriteFrameName("yuefen_new.mydp");
+	Line 277: 			titleSpr[4]->initWithSpriteFrameName("baijinlibao_new.mydp");
+	Line 278: 			titleSpr[5]->initWithSpriteFrameName("baijin_new.mydp");
+	Line 279: 			titleSpr[6]->initWithSpriteFrameName("jidukabao_new.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\WanFaLayer.cpp (12 hits)
+	Line 3475: 		_myFist->initWithSpriteFrameName(GetFistImageNameByIdx(1));
+	Line 3483: 		_myFist->initWithSpriteFrameName(GetFistImageNameByIdx(1));
+	Line 3509: 	_myFist->initWithSpriteFrameName(GetFistImageNameByIdx(fistType));
+	Line 3518: 		_yourFist->initWithSpriteFrameName(GetFistImageNameByIdx(fistType));
+	Line 3526: 		_yourFist->initWithSpriteFrameName(GetFistImageNameByIdx(fistType));
+	Line 3541: 		_yourFist->initWithSpriteFrameName(GetFistImageNameByIdx(fistType));
+	Line 3560: 		_myFist->initWithSpriteFrameName(GetFistImageNameByIdx(1));
+	Line 3561: 		_yourFist->initWithSpriteFrameName(GetFistImageNameByIdx(1));
+	Line 3584: 	_myFist->initWithSpriteFrameName(GetFistImageNameByIdx(1));
+	Line 3592: 	_myFist->initWithSpriteFrameName(GetFistImageNameByIdx(1));
+	Line 3714:     _pNewTitle[_selIndex]->initWithSpriteFrameName(GetTitleNameByIdx(_selIndex,1));
+	Line 3748:         _pNewTitle[_selIndex]->initWithSpriteFrameName(GetTitleNameByIdx(_selIndex,0));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\WelfareKaifuLayer.cpp (7 hits)
+	Line 88: 		pTitle[selectBtn]->initWithSpriteFrameName(VecTitleName[selectBtn][0]);
+	Line 95: 	pTitle[selectBtn]->initWithSpriteFrameName(VecTitleName[selectBtn][1]);
+	Line 721: 			m_Sprite->initWithSpriteFrameName("zhuangyuan_jiangbei.mydp");
+	Line 726: 			m_Sprite->initWithSpriteFrameName("bangyan_jiangbei.mydp");
+	Line 731: 			m_Sprite->initWithSpriteFrameName("taihua_jiangbei.mydp");
+	Line 749: 			m_Sprite1->initWithSpriteFrameName("dengji_huangzi.mydp");
+	Line 754: 			m_Sprite1->initWithSpriteFrameName("zhanli_huangzi.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\WelfareLevelUpLayer.cpp (4 hits)
+	Line 87: 			dotSpr[i]->initWithSpriteFrameName("liangdian_hui.mydp");
+	Line 96: 				dotSpr[i]->initWithSpriteFrameName("liangdian_nor.mydp");
+	Line 104: 				dotSpr[i]->initWithSpriteFrameName("liangdian_hui.mydp");
+	Line 248: 	pLevel->initWithSpriteFrameName(level[m_index]);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\WelfareOffLineExpLayer.cpp (1 hit)
+	Line 246: 			 BuyFont->initWithSpriteFrameName("duihuan_new.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_object\ark_hero.cpp (3 hits)
+	Line 99:                 convoyLogo->initWithSpriteFrameName(logoFileName);
+	Line 1741:             pSpr->initWithSpriteFrameName("guajizhong_art.mydp");
+	Line 1885:             pMedal->initWithSpriteFrameName(str->getCString());
+
+
+Search "createWithSpriteFrameName" (331 hits in 93 files)
+  C:\Users\Administrator\Desktop\aa\ark_console\CGPlotMgr.cpp (1 hit)
+	Line 217: 			CCSprite* bqSpr = CCSprite::createWithSpriteFrameName("bq_14.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_console\FuncPushMgr.cpp (4 hits)
+	Line 137:             pushIcon1 = CCSprite::createWithSpriteFrameName(getFpIconNameByIndex(m_pushIndex));
+	Line 152:         pushIcon1 = CCSprite::createWithSpriteFrameName("wanfatuisong_diwen.mydp");
+	Line 153:         pushIcon2 = CCSprite::createWithSpriteFrameName("wanfatuisong_wenzi.mydp");
+	Line 154:         pushIcon3 = CCSprite::createWithSpriteFrameName(getWpIconNameByIndex(m_pushIndex));
+  C:\Users\Administrator\Desktop\aa\ark_control\AnalysisLabelConsole.cpp (1 hit)
+	Line 143: 					CCSprite* spr = CCSprite::createWithSpriteFrameName(CCString::createWithFormat("bq_%d.mydp",Eid)->getCString());
+  C:\Users\Administrator\Desktop\aa\ark_control\BagHorScrollView.cpp (1 hit)
+	Line 153: 			CCSprite* spr = CCSprite::createWithSpriteFrameName("objectFrame_lock.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_control\BattleNumChangeAni.cpp (4 hits)
+	Line 135: 	CCSprite* pSpriteBg = CCSprite::createWithSpriteFrameName("moji2_diwen.mydp");
+	Line 140: 	CCSprite* pSprite = CCSprite::createWithSpriteFrameName(TitleNameAll[HeroPetPicID].c_str());
+	Line 227: 	CCSprite* pSpriteBg = CCSprite::createWithSpriteFrameName("moji2_diwen.mydp");
+	Line 232: 	CCSprite* pSprite = CCSprite::createWithSpriteFrameName(TitleNameAll[HeroPetPicID].c_str());
+  C:\Users\Administrator\Desktop\aa\ark_control\ImageNumConsole.cpp (1 hit)
+	Line 95:         if(bitSpr = CCSprite::createWithSpriteFrameName(bitName.c_str()))
+  C:\Users\Administrator\Desktop\aa\ark_control\ItemWithQualityBack.cpp (16 hits)
+	Line 40: 				bgSpr = CCSprite::createWithSpriteFrameName("baise_kung.mydp");// 白
+	Line 44: 				bgSpr = CCSprite::createWithSpriteFrameName("lvse_kung.mydp");// 绿
+	Line 48: 				bgSpr = CCSprite::createWithSpriteFrameName("lanse_kung.mydp");// 篮
+	Line 53: 				bgSpr = CCSprite::createWithSpriteFrameName("zise_kung.mydp");// 紫
+	Line 57: 				bgSpr = CCSprite::createWithSpriteFrameName("huangse_kung.mydp");// 橙
+	Line 61: 				bgSpr = CCSprite::createWithSpriteFrameName("jinse_kung.mydp");// 金
+	Line 65: 				bgSpr = CCSprite::createWithSpriteFrameName("fense_kung.mydp");// 粉
+	Line 69: 				bgSpr = CCSprite::createWithSpriteFrameName("hongse_kung.mydp");// 红
+	Line 101: 				bgSpr = CCSprite::createWithSpriteFrameName("baise_kung.mydp");// 白
+	Line 105: 				bgSpr = CCSprite::createWithSpriteFrameName("lvse_kung.mydp");// 绿
+	Line 109: 				bgSpr = CCSprite::createWithSpriteFrameName("lanse_kung.mydp");// 篮
+	Line 114: 				bgSpr = CCSprite::createWithSpriteFrameName("zise_kung.mydp");// 紫
+	Line 118: 				bgSpr = CCSprite::createWithSpriteFrameName("huangse_kung.mydp");// 橙
+	Line 122: 				bgSpr = CCSprite::createWithSpriteFrameName("jinse_kung.mydp");// 金
+	Line 126: 				bgSpr = CCSprite::createWithSpriteFrameName("fense_kung.mydp");// 粉
+	Line 130: 				bgSpr = CCSprite::createWithSpriteFrameName("hongse_kung.mydp");// 红
+  C:\Users\Administrator\Desktop\aa\ark_control\PopEmptyLayer.cpp (1 hit)
+	Line 30: 	CCScale9Sprite *p9Sprite = CCScale9Sprite::createWithSpriteFrameName("listBkg.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_console\ark_FuncPushManage.cpp (4 hits)
+	Line 134:         pushIcon1 = CCSprite::createWithSpriteFrameName(getFpIconNameByIndex(m_pushIndex));
+	Line 148:         pushIcon1 = CCSprite::createWithSpriteFrameName("wanfatuisong_diwen.mydp");
+	Line 149:         pushIcon2 = CCSprite::createWithSpriteFrameName("wanfatuisong_wenzi.mydp");
+	Line 150:         pushIcon3 = CCSprite::createWithSpriteFrameName(getWpIconNameByIndex(m_pushIndex));
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_console\ark_SpacialPloteManage.cpp (1 hit)
+	Line 225: 			CCSprite *bqSpr = CCSprite::createWithSpriteFrameName("bq_14.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_control\ark_artNumberNode.cpp (11 hits)
+	Line 42: 			bitSpr = CCSprite::createWithSpriteFrameName(bitName.c_str());
+	Line 47: 			bitSpr = CCSprite::createWithSpriteFrameName(bitName.c_str());
+	Line 52: 			bitSpr = CCSprite::createWithSpriteFrameName(bitName.c_str());
+	Line 58: 			bitSpr = CCSprite::createWithSpriteFrameName(bitName.c_str());
+	Line 63: 			bitSpr = CCSprite::createWithSpriteFrameName(bitName.c_str());
+	Line 69: 			bitSpr = CCSprite::createWithSpriteFrameName(bitName.c_str());
+	Line 76: 			bitSpr = CCSprite::createWithSpriteFrameName(bitName.c_str());
+	Line 82: 			bitSpr = CCSprite::createWithSpriteFrameName(bitName.c_str());
+	Line 87: 			bitSpr = CCSprite::createWithSpriteFrameName(bitName.c_str());
+	Line 92: 			bitSpr = CCSprite::createWithSpriteFrameName(bitName.c_str());
+	Line 97: 			bitSpr = CCSprite::createWithSpriteFrameName(bitName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_control\ark_bagScrollView.cpp (1 hit)
+	Line 170: 			CCSprite *spr = CCSprite::createWithSpriteFrameName("objectFrame_lock.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_control\ark_BattleNumberChangeAnmi.cpp (4 hits)
+	Line 141: 	CCSprite* pSpriteBg = CCSprite::createWithSpriteFrameName("moji2_diwen.mydp");
+	Line 146: 	CCSprite* pSprite = CCSprite::createWithSpriteFrameName(TitleNameAll[HeroPetPicID].c_str());
+	Line 233: 	CCSprite* pSpriteBg = CCSprite::createWithSpriteFrameName("moji2_diwen.mydp");
+	Line 238: 	CCSprite* pSprite = CCSprite::createWithSpriteFrameName(TitleNameAll[HeroPetPicID].c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_gameLayer.cpp (2 hits)
+	Line 1624:     CCSprite *pEffect1 = CCSprite::createWithSpriteFrameName("lan_guangxiao03.mydp");
+	Line 1639:     CCSprite *pFont = CCSprite::createWithSpriteFrameName("shenchongjianglin_lanzi.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_gameScene.cpp (1 hit)
+	Line 3845:     CCSprite *pEffect1 = CCSprite::createWithSpriteFrameName("lan_guangxiao03.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_gameUISelectServer.cpp (2 hits)
+	Line 61: 			CCSprite *plog = CCSprite::createWithSpriteFrameName("shangcidenglu_dian.mydp");
+	Line 438: 		CCSprite* pBtnBg= CCSprite::createWithSpriteFrameName("107x40_nor.mydp");  // 按钮底图
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_heroCreateLayer.cpp (2 hits)
+	Line 311: 	this->IconSpr = CCSprite::createWithSpriteFrameName(iconFileName.c_str());
+	Line 319: 	this->introduceSpr = CCSprite::createWithSpriteFrameName(introduceFileName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_MainMenuLayer.cpp (18 hits)
+	Line 701: 				CCSprite *pNor = CCSprite::createWithSpriteFrameName("guajiclose_nor.mydp");
+	Line 702: 				CCSprite *pSel = CCSprite::createWithSpriteFrameName("guajiclose_sel.mydp");
+	Line 703: 				CCSprite *pDis = CCSprite::createWithSpriteFrameName("guajiclose_sel.mydp");
+	Line 709: 				CCSprite *pNor = CCSprite::createWithSpriteFrameName("guaji_nor.mydp");
+	Line 710: 				CCSprite *pSel = CCSprite::createWithSpriteFrameName("guaji_sel.mydp");
+	Line 711: 				CCSprite *pDis = CCSprite::createWithSpriteFrameName("guaji_sel.mydp");
+	Line 2254: 		CCSprite *pNor = CCSprite::createWithSpriteFrameName("guajiclose_nor.mydp");
+	Line 2255: 		CCSprite *pSel = CCSprite::createWithSpriteFrameName("guajiclose_sel.mydp");
+	Line 2256: 		CCSprite *pDis = CCSprite::createWithSpriteFrameName("guajiclose_sel.mydp");
+	Line 2260: 		CCSprite *pNor = CCSprite::createWithSpriteFrameName("guaji_nor.mydp");
+	Line 2261: 		CCSprite *pSel = CCSprite::createWithSpriteFrameName("guaji_sel.mydp");
+	Line 2262: 		CCSprite *pDis = CCSprite::createWithSpriteFrameName("guaji_sel.mydp");
+	Line 2339: 	CCSprite *pNor = CCSprite::createWithSpriteFrameName(norName);
+	Line 2340: 	CCSprite *pSel = CCSprite::createWithSpriteFrameName(selName);
+	Line 2385: 					pNumBack = CCSprite::createWithSpriteFrameName("yuandian_2.mydp");
+	Line 2387: 					pNumBack = CCSprite::createWithSpriteFrameName("yuandian_1.mydp");
+	Line 2439: 			NumBack = CCSprite::createWithSpriteFrameName("yuandian_2.mydp");
+	Line 2441: 			NumBack = CCSprite::createWithSpriteFrameName("yuandian_1.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ActivityLayer.cpp (1 hit)
+	Line 118: 	titleSpr[idx] = CCSprite::createWithSpriteFrameName(TitleName[idx][0]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_AdvancePath.cpp (2 hits)
+	Line 121: 		CCSprite *pNor = CCSprite::createWithSpriteFrameName("bangzhu_nor.mydp");
+	Line 122: 		CCSprite *pSel = CCSprite::createWithSpriteFrameName("bangzhu_sel.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_AnimaDonateLayer.cpp (1 hit)
+	Line 441: 	CCSprite *pBall = CCSprite::createWithSpriteFrameName(boolName[m_step-1]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_convoyLayer.cpp (1 hit)
+	Line 244: 	buttonSpr = CCSprite::createWithSpriteFrameName(FileName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_copyMainLayer.cpp (1 hit)
+	Line 152: 	titleSpr[idx] = CCSprite::createWithSpriteFrameName(TitleName[idx][0]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_dailyQuestionLayer.cpp (1 hit)
+	Line 42: 		pSprite[3] = CCSprite::createWithSpriteFrameName("zhengque_artFont.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_dailyTaskLayer.cpp (5 hits)
+	Line 517: 		CCSprite *pIcon = CCSprite::createWithSpriteFrameName(IconName[ActivityList[i].id-1]);
+	Line 664: 			CCSprite *pTag = CCSprite::createWithSpriteFrameName("wancheng_zhang.mydp");
+	Line 680: 				CCSprite *pNor = CCSprite::createWithSpriteFrameName("hongsubButton_nor.mydp");
+	Line 681: 				CCSprite *pSel = CCSprite::createWithSpriteFrameName("hongsubButton_sel.mydp");
+	Line 687: 				CCSprite *pLabel = CCSprite::createWithSpriteFrameName("qianwang__baizi.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ExtractPetLayer.cpp (1 hit)
+	Line 386: 		CCSprite *pspr = CCSprite::createWithSpriteFrameName(petBack[i]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_FBAccountLayer.cpp (1 hit)
+	Line 465: 	CCSprite *huode = CCSprite::create("UI/huodechongwu_newzi.mydp");//createWithSpriteFrameName(titleName[0].c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_GuessFitGameLayer.cpp (2 hits)
+	Line 49: 		_myFist = CCSprite::createWithSpriteFrameName(fistImage[1]);
+	Line 54: 		_yourFist = CCSprite::createWithSpriteFrameName(fistImage[1]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroBagLayer.cpp (8 hits)
+	Line 91: 			CCSprite* pNor = CCSprite::createWithSpriteFrameName("xiuli_roundButton_nor.mydp");
+	Line 92: 			CCSprite* pSel = CCSprite::createWithSpriteFrameName("xiuli_roundButton_sel.mydp");
+	Line 98: 			CCSprite* pNor1 = CCSprite::createWithSpriteFrameName("xiuli_all_roundButton_nor.mydp");
+	Line 99: 			CCSprite* pSel1= CCSprite::createWithSpriteFrameName("xiuli_all_roundButton_sel.mydp");
+	Line 111: 			CCSprite* pNor = CCSprite::createWithSpriteFrameName("youjian_roundButton_nor.mydp");
+	Line 112: 			CCSprite* pSel = CCSprite::createWithSpriteFrameName("youjian_roundButton_sel.mydp");
+	Line 117: 			CCSprite* pNor1 = CCSprite::createWithSpriteFrameName("jiqian_roundButton_nor.mydp");
+	Line 118: 			CCSprite* pSel1 = CCSprite::createWithSpriteFrameName("jiqian_roundButton_sel.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroBagWithHeChengLayer.cpp (1 hit)
+	Line 57: 		titleSpr[i] = CCSprite::createWithSpriteFrameName(TitleNameBagHeCheng[i][0]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroLayer.cpp (10 hits)
+	Line 252: 	titleSpr = CCSprite::createWithSpriteFrameName(TitleName[selectedBtn][0]);
+	Line 1050: 			CCSprite* pNor = CCSprite::createWithSpriteFrameName("xiuli_roundButton_nor.mydp");
+	Line 1051: 			CCSprite* pSel = CCSprite::createWithSpriteFrameName("xiuli_roundButton_sel.mydp");
+	Line 1057: 			CCSprite* pNor1 = CCSprite::createWithSpriteFrameName("xiuli_all_roundButton_nor.mydp");
+	Line 1058: 			CCSprite* pSel1= CCSprite::createWithSpriteFrameName("xiuli_all_roundButton_sel.mydp");
+	Line 1070: 			CCSprite* pNor = CCSprite::createWithSpriteFrameName("youjian_roundButton_nor.mydp");
+	Line 1071: 			CCSprite* pSel = CCSprite::createWithSpriteFrameName("youjian_roundButton_sel.mydp");
+	Line 1076: 			CCSprite* pNor1 = CCSprite::createWithSpriteFrameName("jiqian_roundButton_nor.mydp");
+	Line 1077: 			CCSprite* pSel1 = CCSprite::createWithSpriteFrameName("jiqian_roundButton_sel.mydp");
+	Line 2439:         CCSprite* pBack = CCSprite::createWithSpriteFrameName("fontBkg_sel240g.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroMainLayer.cpp (4 hits)
+	Line 201: 	titleSpr[idx] = CCSprite::createWithSpriteFrameName(TitleName[idx][0]);
+	Line 590: 			CCSprite *pMedal = CCSprite::createWithSpriteFrameName(cstr->getCString());
+	Line 1311: 	professionSpr = CCSprite::createWithSpriteFrameName(logName);
+	Line 1316: 	professionTextSpr = CCSprite::createWithSpriteFrameName(logTextName);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroMedalLayer.cpp (1 hit)
+	Line 405: 			CCSprite *pMedal = CCSprite::createWithSpriteFrameName(cstr->getCString());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroStateLayer.cpp (2 hits)
+	Line 209: 	professionSpr = CCSprite::createWithSpriteFrameName(logName);
+	Line 214: 	professionTextSpr = CCSprite::createWithSpriteFrameName(logTextName);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_heroTaskLayer.cpp (1 hit)
+	Line 382: 		CCSprite* pBack = CCSprite::createWithSpriteFrameName("fontBkg_sel240g.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_horseMainLayer.cpp (7 hits)
+	Line 184: 	titleSpr[idx] = CCSprite::createWithSpriteFrameName(TitleName[idx][0]);
+	Line 515: 	CCSprite* pSpr = CCSprite::createWithSpriteFrameName("objectFrame.mydp");
+	Line 516: 	CCSprite* pSpr1 = CCSprite::createWithSpriteFrameName("objectFrame_selected.mydp");
+	Line 517: 	CCSprite* pSpr2 = CCSprite::createWithSpriteFrameName("objectFrame_hui.mydp");
+	Line 827:     CCSprite* pSpr = CCSprite::createWithSpriteFrameName("objectFrame.mydp");
+	Line 828:     CCSprite* pSpr1 = CCSprite::createWithSpriteFrameName("objectFrame_selected.mydp");
+	Line 829:     CCSprite* pSpr2 = CCSprite::createWithSpriteFrameName("objectFrame_hui.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_horseStrengthenLayer.cpp (3 hits)
+	Line 36: 		CCSprite* pSpr = CCSprite::createWithSpriteFrameName("objectFrame.mydp");
+	Line 37: 		CCSprite* pSpr1 = CCSprite::createWithSpriteFrameName("objectFrame_selected.mydp");
+	Line 38: 		CCSprite* pSpr2 = CCSprite::createWithSpriteFrameName("objectFrame_hui.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_HuoDongPaiHang.cpp (1 hit)
+	Line 659: 	pTitle[idx] = CCSprite::createWithSpriteFrameName(VecTitleName[idx][0]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_ItemOrSkillRecvNotify.cpp (1 hit)
+	Line 236: 		CCSprite* upSprite = CCSprite::createWithSpriteFrameName("shengji_11Button_sel.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_LevelUpNotify.cpp (10 hits)
+	Line 96: 			numSpr = CCSprite::createWithSpriteFrameName("shengji1.png");
+	Line 109: 			numSpr = CCSprite::createWithSpriteFrameName("shengji2.png");
+	Line 125: 		funcSpr[i] = CCSprite::createWithSpriteFrameName(FileName[i].c_str());
+	Line 153: 		petSpr[i] = CCSprite::createWithSpriteFrameName("LevelUpCircleOpen.mydp");
+	Line 163: 			petSpr[i] = CCSprite::createWithSpriteFrameName(NextBkgFileName[i].c_str());
+	Line 165: 			petSpr[i] = CCSprite::createWithSpriteFrameName("LevelUpLayerCircle.mydp");
+	Line 194: 			CCSprite *TextStart = CCSprite::createWithSpriteFrameName("LevelUpStart.mydp");
+	Line 204: 			CCSprite *TextEnd = CCSprite::createWithSpriteFrameName("LevelTextEnd.mydp");
+	Line 210: 			CCSprite *TextStart = CCSprite::createWithSpriteFrameName("dengjiketisheng_font.mydp");
+	Line 229: 		CCSprite *nSpr = CCSprite::createWithSpriteFrameName(pngStr.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_LevelUpReward.cpp (2 hits)
+	Line 47: 	pSelDot[1] = CCSprite::createWithSpriteFrameName("liangdian_sel.mydp");
+	Line 55: 	pSelDot[0] = CCSprite::createWithSpriteFrameName("liangdianhuang_nor.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_MarketMainLayer.cpp (2 hits)
+	Line 215: 	titleSpr[idx] = CCSprite::createWithSpriteFrameName(upBtnName[idx][0]);
+	Line 1273: 		CCSprite *pspr = CCSprite::createWithSpriteFrameName(petBack[i]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PaymentTaocanLayer.cpp (1 hit)
+	Line 217: 	pTitle[idx] = CCSprite::createWithSpriteFrameName(TitleName[idx][0]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PetAptitudeLayer.cpp (1 hit)
+	Line 98: 		pOk = CCSprite::createWithSpriteFrameName("ok.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PetArmourLayer.cpp (1 hit)
+	Line 1402: 	CCSprite *m_shuxinSprite1 = CCSprite::createWithSpriteFrameName(petType[vecPetChuZhan[leftListClickNum].petType - 1]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_petCell.cpp (5 hits)
+	Line 137: 		CCSprite *Text = CCSprite::createWithSpriteFrameName(FileName[FilePos - 1].c_str());
+	Line 156: 		this->pettype = CCSprite::createWithSpriteFrameName(petType[data.petType-1]);
+	Line 167: 		CCSprite* pLock = CCSprite::createWithSpriteFrameName("lockIcon.mydp");
+	Line 185: 			CCSprite* pLogo = CCSprite::createWithSpriteFrameName("chuzhan_artFont.mydp");
+	Line 213: 	CCSprite* pLock = CCSprite::createWithSpriteFrameName("skillFrame_lock.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_petMainLayer.cpp (5 hits)
+	Line 294: 	titleSpr[idx] = CCSprite::createWithSpriteFrameName(TitleName[idx][0]);
+	Line 1010:    CCSprite *pNor = CCSprite::createWithSpriteFrameName("look_nor.mydp");
+	Line 1011:    CCSprite *pSel = CCSprite::createWithSpriteFrameName("look_sel.mydp");
+	Line 1012:    CCSprite *pDis = CCSprite::createWithSpriteFrameName("look_sel.mydp");
+	Line 3235: 	CCSprite *m_shuxinSprite1 = CCSprite::createWithSpriteFrameName(petType[vecPetChuZhan[leftListClickNum].petType - 1]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_PetShowLayer.cpp (4 hits)
+	Line 139: 		CCSprite *nameBack = CCSprite::createWithSpriteFrameName("chouqu_mingcheng.mydp");
+	Line 159: 			CCSprite *pStar = CCSprite::createWithSpriteFrameName("star.mydp");
+	Line 313: 	CCSprite *nameBack = CCSprite::createWithSpriteFrameName("chouqu_mingcheng.mydp");
+	Line 333: 		CCSprite *pStar = CCSprite::createWithSpriteFrameName("star.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_playerInteractLayer.cpp (1 hit)
+	Line 69: 		zhiyeSpr = CCSprite::createWithSpriteFrameName(FileName[profess].c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_popBlankListLayer.cpp (1 hit)
+	Line 161: 		CCSprite* pBack = CCSprite::createWithSpriteFrameName("listBkg.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_RankListMainLayer.cpp (1 hit)
+	Line 111: 	titleSpr[idx] = CCSprite::createWithSpriteFrameName(TitleName[idx][0]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_shopMainLayer.cpp (1 hit)
+	Line 107: 	CCSprite* Title = CCSprite::createWithSpriteFrameName(shopTitle.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_socialSystemLayer.cpp (1 hit)
+	Line 149: 	titleSpr[idx] = CCSprite::createWithSpriteFrameName(TitleName[idx][0]);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_TaskTrackLayer.cpp (1 hit)
+	Line 669: 		CCScale9Sprite *pBack = CCScale9Sprite::createWithSpriteFrameName("fontBkg.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_WanFa.cpp (11 hits)
+	Line 128: 	CCSprite *pNor = CCSprite::createWithSpriteFrameName("bangzhu_nor.mydp");
+	Line 129: 	CCSprite *pSel = CCSprite::createWithSpriteFrameName("bangzhu_sel.mydp");
+	Line 1038:     CCSprite *pBall = CCSprite::createWithSpriteFrameName(boolName[m_step-1]);
+	Line 1105: 	pSprite[3] = CCSprite::createWithSpriteFrameName("zhengque_artFont.mydp");
+	Line 2913:         CCSprite *pIcon = CCSprite::createWithSpriteFrameName(IconName[ActivityList[i].id-1]);
+	Line 3060:             CCSprite *pTag = CCSprite::createWithSpriteFrameName("wancheng_zhang.mydp");
+	Line 3076:                 CCSprite *pNor = CCSprite::createWithSpriteFrameName("hongsubButton_nor.mydp");
+	Line 3077:                 CCSprite *pSel = CCSprite::createWithSpriteFrameName("hongsubButton_sel.mydp");
+	Line 3083:                 CCSprite *pLabel = CCSprite::createWithSpriteFrameName("qianwang__baizi.mydp");
+	Line 3358: 	_myFist = CCSprite::createWithSpriteFrameName(fistImage[1]);
+	Line 3363: 	_yourFist = CCSprite::createWithSpriteFrameName(fistImage[1]);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\BlankListDialog.cpp (1 hit)
+	Line 160: 		CCSprite* pBack = CCSprite::createWithSpriteFrameName("listBkg.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\CompeteHeroCell.cpp (7 hits)
+	Line 41: 	CCSprite* bgSprite = CCSprite::createWithSpriteFrameName("jingji_landikuang_nor.mydp");
+	Line 46: 	CCSprite* bgHead = CCSprite::createWithSpriteFrameName("jinji_touxiangkuang.mydp");
+	Line 74: 	CCSprite* headSprit = CCSprite::createWithSpriteFrameName(headPic.c_str());
+	Line 85: 	CCSprite* diwenSprite = CCSprite::createWithSpriteFrameName("moji_diwen.mydp");
+	Line 92: 	CCSprite* zhandouliSprite = CCSprite::createWithSpriteFrameName("zhandouli_labelfont.mydp");
+	Line 109: 	CCSprite* shuzidiwenSprite = CCSprite::createWithSpriteFrameName("shuzhi_diwenlan.mydp");
+	Line 132:     _buttonFont = CCSprite::createWithSpriteFrameName("paiweizhan_baizi.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\CompeteMainLayer.cpp (2 hits)
+	Line 74: 			LabelSpr[i] = CCSprite::createWithSpriteFrameName(ChallengeNorFileName[i].c_str());
+	Line 80: 		LabelSpr[selectedBtn] = CCSprite::createWithSpriteFrameName(challengeSelFileName[selectedBtn].c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ConvoyLayer.cpp (1 hit)
+	Line 141: 	buttonSpr = CCSprite::createWithSpriteFrameName(FileName.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\CopyAccountDialog.cpp (1 hit)
+	Line 427: 	CCSprite* huode = CCSprite::create("UI/huodechongwu_newzi.mydp");//createWithSpriteFrameName(titleName[0].c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\CopyLayer.cpp (1 hit)
+	Line 151: 	titleSpr[idx] = CCSprite::createWithSpriteFrameName(TitleName[idx][0]);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\FishingLayer.cpp (13 hits)
+	Line 143: 	yuGanSprite = CCSprite::createWithSpriteFrameName("yugan_roundButton_nor.mydp");
+	Line 148: 	yuLanSprite = CCSprite::createWithSpriteFrameName("wode_roundButton_nor.mydp");
+	Line 314: 		CCSprite* fishBg = CCSprite::createWithSpriteFrameName("diaoyu_dikuang.mydp");  // 鱼背景图
+	Line 355: 		CCSprite* LineSpr = CCSprite::createWithSpriteFrameName("diaoyu_xian.mydp");  // 分割线
+	Line 474: 		CCSprite* fishBg = CCSprite::createWithSpriteFrameName("diaoyu_dikuang.mydp");  // 鱼背景图
+	Line 481: 			CCSprite* fish = CCSprite::createWithSpriteFrameName("yulan_roundButton_nor.mydp");  // 鱼篮 有人是带色，无人灰掉
+	Line 498: 			CCSprite* fish = CCSprite::createWithSpriteFrameName("yulan_roundButton_hui.mydp");  // 鱼篮 有人是带色，无人灰掉  
+	Line 511: 		CCSprite* LineSpr = CCSprite::createWithSpriteFrameName("diaoyu_xian.mydp");  // 分割线
+	Line 682: 		CCSprite* fishBg = CCSprite::createWithSpriteFrameName("diaoyu_dikuang.mydp");  // 鱼背景图
+	Line 722: 		CCSprite* LineSpr = CCSprite::createWithSpriteFrameName("diaoyu_xian.mydp");  // 分割线
+	Line 949: 	CCSprite* roomBg = CCSprite::createWithSpriteFrameName("fangjian_dikuang.mydp");
+	Line 954: 	CCSprite* yulouSpr = CCSprite::createWithSpriteFrameName("yulan_roundButton_nor.mydp");  // 鱼篓
+	Line 966: 	CCSprite* manSprBg = CCSprite::createWithSpriteFrameName("fangjian_dikuang.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\GameMenu.cpp (16 hits)
+	Line 1362:         pImage->initWithNormalSprite(CCSprite::createWithSpriteFrameName("shoudongyunbiaoIcon_nor.mydp"),
+	Line 1363:             CCSprite::createWithSpriteFrameName("shoudongyunbiaoIcon_sel.mydp"),
+	Line 1364:             CCSprite::createWithSpriteFrameName("shoudongyunbiaoIcon_sel.mydp"),
+	Line 1369:         pImage->initWithNormalSprite(CCSprite::createWithSpriteFrameName("zidongyunbiaoIcon_nor.mydp"),
+	Line 1370:             CCSprite::createWithSpriteFrameName("zidongyunbiaoIcon_sel.mydp"),
+	Line 1371:             CCSprite::createWithSpriteFrameName("zidongyunbiaoIcon_sel.mydp"),
+	Line 2052: 		CCSprite* pNor = CCSprite::createWithSpriteFrameName("guajiclose_nor.mydp");
+	Line 2053: 		CCSprite* pSel = CCSprite::createWithSpriteFrameName("guajiclose_sel.mydp");
+	Line 2054: 		CCSprite* pDis = CCSprite::createWithSpriteFrameName("guajiclose_sel.mydp");
+	Line 2058: 		CCSprite* pNor = CCSprite::createWithSpriteFrameName("guaji_nor.mydp");
+	Line 2059: 		CCSprite* pSel = CCSprite::createWithSpriteFrameName("guaji_sel.mydp");
+	Line 2060: 		CCSprite* pDis = CCSprite::createWithSpriteFrameName("guaji_sel.mydp");
+	Line 2156: 					pNumBack = CCSprite::createWithSpriteFrameName("yuandian_2.mydp");
+	Line 2158: 					pNumBack = CCSprite::createWithSpriteFrameName("yuandian_1.mydp");
+	Line 2210: 			NumBack = CCSprite::createWithSpriteFrameName("yuandian_2.mydp");
+	Line 2212: 			NumBack = CCSprite::createWithSpriteFrameName("yuandian_1.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\GameScene.cpp (1 hit)
+	Line 3790:     CCSprite* pEffect1 = CCSprite::createWithSpriteFrameName("lan_guangxiao03.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\HeroBagItemHeChengLayer.cpp (1 hit)
+	Line 56: 		titleSpr[i] = CCSprite::createWithSpriteFrameName(TitleNameBagHeCheng[i][0]);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\HeroInteractDialog.cpp (1 hit)
+	Line 64: 		zhiyeSpr = CCSprite::createWithSpriteFrameName(FileName[profess].c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\HeroLayer.cpp (3 hits)
+	Line 190: 	titleSpr[idx] = CCSprite::createWithSpriteFrameName(TitleName[idx][0]);
+	Line 1215: 	professionSpr = CCSprite::createWithSpriteFrameName(logName);
+	Line 1220: 	professionTextSpr = CCSprite::createWithSpriteFrameName(logTextName);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\HeroSinglePageLayer.cpp (12 hits)
+	Line 241: 	titleSpr = CCSprite::createWithSpriteFrameName(TitleName[selectedBtn][0]);
+	Line 396:     CCSprite* sprNormal = CCSprite::createWithSpriteFrameName("gerendianpu_roundButton_sel.mydp");
+	Line 397:     CCSprite* sprSel = CCSprite::createWithSpriteFrameName("gerendianpu_roundButton_nor.mydp");
+	Line 1036: 			CCSprite* pNor = CCSprite::createWithSpriteFrameName("xiuli_roundButton_nor.mydp");
+	Line 1037: 			CCSprite* pSel = CCSprite::createWithSpriteFrameName("xiuli_roundButton_sel.mydp");
+	Line 1043: 			CCSprite* pNor1 = CCSprite::createWithSpriteFrameName("xiuli_all_roundButton_nor.mydp");
+	Line 1044: 			CCSprite* pSel1= CCSprite::createWithSpriteFrameName("xiuli_all_roundButton_sel.mydp");
+	Line 1056: 			CCSprite* pNor = CCSprite::createWithSpriteFrameName("youjian_roundButton_nor.mydp");
+	Line 1057: 			CCSprite* pSel = CCSprite::createWithSpriteFrameName("youjian_roundButton_sel.mydp");
+	Line 1062: 			CCSprite* pNor1 = CCSprite::createWithSpriteFrameName("jiqian_roundButton_nor.mydp");
+	Line 1063: 			CCSprite* pSel1 = CCSprite::createWithSpriteFrameName("jiqian_roundButton_sel.mydp");
+	Line 2405:         CCSprite* pBack = CCSprite::createWithSpriteFrameName("fontBkg_sel240g.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\HorseLayer.cpp (7 hits)
+	Line 181: 	titleSpr[idx] = CCSprite::createWithSpriteFrameName(TitleName[idx][0]);
+	Line 510: 	CCSprite* pSpr = CCSprite::createWithSpriteFrameName("objectFrame.mydp");
+	Line 511: 	CCSprite* pSpr1 = CCSprite::createWithSpriteFrameName("objectFrame_selected.mydp");
+	Line 512: 	CCSprite* pSpr2 = CCSprite::createWithSpriteFrameName("objectFrame_hui.mydp");
+	Line 822:     CCSprite* pSpr = CCSprite::createWithSpriteFrameName("objectFrame.mydp");
+	Line 823:     CCSprite* pSpr1 = CCSprite::createWithSpriteFrameName("objectFrame_selected.mydp");
+	Line 824:     CCSprite* pSpr2 = CCSprite::createWithSpriteFrameName("objectFrame_hui.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ImproveLayer.cpp (1 hit)
+	Line 146: 			CCSprite* listbgSprite = CCSprite::createWithSpriteFrameName("tisheng_anjian_nor.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ItemOrSkillRecvDialog.cpp (1 hit)
+	Line 202: 		CCSprite* upSprite = CCSprite::createWithSpriteFrameName("shengji_11Button_sel.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\LevelUpDialog.cpp (7 hits)
+	Line 118: 		funcSpr[i] = CCSprite::createWithSpriteFrameName(vecFiles[i].c_str());
+	Line 132:     numSpr[0] = CCSprite::createWithSpriteFrameName(StrNum1.c_str());
+	Line 140:     numSpr[1] = CCSprite::createWithSpriteFrameName(StrNum2.c_str());
+	Line 198: 			CCSprite* TextStart = CCSprite::createWithSpriteFrameName("LevelUpStart.mydp");
+	Line 208: 			CCSprite* TextEnd = CCSprite::createWithSpriteFrameName("LevelTextEnd.mydp");
+	Line 215: 			CCSprite* TextStart = CCSprite::createWithSpriteFrameName("dengjiketisheng_font.mydp");
+	Line 236: 		CCSprite* nSpr = CCSprite::createWithSpriteFrameName(pngStr.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\LoginConsole.cpp (4 hits)
+	Line 2400: 	this->IconSpr = CCSprite::createWithSpriteFrameName(iconFileName.c_str());
+	Line 2408: 	this->introduceSpr = CCSprite::createWithSpriteFrameName(introduceFileName.c_str());
+	Line 2544: 			CCSprite* plog = CCSprite::createWithSpriteFrameName("shangcidenglu_dian.mydp");
+	Line 2929: 		CCSprite* pBtnBg= CCSprite::createWithSpriteFrameName("107x40_nor.mydp");  // 按钮底图
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\MarketLayer.cpp (2 hits)
+	Line 196: 	titleSpr[idx] = CCSprite::createWithSpriteFrameName(upBtnName[idx][0]);
+	Line 1127: 		CCSprite* pspr = CCSprite::createWithSpriteFrameName(petBack[i]);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\NotificationLayer.cpp (1 hit)
+	Line 36: 		this->m_xieyiSprite = CCSprite::createWithSpriteFrameName("gonggao_artFont.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\NotifyDialog.cpp (9 hits)
+	Line 1088:         ((CCMenuItemImage*)pMenu->getChildByTag(103))->initWithNormalSprite(CCSprite::createWithSpriteFrameName("hongsubButton_nor.mydp"),
+	Line 1089:                                                                             CCSprite::createWithSpriteFrameName("hongsubButton_sel.mydp"),
+	Line 1090:                                                                             CCSprite::createWithSpriteFrameName("hongsubButton_hui.mydp"),
+	Line 1103:             ((CCMenuItemImage*)pMenu->getChildByTag(102))->initWithNormalSprite(CCSprite::createWithSpriteFrameName("hongsubButton_nor.mydp"),
+	Line 1104:                                                                                 CCSprite::createWithSpriteFrameName("hongsubButton_sel.mydp"),
+	Line 1105:                                                                                 CCSprite::createWithSpriteFrameName("hongsubButton_hui.mydp"),
+	Line 1108:             ((CCMenuItemImage*)pMenu->getChildByTag(101))->initWithNormalSprite(CCSprite::createWithSpriteFrameName("subButton_nor.mydp"),
+	Line 1109:                                                                                 CCSprite::createWithSpriteFrameName("subButton_sel.mydp"),
+	Line 1110:                                                                                 CCSprite::createWithSpriteFrameName("subButton_sel.mydp"),
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PayFirstLayer.cpp (4 hits)
+	Line 230:         CCSprite* pNor = CCSprite::createWithSpriteFrameName("qianqian1_nor_new.mydp");
+	Line 231:         CCSprite* pSel = CCSprite::createWithSpriteFrameName("qianqian1_sel_new.mydp");
+	Line 237:         CCSprite* pNor = CCSprite::createWithSpriteFrameName("qianqian_nor_new.mydp");
+	Line 238:         CCSprite* pSel = CCSprite::createWithSpriteFrameName("qianqian_sel_new.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PayTaocanLayer.cpp (1 hit)
+	Line 211: 	pTitle[idx] = CCSprite::createWithSpriteFrameName(TitleName[idx][0]);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PetInfoCell.cpp (6 hits)
+	Line 136:         CCSprite* Text = CCSprite::createWithSpriteFrameName(FileName[FilePos - 1].c_str());
+	Line 153: 		this->pettype = CCSprite::createWithSpriteFrameName(petType[data.petType-1]);
+	Line 164: 		CCSprite* pLock = CCSprite::createWithSpriteFrameName("lockIcon.mydp");
+	Line 182: 			CCSprite* pLogo = CCSprite::createWithSpriteFrameName("chuzhan_artFont.mydp");
+	Line 187:             CCSprite* warpos = CCSprite::createWithSpriteFrameName(CCString::createWithFormat("zhanwei_%d.mydp",data.fightPos+1)->getCString());
+	Line 212: 	CCSprite* pLock = CCSprite::createWithSpriteFrameName("skillFrame_lock.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PetLayer.cpp (6 hits)
+	Line 273: 	_TitleSpr[idx] = CCSprite::createWithSpriteFrameName(GetTitleNameByIdx(idx,0));
+	Line 796:    CCSprite* pNor = CCSprite::createWithSpriteFrameName("look_nor.mydp");
+	Line 797:    CCSprite* pSel = CCSprite::createWithSpriteFrameName("look_sel.mydp");
+	Line 798:    CCSprite* pDis = CCSprite::createWithSpriteFrameName("look_sel.mydp");
+	Line 2231: 			pSprite = CCSprite::createWithSpriteFrameName("ok.mydp");
+	Line 3003: 	CCSprite* m_shuxinSprite1 = CCSprite::createWithSpriteFrameName(petType[vecPetChuZhan[leftListClickNum].petType - 1]);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\PetShowLayer.cpp (4 hits)
+	Line 78:     CCSprite* pEffect1 = CCSprite::createWithSpriteFrameName("lan_guangxiao03.mydp");
+	Line 82:     CCSprite* pFont = CCSprite::createWithSpriteFrameName("shenchongjianglin_lanzi.mydp");
+	Line 253: 	CCSprite* nameBack = CCSprite::createWithSpriteFrameName("chouqu_mingcheng.mydp");
+	Line 269: 		CCSprite* pStar = CCSprite::createWithSpriteFrameName("star.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\RankListLayer.cpp (1 hit)
+	Line 109: 	titleSpr[idx] = CCSprite::createWithSpriteFrameName(TitleName[idx][0]);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\SaveTradeLayer.cpp (4 hits)
+	Line 257: 			CCSprite* pSprite1 = CCSprite::createWithSpriteFrameName("listBkg.mydp");
+	Line 258: 			CCSprite* pSprite2 = CCSprite::createWithSpriteFrameName("listBkg.mydp");
+	Line 275: 			pSprite1 = CCSprite::createWithSpriteFrameName("listBkg.mydp");
+	Line 276: 			pSprite2 = CCSprite::createWithSpriteFrameName("listBkg.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ShenQiLayer.cpp (2 hits)
+	Line 70: 		LabelSpr[i] = CCSprite::createWithSpriteFrameName(NorFileName[i].c_str());
+	Line 77: 	LabelSpr[selectedBtn] = CCSprite::createWithSpriteFrameName(SelFileName[selectedBtn].c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ShopLayer.cpp (1 hit)
+	Line 106: 	CCSprite* Title = CCSprite::createWithSpriteFrameName(shopTitle.c_str());
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\SocialLayer.cpp (1 hit)
+	Line 148: 	titleSpr[idx] = CCSprite::createWithSpriteFrameName(TitleName[idx][0]);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\StageGoalLayer.cpp (7 hits)
+	Line 319: 		CCSprite* yiLingquLog = CCSprite::createWithSpriteFrameName("yilingqu_artFont.mydp");  // 已领取
+	Line 367: 			CCSprite* spritetBaoSpr = CCSprite::createWithSpriteFrameName("tbaoIcon_nor.mydp");
+	Line 382: 			CCSprite* spritetBaoSpr = CCSprite::createWithSpriteFrameName("moneyIcon_lock.mydp");
+	Line 424: 		CCSprite* yiLingquLog1 = CCSprite::createWithSpriteFrameName("yilingqu_artFont.mydp");  // 已领取
+	Line 698: 		CCSprite* zhangSpr = CCSprite::createWithSpriteFrameName("yilingqu_artFont.mydp");  
+	Line 713: 			CCSprite* zhangSpr = CCSprite::createWithSpriteFrameName("kelingjiang_zhang.mydp");  // 完成
+	Line 727: 		CCSprite* zhangSpr = CCSprite::createWithSpriteFrameName("weiwancheng_zhang.mydp");  
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\TaskTrackLayer.cpp (1 hit)
+	Line 532: 		CCScale9Sprite* pBack = CCScale9Sprite::createWithSpriteFrameName("fontBkg.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\WanFaLayer.cpp (14 hits)
+	Line 120: 	CCSprite* pNor = CCSprite::createWithSpriteFrameName("bangzhu_nor.mydp");
+	Line 121: 	CCSprite* pSel = CCSprite::createWithSpriteFrameName("bangzhu_sel.mydp");
+	Line 998:     CCSprite* pBall = CCSprite::createWithSpriteFrameName(GetBallNameByIdx(m_step-1));
+	Line 1083: 	pSprite[3] = CCSprite::createWithSpriteFrameName("zhengque_artFont.mydp");
+	Line 2839:         CCSprite* pIcon = CCSprite::createWithSpriteFrameName(GetLogoNameByIdx(ActivityList[i].id-1));
+	Line 2967:         CCSprite* barback = CCSprite::createWithSpriteFrameName("bar.mydp");
+	Line 2971:         CCSprite* bar = CCSprite::createWithSpriteFrameName("expBar.mydp");
+	Line 2987:             CCSprite* pTag = CCSprite::createWithSpriteFrameName("wancheng_zhang.mydp");
+	Line 3000:                 CCSprite* pNor = CCSprite::createWithSpriteFrameName("hongsubButton_nor.mydp");
+	Line 3001:                 CCSprite* pSel = CCSprite::createWithSpriteFrameName("hongsubButton_sel.mydp");
+	Line 3006:                 CCSprite* pLabel = CCSprite::createWithSpriteFrameName("qianwang__baizi.mydp");
+	Line 3322: 	_myFist = CCSprite::createWithSpriteFrameName(GetFistImageNameByIdx(1));
+	Line 3327: 	_yourFist = CCSprite::createWithSpriteFrameName(GetFistImageNameByIdx(1));
+	Line 3756:     _pNewTitle[idx] = CCSprite::createWithSpriteFrameName(GetTitleNameByIdx(idx,0));
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\WelfareKaifuLayer.cpp (1 hit)
+	Line 656: 	pTitle[idx] = CCSprite::createWithSpriteFrameName(VecTitleName[idx][0]);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\WelfareLevelUpLayer.cpp (2 hits)
+	Line 47: 	pSelDot[1] = CCSprite::createWithSpriteFrameName("liangdian_sel.mydp");
+	Line 55: 	pSelDot[0] = CCSprite::createWithSpriteFrameName("liangdianhuang_nor.mydp");
+  C:\Users\Administrator\Desktop\aa\ark_object\ark_hero.cpp (5 hits)
+	Line 93: 			    convoyLogo = CCSprite::createWithSpriteFrameName(logoFileName);
+	Line 106:                 levelBack = CCSprite::createWithSpriteFrameName("huise_dikuang.mydp");
+	Line 1747: 		CCSprite* pLabel = CCSprite::createWithSpriteFrameName("guajizhong_art.mydp");
+	Line 1767: 		CCSprite* Spr = CCSprite::createWithSpriteFrameName("zidongxunluText.mydp");
+	Line 1879: 			pMedal = CCSprite::createWithSpriteFrameName(str->getCString());
+  C:\Users\Administrator\Desktop\aa\ark_sdk\ark_TextInput.cpp (1 hit)
+	Line 458: //	//m_TipSprite = CCSprite::createWithSpriteFrameName(A2U("底色字.mydp").c_str());
+
+
+
+
+
+
+
+
+Search "AddHrMenuItem" (101 hits in 10 files)
+  C:\Users\Administrator\Desktop\aa\ark_console\FuncPushMgr.cpp (2 hits)
+	Line 298: 		    mainmenu->AddHrMenuItem("wanfa_nor.mydp","wanfa_sel.mydp",ScreenMgr::GetInstance()->GetRelativePoint(ccp(640,600)),820,true);//玩法
+	Line 387: 		mainmenu->AddHrMenuItem("changguan_nor.mydp","changguan_sel.mydp",ccp(0,0),822,true);
+  C:\Users\Administrator\Desktop\aa\ark_console\MsgDealMgr.cpp (9 hits)
+	Line 3718:                         mainmenu->AddHrMenuItem("wanfa.mydp","wanfa.mydp",CCPointZero,GameMenu::MTG_DAILY_TASK,true);//活跃度
+	Line 3723:                         mainmenu->AddHrMenuItem("paihangbang_nor.mydp","paihangbang_sel.mydp",CCPointZero,GameMenu::MTG_RANK,false);//排行
+	Line 3724:                         mainmenu->AddHrMenuItem("bangpaiIcon_nor.mydp","bangpaiIcon_sel.mydp",CCPointZero,GameMenu::MTG_GONG,false);//帮派
+	Line 3729:                         mainmenu->AddHrMenuItem("shenqi_nor.mydp","shenqi_sel.mydp",CCPointZero,GameMenu::MTG_SHENQI,true);  // 神器
+	Line 3730:                         mainmenu->AddHrMenuItem("rchangBoss.mydp","rchangBoss.mydp",CCPointZero,GameMenu::MTG_BOSS,false);//日常boss
+	Line 3736:                         mainmenu->AddHrMenuItem("lixianjingyan.mydp","lixianjingyan.mydp",CCPointZero,GameMenu::MTG_OFFLINE,false);//离线经验
+	Line 3742:                         mainmenu->AddHrMenuItem("fuli.mydp","fuli.mydp",CCPointZero,GameMenu::MTG_FULI,true);
+	Line 3763:                         mainmenu->AddHrMenuItem("jieduanmubiao_nor.mydp","jieduanmubiao_sel.mydp",CCPointZero,GameMenu::MTG_GOAL,false);//阶段目标
+	Line 3996:                     mainmenu->AddHrMenuItem("shenshou_hu_nor.mydp","shenshou_hu_sel.mydp",ccp(480,120),GameMenu::MTG_CONVOY2,true);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_console\ark_FuncPushManage.cpp (2 hits)
+	Line 285: 		    mainmenu->AddHrMenuItem("wanfa_nor.mydp","wanfa_sel.mydp",ScreenMgr::GetInstance()->GetRelativePoint(ccp(640,600)),820,true);//玩法
+	Line 376: 		mainmenu->AddHrMenuItem("changguan_nor.mydp","changguan_sel.mydp",ccp(0,0),822,true);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_console\ark_MessageDealManage.cpp (10 hits)
+	Line 4321: 						mainmenu->AddHrMenuItem("meiripaohuan_nor.mydp","meiripaohuan_sel.mydp",CCPointZero,827,false);//每日跑环						
+	Line 4322: 						mainmenu->AddHrMenuItem("huodong_nor.mydp","huodong_sel.mydp",CCPointZero,851,true);//活跃度
+	Line 4323: 						mainmenu->AddHrMenuItem("paihangbang_nor.mydp","paihangbang_sel.mydp",CCPointZero,808,false);
+	Line 4324: 						mainmenu->AddHrMenuItem("bangpaiIcon_nor.mydp","bangpaiIcon_sel.mydp",CCPointZero,805,false);
+	Line 4329: 					mainmenu->AddHrMenuItem("shenqi_nor.mydp","shenqi_sel.mydp",CCPointZero,804,true);  // 神器
+	Line 4330: 					mainmenu->AddHrMenuItem("jieduanmubiao_nor.mydp","jieduanmubiao_sel.mydp",CCPointZero,821,true);//阶段目标shenqi_sel
+	Line 4331: 					mainmenu->AddHrMenuItem("changguan_nor.mydp","changguan_sel.mydp",CCPointZero,822,false);//多人闯关
+	Line 4332: 					mainmenu->AddHrMenuItem("meiripaohuan_nor.mydp","meiripaohuan_sel.mydp",CCPointZero,823,false);//日常boss
+	Line 4341: 					mainmenu->AddHrMenuItem("lixianjingyan_nor.mydp","lixianjingyan_sel.mydp",CCPointZero,857,false);//离线经验
+	Line 4589: 					mainmenu->AddHrMenuItem("shenshou_hu_nor.mydp","shenshou_hu_sel.mydp",ccp(480,120),870,true);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_MainMenuLayer.cpp (37 hits)
+	Line 145: 			AddHrMenuItem("shenshou_hu_nor.mydp","shenshou_hu_sel.mydp",ccp(480,120),870,true);
+	Line 147: 			AddHrMenuItem("jineng_nor.mydp","jineng_sel.mydp",CCPointZero,802,true);
+	Line 149: 			AddHrMenuItem("zuoqiIcon_nor.mydp","zuoqiIcon_sel.mydp",CCPointZero,801,true);
+	Line 151: 			AddHrMenuItem("lixianjingyan_nor.mydp","lixianjingyan_sel.mydp",CCPointZero,857,false);//离线经验
+	Line 154: 			AddHrMenuItem("shenqi_nor.mydp","shenqi_sel.mydp",CCPointZero,804,true);  // 神器
+	Line 155: 			AddHrMenuItem("changguan_nor.mydp","changguan_sel.mydp",CCPointZero,822,false);//多人闯关
+	Line 161: 			AddHrMenuItem("paihangbang_nor.mydp","paihangbang_sel.mydp",CCPointZero,808,true);//排行榜
+	Line 162: 			AddHrMenuItem("bangpaiIcon_nor.mydp","bangpaiIcon_sel.mydp",CCPointZero,805,true);//帮派
+	Line 166: 		AddHrMenuItem("zaixianjiangli_nor.mydp","zaixianjiangli_sel.mydp",CCPointZero,853,false);//在线奖励
+	Line 167: 		AddHrMenuItem("7rilibao_nor.mydp","7rilibao_sel.mydp",CCPointZero,854,false);//七日登陆
+	Line 168: 		AddHrMenuItem("dengjilibao_nor.mydp","dengjilibao_sel.mydp",CCPointZero,855,false);//等级礼包
+	Line 169: 		AddHrMenuItem("meiriqiandao_nor.mydp","meiriqiandao_sel.mydp",CCPointZero,856,false);//每日签到
+	Line 170: 		AddHrMenuItem("denglulibao_nor.mydp","denglulibao_sel.mydp",CCPointZero,858,false);//连续登陆
+	Line 176: 			AddHrMenuItem("fuli_nor.mydp","fuli_sel.mydp",ccp(MENUITEM_MAX2_POSX,MENUITEM_MAX_POSY),824,true);	//封测活动
+	Line 187: 				AddHrMenuItem("huodong_nor.mydp","huodong_sel.mydp",CCPointZero,851,true);//活跃度
+	Line 193:                 AddHrMenuItem("meiripaohuan_nor.mydp","meiripaohuan_sel.mydp",ccp(0,0),823,false);//日常boss
+	Line 200: 				AddHrMenuItem("jieduanmubiao_nor.mydp","jieduanmubiao_sel.mydp",CCPointZero,821,true);//阶段目标shenqi_sel
+	Line 205: 			AddHrMenuItem("tuichufubenIcon_nor.mydp","tuichufubenIcon_sel.mydp",CCPointZero,816,true);
+	Line 209: 			AddHrMenuItem("genghuan_roundButton_nor.mydp","genghuan_roundButton_sel.mydp",CCPointZero,844,true);
+	Line 1209: 		AddHrMenuItem("husongIcon_nor.mydp","husongIcon_sel.mydp",CCPointZero,847,true);//护送任务
+	Line 1224: 		AddHrMenuItem("baihuaxianziIcon_nor.mydp","baihuaxianziIcon_sel.mydp",CCPointZero,841,true);//百花仙子
+	Line 1242: 			AddHrMenuItem("kunlunshanIcon_nor.mydp","kunlunshanIcon_sel.mydp",CCPointZero,842,true);
+	Line 1294: 		AddHrMenuItem("meiridatiIcon_nor.mydp","meiridatiIcon_sel.mydp",CCPointZero,840,true);
+	Line 1309: 		AddHrMenuItem("fubenIcon_nor.mydp","fubenIcon_sel.mydp",ccp(MENUITEM_MAX2_POSX,MENUITEM_MAX_POSY),815,visible);
+	Line 1357: 	    AddHrMenuItem("guajiclose_nor.mydp","guajiclose_sel.mydp",CONVERT_POINT(pos),814,isvisible);
+	Line 1359: 		AddHrMenuItem("guaji_nor.mydp","guaji_sel.mydp",CONVERT_POINT(pos),814,isvisible);
+	Line 1376: 		AddHrMenuItem("jinjiIcon_nor.mydp","jinjiIcon_sel.mydp",ccp(500,MENUITEM_MAX_POSY),819,true);
+	Line 1390:         AddHrMenuItem("tongtianta_nor.mydp","tongtianta_sel.mydp",ccp(694,535),817,true);
+	Line 1408: 			AddHrMenuItem("genghuan_roundButton_nor.mydp","genghuan_roundButton_sel.mydp",ccp(560,600),843,widthEffect);
+	Line 1412: 			AddHrMenuItem("diaoyuIcon_nor.mydp","diaoyuIcon_sel.mydp",ccp(560,535),843,widthEffect);
+	Line 1459: 			AddHrMenuItem("gerenlietaiIcon_nor.mydp","gerenlietaiIcon_sel.mydp",ccp(560,535),846,widthEffect);
+	Line 1482: 		AddHrMenuItem("lingqi_nor.mydp","lingqi_sel.mydp",CCPointZero,825,visible);
+	Line 1527: 			AddHrMenuItem("jineng_nor.mydp","jineng_sel.mydp",ccp(850,MENUITEM_MIN_POSY),tag,false);
+	Line 1541: 			AddHrMenuItem("zuoqiIcon_nor.mydp","zuoqiIcon_sel.mydp",ccp(850,MENUITEM_MIN_POSY),tag,false);
+	Line 2127:     this-> AddHrMenuItem("meiripaohuan_nor.mydp","meiripaohuan_sel.mydp",ccp(0,0),823,visible);//日常boss
+	Line 2290: 	AddHrMenuItem("huodong_nor.mydp","huodong_sel.mydp",ccp(435,MENUITEM_MAX_POSY),851,true);//活跃度
+	Line 2352: void ark_MainMenuLayer::AddHrMenuItem(const char* norName, const char *selName, CCPoint point, int tag, bool visible)
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_MainMenuLayer.h (1 hit)
+	Line 140:     void AddHrMenuItem(const char* norName, const char *selName, CCPoint point, int tag, bool visible);
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameUI\ark_convoyLayer.cpp (1 hit)
+	Line 261: 	mainmenu->AddHrMenuItem("shenshou_hu_nor.mydp","shenshou_hu_sel.mydp",ccp(480,120),870,true);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\ConvoyLayer.cpp (1 hit)
+	Line 160: 	mainmenu->AddHrMenuItem("shenshou_hu_nor.mydp","shenshou_hu_sel.mydp",ccp(480,120),870,true);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\GameMenu.cpp (37 hits)
+	Line 109: 			AddHrMenuItem("shenshou_hu_nor.mydp","shenshou_hu_sel.mydp",CONVERT_POINT(ccp(480,120)),MTG_CONVOY2,true);
+	Line 111: 			AddHrMenuItem("zuoqiIcon_nor.mydp","zuoqiIcon_sel.mydp",CCPointZero,MTG_HORSE,true);
+	Line 113: 			AddHrMenuItem("lixianjingyan.mydp","lixianjingyan.mydp",CCPointZero,MTG_OFFLINE,false);//离线经验
+	Line 115: 			AddHrMenuItem("shenqi_nor.mydp","shenqi_sel.mydp",CCPointZero,MTG_SHENQI,true);  // 神器
+	Line 118: 			AddHrMenuItem("paihangbang_nor.mydp","paihangbang_sel.mydp",CCPointZero,MTG_RANK,true);//排行榜
+	Line 119: 			AddHrMenuItem("bangpaiIcon_nor.mydp","bangpaiIcon_sel.mydp",CCPointZero,MTG_GONG,true);//帮派
+	Line 120:             AddHrMenuItem("suohuianjian_nor.mydp","suohuianjian_nor.mydp",CONVERT_POINT(ccp(MIT_MAX2_X+60,MIT_MAX_Y)),MTG_HIDETOP,true);//隐藏顶部按钮
+	Line 122:         AddHrMenuItem("jineng_nor.mydp","jineng_sel.mydp",CCPointZero,MTG_SKILL,true);
+	Line 124: 		AddHrMenuItem("zaixianjiangli.mydp","zaixianjiangli.mydp",CCPointZero,MTG_ONLINE,false);//在线奖励
+	Line 125: 		AddHrMenuItem("7rjiangli.mydp","7rjiangli.mydp",CCPointZero,MTG_SEVEN_LOG,false);//七日登陆
+	Line 126: 		AddHrMenuItem("dengjilibao.mydp","dengjilibao.mydp",CCPointZero,MTG_LEVEL_WARD,false);//等级礼包
+	Line 127: 		AddHrMenuItem("meirqiandao.mydp","meirqiandao.mydp",CCPointZero,MTG_SIGN,false);//每日签到
+	Line 128: 		AddHrMenuItem("lianxudenglu.mydp","lianxudenglu.mydp",CCPointZero,MTG_CLOG,false);//连续登陆
+	Line 136: 				AddHrMenuItem("wanfa.mydp","wanfa.mydp",CCPointZero,MTG_DAILY_TASK,true);//活跃度
+	Line 142:                 AddHrMenuItem("rchangBoss.mydp","rchangBoss.mydp",CCPointZero,MTG_BOSS,false);//日常boss
+	Line 149:                 AddHrMenuItem("fuli.mydp","fuli.mydp",ccp(MIT_MAX2_X,MIT_MAX_Y),MTG_FULI,true);
+	Line 161: 				AddHrMenuItem("jieduanmubiao_nor.mydp","jieduanmubiao_sel.mydp",CCPointZero,MTG_GOAL,false);//阶段目标
+	Line 166:                 AddHrMenuItem("tuichufubenIcon_nor.mydp","tuichufubenIcon_sel.mydp",CCPointZero,MTG_QUITCOPY,true);
+	Line 170:                 AddHrMenuItem("genghuan_roundButton_nor.mydp","genghuan_roundButton_sel.mydp",CCPointZero,MTG_CHANGE_ROOM,true);
+	Line 1028: 		AddHrMenuItem("husongIcon_nor.mydp","husongIcon_sel.mydp",CCPointZero,MTG_CONVOY,true);//护送任务
+	Line 1046: 		AddHrMenuItem("baihuaxianziIcon_nor.mydp","baihuaxianziIcon_sel.mydp",CCPointZero,MTG_BAIHUA,true);//百花仙子
+	Line 1062: 			AddHrMenuItem("kunlunshanIcon_nor.mydp","kunlunshanIcon_sel.mydp",CCPointZero,MTG_KUNLUN,true);
+	Line 1112: 		AddHrMenuItem("meiridatiIcon_nor.mydp","meiridatiIcon_sel.mydp",CCPointZero,MTG_QUESTION,true);
+	Line 1128: 		AddHrMenuItem("fuben.mydp","fuben.mydp",ccp(MIT_MAX2_X,MIT_MAX_Y),MTG_COPY,visible);
+	Line 1181: 	    AddHrMenuItem("guajiclose_nor.mydp","guajiclose_sel.mydp",CONVERT_POINT(pos),MTG_HOOK,isvisible);
+	Line 1183: 		AddHrMenuItem("guaji_nor.mydp","guaji_sel.mydp",CONVERT_POINT(pos),MTG_HOOK,isvisible);
+	Line 1201: 		AddHrMenuItem("jingji.mydp","jingji.mydp",ccp(500,MIT_MAX_Y),MTG_COMBAT,true);
+	Line 1216:         AddHrMenuItem("tongtianta.mydp","tongtianta.mydp",ccp(694,535),MTG_TOWER,true);
+	Line 1232: 			AddHrMenuItem("genghuan_roundButton_nor.mydp","genghuan_roundButton_sel.mydp",ccp(560,600),MTG_FISH,widthEffect);
+	Line 1236: 			AddHrMenuItem("diaoyuIcon_nor.mydp","diaoyuIcon_sel.mydp",ccp(560,535),MTG_FISH,widthEffect);
+	Line 1281: 			AddHrMenuItem("gerenlietaiIcon_nor.mydp","gerenlietaiIcon_sel.mydp",ccp(560,535),MTG_LEITAI,widthEffect);
+	Line 1305: 		AddHrMenuItem("lingqi_nor.mydp","lingqi_sel.mydp",CCPointZero,MTG_ANIMADO,visible);
+	Line 1391: 			AddHrMenuItem("jineng_nor.mydp","jineng_sel.mydp",ccp(850,MIT_MIN_Y),tag,false);
+	Line 1405: 			AddHrMenuItem("zuoqiIcon_nor.mydp","zuoqiIcon_sel.mydp",ccp(850,MIT_MIN_Y),tag,false);
+	Line 1930:     this-> AddHrMenuItem("meiripaohuan_nor.mydp","meiripaohuan_sel.mydp",ccp(0,0),MTG_BOSS,visible);//日常boss
+	Line 2088: 	AddHrMenuItem("huodong_nor.mydp","huodong_sel.mydp",ccp(435,MIT_MAX_Y),MTG_DAILY_TASK,true);//活跃度
+	Line 2123: void GameMenu::AddHrMenuItem(const char* norName, const char *selName, CCPoint point, int tag, bool visible)
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\GameMenu.h (1 hit)
+	Line 188:     void AddHrMenuItem(const char* norName, const char *selName, CCPoint point, int tag, bool visible);
+
+
+
+
+
+
+
+
+
+
+Search "AddStaticMenuItem" (26 hits in 4 files)
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_MainMenuLayer.cpp (11 hits)
+	Line 164: 		AddStaticMenuItem("tisheng_nor.mydp","tisheng_sel.mydp",CONVERT_POINT(ccp(760,380)),301,false);//提升
+	Line 1201: 		AddStaticMenuItem("bangpaiyaoqingIcon_nor.mydp","bangpaiyaoqingIcon_sel.mydp",ccp(645,65),300,true);//邀请入帮
+	Line 1258: 		AddStaticMenuItem("shouchonglibao_nor.mydp","shouchonglibao_sel.mydp",CONVERT_POINT(pos),305,val);
+	Line 1275: 		AddStaticMenuItem("tehui_nor.mydp","tehui_sel.mydp",pos,306,val);
+	Line 1276:         AddStaticMenuItem("chongzhi_nor.mydp","chongzhi_sel.mydp",ccp(pos.x-68,pos.y),308,val);
+	Line 1282:         AddStaticMenuItem("chongzhi_nor.mydp","chongzhi_sel.mydp",CONVERT_POINT(ccp(MENUITEM_MAX_POSX,MENUITEM_MAX2POSY)),308,true);
+	Line 1435: 		AddStaticMenuItem("kaifuhuodong_nor.mydp","kaifuhuodong_sel.mydp",pos,307,true);
+	Line 1499: 		AddStaticMenuItem("xinyoujian_roundButton.mydp","xinyoujian_roundButton.mydp",CONVERT_POINT(point),302,true);
+	Line 2108: 			AddStaticMenuItem("zisechongwu2_nor.mydp","zisechongwu2_sel.mydp",point,304,true);
+	Line 2110: 			AddStaticMenuItem("zisechongwu2_nor.mydp","zisechongwu2_sel.mydp",ccp(point.x-MENUITEM_DISTANS_Y,point.y),304,true);
+	Line 2357: void ark_MainMenuLayer::AddStaticMenuItem(const char* norName, const char *selName, CCPoint point, int tag, bool visible)
+  C:\Users\Administrator\Desktop\aa\ark_expired\ark_gameScene\ark_MainMenuLayer.h (1 hit)
+	Line 141:     void AddStaticMenuItem(const char* norName, const char *selName, CCPoint point, int tag, bool visible);
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\GameMenu.cpp (13 hits)
+	Line 123: 		AddStaticMenuItem("tisheng.mydp","tisheng.mydp",CONVERT_POINT(ccp(560,120)),301,false);//提升
+	Line 1016: 		AddStaticMenuItem("bangpaiyaoqingIcon_nor.mydp","bangpaiyaoqingIcon_sel.mydp",CONVERT_POINT(ccp(645,120)),300,true);//邀请入帮
+	Line 1078: 		AddStaticMenuItem("shouchong.mydp","shouchong.mydp",CONVERT_POINT(pos),305,val);
+	Line 1095: 		AddStaticMenuItem("tehuei.mydp","tehuei.mydp",pos,306,val);
+	Line 1096:         AddStaticMenuItem("chongzhi_nor.mydp","chongzhi_sel.mydp",ccp(pos.x-MIT_LEN_W,pos.y),308,val);
+	Line 1102:         AddStaticMenuItem("chongzhi_nor.mydp","chongzhi_sel.mydp",CONVERT_POINT(ccp(MIT_MAX_X,MIT_MAX2_Y)),308,true);
+	Line 1257: 		AddStaticMenuItem("kaifuhuodong_nor.mydp","kaifuhuodong_sel.mydp",pos,307,true);
+	Line 1319: 		AddStaticMenuItem("xinyoujian_roundButton.mydp","xinyoujian_roundButton.mydp",CONVERT_POINT(point),302,true);
+	Line 1342:             AddStaticMenuItem("zidongyunbiaoIcon_nor.mydp","zidongyunbiaoIcon_sel.mydp",CONVERT_POINT(ccp(480,120)),309,val);
+	Line 1344:             AddStaticMenuItem("shoudongyunbiaoIcon_nor.mydp","shoudongyunbiaoIcon_sel.mydp",CONVERT_POINT(ccp(480,120)),309,val);
+	Line 1911: 			AddStaticMenuItem("zisechongwu2_nor.mydp","zisechongwu2_sel.mydp",point,304,true);
+	Line 1913: 			AddStaticMenuItem("zisechongwu2_nor.mydp","zisechongwu2_sel.mydp",ccp(point.x-MIT_LEN_H,point.y),304,true);
+	Line 2128: void GameMenu::AddStaticMenuItem(const char* norName, const char *selName, CCPoint point, int tag, bool visible)
+  C:\Users\Administrator\Desktop\aa\ark_gameUI\GameMenu.h (1 hit)
+	Line 189:     void AddStaticMenuItem(const char* norName, const char *selName, CCPoint point, int tag, bool visible);
