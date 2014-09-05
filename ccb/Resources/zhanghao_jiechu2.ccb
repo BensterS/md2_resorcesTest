@@ -95,7 +95,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccbResources/logElements.plist</string>
 							<string>logBkg.png</string>
 						</array>
 					</dict>
@@ -231,7 +231,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccbResources/logElements.plist</string>
 							<string>titleBkg_top.png</string>
 						</array>
 					</dict>
@@ -367,7 +367,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/zhanghao_jiechu2.plist</string>
+							<string>ccbResources/logElements.plist</string>
 							<string>footerBkg.png</string>
 						</array>
 					</dict>
@@ -535,7 +535,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccbResources/basicElements.plist</string>
 									<string>cancelButton_nor.png</string>
 								</array>
 							</dict>
@@ -546,7 +546,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccbResources/basicElements.plist</string>
 									<string>cancelButton_sel.png</string>
 								</array>
 							</dict>
@@ -656,7 +656,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccbResources/basicElements.plist</string>
 									<string>subButton_nor.png</string>
 								</array>
 							</dict>
@@ -667,7 +667,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccbResources/basicElements.plist</string>
 									<string>subButton_sel.png</string>
 								</array>
 							</dict>
@@ -678,7 +678,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccbResources/basicElements.plist</string>
 									<string>subButton_hui.png</string>
 								</array>
 							</dict>
@@ -777,7 +777,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/zhanghao_jiechu2.plist</string>
+									<string>ccbResources/logElements.plist</string>
 									<string>input202Frame.png</string>
 								</array>
 							</dict>
@@ -948,7 +948,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/zhanghao_jiechu2.plist</string>
+							<string>ccbResources/logElements.plist</string>
 							<string>cancelBanding_titleFont.png</string>
 						</array>
 					</dict>
@@ -1020,7 +1020,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/zhanghao_jiechu2.plist</string>
+							<string>ccbResources/logElements.plist</string>
 							<string>yanzhengma_font.png</string>
 						</array>
 					</dict>
@@ -1092,7 +1092,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/zhanghao_jiechu2.plist</string>
+							<string>ccbResources/logElements.plist</string>
 							<string>cancelBanding_buttonFont.png</string>
 						</array>
 					</dict>
@@ -1164,7 +1164,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/zhanghao_jiechu2.plist</string>
+							<string>ccbResources/logElements.plist</string>
 							<string>fontBkg_blue.png</string>
 						</array>
 					</dict>
@@ -1705,4 +1705,3 @@
 	<integer>3</integer>
 </dict>
 </plist>
-
