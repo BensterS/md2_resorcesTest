@@ -693,6 +693,13 @@
             <filename>../srcpng/program_load/zhanwei/zhanwei_3.png</filename>
             <filename>../srcpng/program_load/zhanwei/zhanwei_4.png</filename>
             <filename>../srcpng/program_load/zhanwei/zhanwei_5.png</filename>
+            <filename>../srcpng/program_load/pata.png</filename>
+            <filename>../srcpng/program_load/shengjiezhuangbeijiIcon_nor.png</filename>
+            <filename>../srcpng/program_load/shengjiezhuangbeijiIcon_sel.png</filename>
+            <filename>../srcpng/program_load/chongkaiqianghuaIcon_nor.png</filename>
+            <filename>../srcpng/program_load/chongkaiqianghuaIcon_sel.png</filename>
+            <filename>../srcpng/program_load/chongwushengjiIcon_nor.png</filename>
+            <filename>../srcpng/program_load/chongwushengjiIcon_sel.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
