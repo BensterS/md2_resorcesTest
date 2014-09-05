@@ -1138,6 +1138,8 @@
 								</array>
 							</dict>
 						</array>
+						<key>selected</key>
+						<true/>
 					</dict>
 					<dict>
 						<key>baseClass</key>
@@ -2955,4 +2957,3 @@
 	<integer>3</integer>
 </dict>
 </plist>
-
