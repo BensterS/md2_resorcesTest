@@ -95,7 +95,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shouchong.plist</string>
+							<string>ccbResources/newpicture5.plist</string>
 							<string>suochong_new.png</string>
 						</array>
 					</dict>
@@ -199,7 +199,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shouchong.plist</string>
+									<string>ccbResources/newpicture5.plist</string>
 									<string>cha_nor_new.png</string>
 								</array>
 							</dict>
@@ -210,7 +210,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shouchong.plist</string>
+									<string>ccbResources/newpicture5.plist</string>
 									<string>cha_sel_new.png</string>
 								</array>
 							</dict>
@@ -320,7 +320,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shouchong.plist</string>
+									<string>ccbResources/newpicture5.plist</string>
 									<string>qianqian_nor_new.png</string>
 								</array>
 							</dict>
@@ -331,7 +331,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shouchong.plist</string>
+									<string>ccbResources/newpicture5.plist</string>
 									<string>qianqian_sel_new.png</string>
 								</array>
 							</dict>
@@ -441,7 +441,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccbResources/basicElements.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -562,7 +562,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccbResources/basicElements.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -683,7 +683,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccbResources/basicElements.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -804,7 +804,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccbResources/basicElements.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -925,7 +925,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccbResources/basicElements.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -1046,7 +1046,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccbResources/basicElements.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -1167,7 +1167,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccbResources/basicElements.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -1288,7 +1288,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccbResources/basicElements.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -1459,8 +1459,8 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shouchong.plist</string>
-							<string>qiangjianli_new.png</string>
+							<string>ccbResources/newpicture6.plist</string>
+							<string>chongzhi_wenzi.png</string>
 						</array>
 					</dict>
 				</array>
@@ -2544,16 +2544,3 @@
 	<integer>3</integer>
 </dict>
 </plist>
-
-
-
-
-
-
-
-
-
-
-
-
-
