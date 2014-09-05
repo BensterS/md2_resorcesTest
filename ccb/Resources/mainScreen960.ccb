@@ -1039,7 +1039,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/mainScreen960.plist</string>
+									<string>ccbResourcesa/program_load.plist</string>
 									<string>mapBkg.png</string>
 								</array>
 							</dict>
@@ -2731,8 +2731,6 @@
 						</array>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
@@ -2885,5 +2883,3 @@
 	<integer>3</integer>
 </dict>
 </plist>
-
-
