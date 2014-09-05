@@ -6,7 +6,7 @@
         <key>texturePackerVersion</key>
         <string>3.3.2</string>
         <key>fileName</key>
-        <string>D:/公共文件夹/tps/pet_jinengCell.tps</string>
+        <string>D:/Work/GitHub/md2_resorcesTest/tps/proj/pet_jinengCell.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -171,7 +171,14 @@
             <enum type="SpriteSettings::PivotPoint">Center</enum>
         </struct>
         <key>fileList</key>
-        <array/>
+        <array>
+            <filename>../srcpng/pet_jinengCell/boxButto_nor.png</filename>
+            <filename>../srcpng/pet_jinengCell/boxButto_sel.png</filename>
+            <filename>../srcpng/pet_jinengCell/petnewButton_nor.png</filename>
+            <filename>../srcpng/pet_jinengCell/quedingOK_buttonFont.png</filename>
+            <filename>../srcpng/pet_jinengCell/skillFrame_nor.png</filename>
+            <filename>../srcpng/pet_jinengCell/skillFrame_sel.png</filename>
+        </array>
         <key>ignoreFileList</key>
         <array/>
         <key>replaceList</key>
