@@ -6,7 +6,7 @@
         <key>texturePackerVersion</key>
         <string>3.3.2</string>
         <key>fileName</key>
-        <string>D:/公共文件夹/tps/mainScreen960.tps</string>
+        <string>D:/Work/GitHub/md2_resorcesTest/tps/proj/mainScreen960.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -203,6 +203,7 @@
             <filename>../srcpng/mainScreen960/teamIcon_sel.png</filename>
             <filename>../srcpng/mainScreen960/VIP.png</filename>
             <filename>../srcpng/mainScreen960/VIP0.png</filename>
+            <filename>../srcpng/mainScreen960/mapBkg1.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
