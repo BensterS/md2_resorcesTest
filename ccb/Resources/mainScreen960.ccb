@@ -137,7 +137,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResources/basicElements.plist</string>
+							<string>ccbResourcesa/mainScreen960.plist</string>
 							<string>headFrame1.png</string>
 						</array>
 					</dict>
@@ -209,7 +209,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResources/basicElements.plist</string>
+							<string>ccbResourcesa/mainScreen960.plist</string>
 							<string>VIP0.png</string>
 						</array>
 					</dict>
@@ -281,7 +281,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResources/basicElements.plist</string>
+							<string>ccbResourcesa/mainScreen960.plist</string>
 							<string>mapBkg.png</string>
 						</array>
 					</dict>
@@ -385,7 +385,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/mainIcon.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>teamIcon_nor.png</string>
 								</array>
 							</dict>
@@ -396,7 +396,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/mainIcon.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>teamIcon_sel.png</string>
 								</array>
 							</dict>
@@ -506,7 +506,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/mainIcon.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>socialIcon_nor.png</string>
 								</array>
 							</dict>
@@ -517,7 +517,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/mainIcon.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>socialIcon_sel.png</string>
 								</array>
 							</dict>
@@ -627,7 +627,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/basicElements.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>interactButton.png</string>
 								</array>
 							</dict>
@@ -638,7 +638,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/basicElements.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>interactButton.png</string>
 								</array>
 							</dict>
@@ -748,7 +748,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/mainIcon.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>renwuIcon_nor.png</string>
 								</array>
 							</dict>
@@ -759,7 +759,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/mainIcon.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>renwuIcon_sel.png</string>
 								</array>
 							</dict>
@@ -869,7 +869,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/mainIcon.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>systemIcon_nor.png</string>
 								</array>
 							</dict>
@@ -880,7 +880,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/mainIcon.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>systemIcon_sel.png</string>
 								</array>
 							</dict>
@@ -990,7 +990,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/meiribizuo.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>bangzhu_nor.png</string>
 								</array>
 							</dict>
@@ -1001,7 +1001,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/meiribizuo.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>bangzhu_sel.png</string>
 								</array>
 							</dict>
@@ -1111,7 +1111,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/basicElements.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>mapBkg1.png</string>
 								</array>
 							</dict>
@@ -1122,7 +1122,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/basicElements.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>mapBkg1.png</string>
 								</array>
 							</dict>
@@ -1232,7 +1232,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/basicElements.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>petheadcell.png</string>
 								</array>
 							</dict>
@@ -1243,7 +1243,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/basicElements.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>petheadcell.png</string>
 								</array>
 							</dict>
@@ -1353,7 +1353,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/basicElements.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>heroheadcell.png</string>
 								</array>
 							</dict>
@@ -1364,7 +1364,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/basicElements.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>heroheadcell.png</string>
 								</array>
 							</dict>
@@ -1474,7 +1474,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/basicElements.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>VIP.png</string>
 								</array>
 							</dict>
@@ -1485,7 +1485,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/basicElements.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>VIP.png</string>
 								</array>
 							</dict>
@@ -1677,7 +1677,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/mainIcon.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>beibao.png</string>
 								</array>
 							</dict>
@@ -1688,7 +1688,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/mainIcon.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>beibao.png</string>
 								</array>
 							</dict>
@@ -1798,7 +1798,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/mainIcon.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>shangcheng.png</string>
 								</array>
 							</dict>
@@ -1809,7 +1809,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/mainIcon.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>shangcheng.png</string>
 								</array>
 							</dict>
@@ -1919,7 +1919,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/mainIcon.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>duanzao.png</string>
 								</array>
 							</dict>
@@ -1930,7 +1930,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/mainIcon.plist</string>
+									<string>ccbResourcesa/mainScreen960.plist</string>
 									<string>duanzao.png</string>
 								</array>
 							</dict>
@@ -2090,7 +2090,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResources/basicElements.plist</string>
+							<string>ccbResourcesa/mainScreen960.plist</string>
 							<string>numback.png</string>
 						</array>
 					</dict>
@@ -2162,7 +2162,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResources/meiribizuo.plist</string>
+							<string>ccbResourcesa/mainScreen960.plist</string>
 							<string>chenghao_tu.png</string>
 						</array>
 					</dict>
@@ -2234,7 +2234,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResources/meiribizuo.plist</string>
+							<string>ccbResourcesa/mainScreen960.plist</string>
 							<string>jiaohao_tu.png</string>
 						</array>
 					</dict>
@@ -2538,7 +2538,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResources/basicElements.plist</string>
+							<string>ccbResourcesa/mainScreen960.plist</string>
 							<string>fightpowernum.png</string>
 						</array>
 					</dict>
@@ -2955,3 +2955,4 @@
 	<integer>3</integer>
 </dict>
 </plist>
+

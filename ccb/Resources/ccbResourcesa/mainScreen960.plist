@@ -137,7 +137,7 @@
             <key>duanzao_nor.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,349},{52,60}}</string>
+                <string>{{244,321},{52,60}}</string>
                 <key>offset</key>
                 <string>{0,-2}</string>
                 <key>rotated</key>
@@ -264,6 +264,19 @@
                 <key>sourceSize</key>
                 <string>{140,59}</string>
             </dict>
+            <key>mapBkg1.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{182,317},{60,60}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{60,60}}</string>
+                <key>sourceSize</key>
+                <string>{60,60}</string>
+            </dict>
             <key>numback.png</key>
             <dict>
                 <key>frame</key>
@@ -332,7 +345,7 @@
             <key>socialIcon_nor.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{80,318},{52,60}}</string>
+                <string>{{2,349},{52,60}}</string>
                 <key>offset</key>
                 <string>{0,-2}</string>
                 <key>rotated</key>
@@ -358,7 +371,7 @@
             <key>systemIcon_nor.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{182,317},{52,60}}</string>
+                <string>{{80,318},{52,60}}</string>
                 <key>offset</key>
                 <string>{0,-2}</string>
                 <key>rotated</key>
@@ -384,7 +397,7 @@
             <key>teamIcon_nor.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{244,321},{52,58}}</string>
+                <string>{{306,346},{52,58}}</string>
                 <key>offset</key>
                 <string>{0,-3}</string>
                 <key>rotated</key>
@@ -417,7 +430,7 @@
             <key>size</key>
             <string>{512,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:72977f69222dc947b6e3cc66e4fa55d9:d80d39ed7a59fd3c826cea296d861741:d7563889ad672e876a3306b3c9bc7146$</string>
+            <string>$TexturePacker:SmartUpdate:a43693babda081fbd08b303967aeab92:dad7989b9d9be57178c1172915ea1669:d7563889ad672e876a3306b3c9bc7146$</string>
             <key>textureFileName</key>
             <string>mainScreen960.png</string>
         </dict>
