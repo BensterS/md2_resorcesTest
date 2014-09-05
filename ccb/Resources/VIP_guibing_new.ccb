@@ -95,7 +95,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccbResources/logElements.plist</string>
 							<string>logBkg.png</string>
 						</array>
 					</dict>
@@ -231,7 +231,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccbResources/logElements.plist</string>
 							<string>titleBkg_top.png</string>
 						</array>
 					</dict>
@@ -367,7 +367,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccbResources/basicElements.plist</string>
 							<string>contentBkg.png</string>
 						</array>
 					</dict>
@@ -503,7 +503,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccbResources/basicElements.plist</string>
 							<string>contentBkg.png</string>
 						</array>
 					</dict>
@@ -639,7 +639,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/VIP_guibing_new.plist</string>
+							<string>ccbResources/basicElements.plist</string>
 							<string>contentBkg_1.png</string>
 						</array>
 					</dict>
@@ -807,7 +807,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccbResources/basicElements.plist</string>
 									<string>cancelButton_nor.png</string>
 								</array>
 							</dict>
@@ -818,7 +818,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccbResources/basicElements.plist</string>
 									<string>cancelButton_sel.png</string>
 								</array>
 							</dict>
@@ -857,7 +857,7 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
-									<real>621</real>
+									<real>624</real>
 									<real>353</real>
 									<integer>0</integer>
 								</array>
@@ -880,8 +880,8 @@
 								<string>ScaleLock</string>
 								<key>value</key>
 								<array>
-									<real>0.69999998807907104</real>
-									<real>0.69999998807907104</real>
+									<real>1</real>
+									<real>1</real>
 									<false/>
 									<integer>0</integer>
 								</array>
@@ -928,8 +928,8 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
-									<string>subButton_nor.png</string>
+									<string>ccbResources/basicElements.plist</string>
+									<string>subButton2_nor.png</string>
 								</array>
 							</dict>
 							<dict>
@@ -939,8 +939,8 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
-									<string>subButton_sel.png</string>
+									<string>ccbResources/basicElements.plist</string>
+									<string>subButton2_sel.png</string>
 								</array>
 							</dict>
 							<dict>
@@ -950,8 +950,8 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
-									<string>subButton_hui.png</string>
+									<string>ccbResources/basicElements.plist</string>
+									<string>subButton2_sel.png</string>
 								</array>
 							</dict>
 						</array>
@@ -1049,7 +1049,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccbResources/basicElements.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -1060,7 +1060,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccbResources/basicElements.plist</string>
 									<string>objectFrame_selected.png</string>
 								</array>
 							</dict>
@@ -1170,7 +1170,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccbResources/basicElements.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -1181,7 +1181,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccbResources/basicElements.plist</string>
 									<string>objectFrame_selected.png</string>
 								</array>
 							</dict>
@@ -1291,7 +1291,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccbResources/basicElements.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -1302,7 +1302,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccbResources/basicElements.plist</string>
 									<string>objectFrame_selected.png</string>
 								</array>
 							</dict>
@@ -1412,7 +1412,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/VIP_guibing_new.plist</string>
+									<string>ccbResources/newpicture5.plist</string>
 									<string>paianniu_nor_new.png</string>
 								</array>
 							</dict>
@@ -1423,7 +1423,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/VIP_guibing_new.plist</string>
+									<string>ccbResources/newpicture5.plist</string>
 									<string>paianniu_sel_new.png</string>
 								</array>
 							</dict>
@@ -1533,7 +1533,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/VIP_guibing_new.plist</string>
+									<string>ccbResources/newpicture5.plist</string>
 									<string>paianniu_nor_new.png</string>
 								</array>
 							</dict>
@@ -1544,7 +1544,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/VIP_guibing_new.plist</string>
+									<string>ccbResources/newpicture5.plist</string>
 									<string>paianniu_sel_new.png</string>
 								</array>
 							</dict>
@@ -1654,7 +1654,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/VIP_guibing_new.plist</string>
+									<string>ccbResources/newpicture5.plist</string>
 									<string>paianniu_nor_new.png</string>
 								</array>
 							</dict>
@@ -1665,7 +1665,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/VIP_guibing_new.plist</string>
+									<string>ccbResources/newpicture5.plist</string>
 									<string>paianniu_sel_new.png</string>
 								</array>
 							</dict>
@@ -1704,7 +1704,7 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
-									<real>620</real>
+									<real>622</real>
 									<real>212</real>
 									<integer>0</integer>
 								</array>
@@ -1727,8 +1727,8 @@
 								<string>ScaleLock</string>
 								<key>value</key>
 								<array>
-									<real>0.69999998807907104</real>
-									<real>0.69999998807907104</real>
+									<real>1</real>
+									<real>1</real>
 									<false/>
 									<integer>0</integer>
 								</array>
@@ -1775,8 +1775,8 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/VIP_guibing_new.plist</string>
-									<string>huangsubButton_nor.png</string>
+									<string>ccbResources/basicElements.plist</string>
+									<string>huangsubButton2_nor.png</string>
 								</array>
 							</dict>
 							<dict>
@@ -1786,8 +1786,8 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/VIP_guibing_new.plist</string>
-									<string>huangsubButton_sel.png</string>
+									<string>ccbResources/basicElements.plist</string>
+									<string>huangsubButton2_sel.png</string>
 								</array>
 							</dict>
 							<dict>
@@ -1797,8 +1797,8 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
-									<string>hongsubButton_hui.png</string>
+									<string>ccbResources/basicElements.plist</string>
+									<string>huangsubButton2_sel.png</string>
 								</array>
 							</dict>
 						</array>
@@ -1946,7 +1946,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/VIP_guibing_new.plist</string>
+							<string>ccbResources/newpicture5.plist</string>
 							<string>VIPguibing_new.png</string>
 						</array>
 					</dict>
@@ -2018,7 +2018,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/VIP_guibing_new.plist</string>
+							<string>ccbResources/newpicture5.plist</string>
 							<string>paianniu_sel_new.png</string>
 						</array>
 					</dict>
@@ -2090,7 +2090,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/VIP_guibing_new.plist</string>
+							<string>ccbResources/newpicture5.plist</string>
 							<string>zhizunpai_new.png</string>
 						</array>
 					</dict>
@@ -2162,7 +2162,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/VIP_guibing_new.plist</string>
+							<string>ccbResources/newpicture5.plist</string>
 							<string>zhizunVIPbannian_new.png</string>
 						</array>
 					</dict>
@@ -2234,7 +2234,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/VIP_guibing_new.plist</string>
+							<string>ccbResources/newpicture5.plist</string>
 							<string>VIP1_new.png</string>
 						</array>
 					</dict>
@@ -2306,7 +2306,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/VIP_guibing_new.plist</string>
+							<string>ccbResources/newpicture5.plist</string>
 							<string>zuanshiVIPji_new.png</string>
 						</array>
 					</dict>
@@ -2378,7 +2378,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/VIP_guibing_new.plist</string>
+							<string>ccbResources/newpicture5.plist</string>
 							<string>VIP2_new.png</string>
 						</array>
 					</dict>
@@ -2450,7 +2450,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/VIP_guibing_new.plist</string>
+							<string>ccbResources/newpicture5.plist</string>
 							<string>baijinVIPyue_new.png</string>
 						</array>
 					</dict>
@@ -2522,7 +2522,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/VIP_guibing_new.plist</string>
+							<string>ccbResources/newpicture5.plist</string>
 							<string>yinbingmeizi_new.png</string>
 						</array>
 					</dict>
@@ -2594,7 +2594,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/VIP_guibing_new.plist</string>
+							<string>ccbResources/newpicture5.plist</string>
 							<string>lingqu_new.png</string>
 						</array>
 					</dict>
@@ -2666,7 +2666,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/VIP_guibing_new.plist</string>
+							<string>ccbResources/newpicture5.plist</string>
 							<string>shoucichengwei_new.png</string>
 						</array>
 					</dict>
@@ -2738,7 +2738,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/VIP_guibing_new.plist</string>
+							<string>ccbResources/newpicture5.plist</string>
 							<string>bannian_new.png</string>
 						</array>
 					</dict>
@@ -2810,7 +2810,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/VIP_guibing_new.plist</string>
+							<string>ccbResources/newpicture5.plist</string>
 							<string>VIP_new.png</string>
 						</array>
 					</dict>
@@ -2882,7 +2882,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/VIP_guibing_new.plist</string>
+							<string>ccbResources/newpicture5.plist</string>
 							<string>kehuode_new.png</string>
 						</array>
 					</dict>
@@ -2954,7 +2954,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/VIP_guibing_new.plist</string>
+							<string>ccbResources/newpicture5.plist</string>
 							<string>zhizunlibao_new.png</string>
 						</array>
 					</dict>
@@ -3538,7 +3538,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/VIP_guibing_new.plist</string>
+							<string>ccbResources/newpicture5.plist</string>
 							<string>zhizun_new.png</string>
 						</array>
 					</dict>
@@ -3610,7 +3610,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/VIP_guibing_new.plist</string>
+							<string>ccbResources/newpicture5.plist</string>
 							<string>banniankabao_new.png</string>
 						</array>
 					</dict>
@@ -3682,7 +3682,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/VIP_guibing_new.plist</string>
+							<string>ccbResources/newpicture5.plist</string>
 							<string>VIP_new.png</string>
 						</array>
 					</dict>
@@ -3882,7 +3882,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/VIP_guibing_new.plist</string>
+							<string>ccbResources/newpicture5.plist</string>
 							<string>goumai_new.png</string>
 						</array>
 					</dict>
@@ -4039,9 +4039,3 @@
 	<integer>3</integer>
 </dict>
 </plist>
-
-
-
-
-
-
