@@ -178,6 +178,8 @@
             <filename>../srcpng/lixianjingyan_new/lixianjingyan_new.png</filename>
             <filename>../srcpng/lixianjingyan_new/subButton2_nor.png</filename>
             <filename>../srcpng/lixianjingyan_new/subButton2_sel.png</filename>
+            <filename>../srcpng/lixianjingyan_new/hongsubButton2_nor.png</filename>
+            <filename>../srcpng/lixianjingyan_new/hongsubButton2_sel.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
