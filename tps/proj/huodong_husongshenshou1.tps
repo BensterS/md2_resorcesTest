@@ -6,7 +6,7 @@
         <key>texturePackerVersion</key>
         <string>3.3.2</string>
         <key>fileName</key>
-        <string>D:/公共文件夹/tps/huodong_husongshenshou1.tps</string>
+        <string>D:/Work/GitHub/md2_resorcesTest/tps/proj/huodong_husongshenshou1.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -181,6 +181,8 @@
             <filename>../srcpng/huodong_husongshenshou1/tisheng_biaoti.png</filename>
             <filename>../srcpng/huodong_husongshenshou1/tisheng_dikuang.png</filename>
             <filename>../srcpng/huodong_husongshenshou1/zise_font.png</filename>
+            <filename>../srcpng/huodong_husongshenshou1/hongsubButton2_nor.png</filename>
+            <filename>../srcpng/huodong_husongshenshou1/hongsubButton2_sel.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

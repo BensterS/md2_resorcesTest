@@ -183,6 +183,8 @@
             <filename>../srcpng/program_load/husong/yabiao_3.png</filename>
             <filename>../srcpng/program_load/husong/yabiao_4.png</filename>
             <filename>../srcpng/program_load/husong/yabiao_5.png</filename>
+            <filename>../srcpng/program_load/husong/kaishihusong_Font.png</filename>
+            <filename>../srcpng/program_load/husong/xunluqianwang_Font.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
