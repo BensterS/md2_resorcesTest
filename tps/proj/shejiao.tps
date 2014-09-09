@@ -6,7 +6,7 @@
         <key>texturePackerVersion</key>
         <string>3.3.2</string>
         <key>fileName</key>
-        <string>D:/Work/GitHub/md2_resorcesTest/tps/proj/mainScreen960.tps</string>
+        <string>D:/Work/GitHub/md2_resorcesTest/tps/proj/shejiao.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -38,7 +38,7 @@
         <key>dataFormat</key>
         <string>cocos2d</string>
         <key>textureFileName</key>
-        <filename>../publish/mainScreen960.png</filename>
+        <filename>../publish/shejiao.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>ditherType</key>
@@ -131,7 +131,7 @@
             <key>data</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../publish/mainScreen960.plist</filename>
+                <filename>../publish/shejiao.plist</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -172,39 +172,16 @@
         </struct>
         <key>fileList</key>
         <array>
-            <filename>../srcpng/mainScreen960/bangzhu_nor.png</filename>
-            <filename>../srcpng/mainScreen960/bangzhu_sel.png</filename>
-            <filename>../srcpng/mainScreen960/beibao.png</filename>
-            <filename>../srcpng/mainScreen960/beibao_nor.png</filename>
-            <filename>../srcpng/mainScreen960/beibao_sel.png</filename>
-            <filename>../srcpng/mainScreen960/chenghao_tu.png</filename>
-            <filename>../srcpng/mainScreen960/danzao_sel.png</filename>
-            <filename>../srcpng/mainScreen960/duanzao.png</filename>
-            <filename>../srcpng/mainScreen960/duanzao_nor.png</filename>
-            <filename>../srcpng/mainScreen960/fightpowernum.png</filename>
-            <filename>../srcpng/mainScreen960/headFrame1.png</filename>
-            <filename>../srcpng/mainScreen960/heroheadcell.png</filename>
-            <filename>../srcpng/mainScreen960/interactButton_nor.png</filename>
-            <filename>../srcpng/mainScreen960/interactButton_sel.png</filename>
-            <filename>../srcpng/mainScreen960/jiaohao_tu.png</filename>
-            <filename>../srcpng/mainScreen960/mallIcon_nor.png</filename>
-            <filename>../srcpng/mainScreen960/mallIcon_sel.png</filename>
-            <filename>../srcpng/mainScreen960/mapBkg.png</filename>
-            <filename>../srcpng/mainScreen960/numback.png</filename>
-            <filename>../srcpng/mainScreen960/petheadcell.png</filename>
-            <filename>../srcpng/mainScreen960/renwuIcon_nor.png</filename>
-            <filename>../srcpng/mainScreen960/renwuIcon_sel.png</filename>
-            <filename>../srcpng/mainScreen960/shangcheng.png</filename>
-            <filename>../srcpng/mainScreen960/socialIcon_nor.png</filename>
-            <filename>../srcpng/mainScreen960/socialIcon_sel.png</filename>
-            <filename>../srcpng/mainScreen960/systemIcon_nor.png</filename>
-            <filename>../srcpng/mainScreen960/systemIcon_sel.png</filename>
-            <filename>../srcpng/mainScreen960/teamIcon_nor.png</filename>
-            <filename>../srcpng/mainScreen960/teamIcon_sel.png</filename>
-            <filename>../srcpng/mainScreen960/VIP.png</filename>
-            <filename>../srcpng/mainScreen960/VIP0.png</filename>
-            <filename>../srcpng/mainScreen960/mapBkg1.png</filename>
-            <filename>../srcpng/mainScreen960/interactButton.png</filename>
+            <filename>../srcpng/program_load/shejiao/fuqiButton_nor.png</filename>
+            <filename>../srcpng/program_load/shejiao/fuqiButton_sel.png</filename>
+            <filename>../srcpng/program_load/shejiao/haoyouButton_nor.png</filename>
+            <filename>../srcpng/program_load/shejiao/haoyouButton_sel.png</filename>
+            <filename>../srcpng/program_load/shejiao/heimingdanButton_nor.png</filename>
+            <filename>../srcpng/program_load/shejiao/heimingdanButton_sel.png</filename>
+            <filename>../srcpng/program_load/shejiao/shituButton_nor.png</filename>
+            <filename>../srcpng/program_load/shejiao/shituButton_sel.png</filename>
+            <filename>../srcpng/program_load/shejiao/youjian_22Button_nor.png</filename>
+            <filename>../srcpng/program_load/shejiao/youjian_22Button_sel.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

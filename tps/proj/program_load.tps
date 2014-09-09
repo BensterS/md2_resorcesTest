@@ -464,6 +464,16 @@
             <filename>../srcpng/program_load/wuqishangdian_titleFont.png</filename>
             <filename>../srcpng/program_load/yaopinshangdian_titleFont.png</filename>
             <filename>../srcpng/program_load/zahuoshangdian_titleFont.png</filename>
+            <filename>../srcpng/program_load/leveup/shengji0.png</filename>
+            <filename>../srcpng/program_load/leveup/shengji1.png</filename>
+            <filename>../srcpng/program_load/leveup/shengji2.png</filename>
+            <filename>../srcpng/program_load/leveup/shengji3.png</filename>
+            <filename>../srcpng/program_load/leveup/shengji4.png</filename>
+            <filename>../srcpng/program_load/leveup/shengji5.png</filename>
+            <filename>../srcpng/program_load/leveup/shengji6.png</filename>
+            <filename>../srcpng/program_load/leveup/shengji7.png</filename>
+            <filename>../srcpng/program_load/leveup/shengji8.png</filename>
+            <filename>../srcpng/program_load/leveup/shengji9.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
