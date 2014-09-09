@@ -6,7 +6,7 @@
         <key>texturePackerVersion</key>
         <string>3.3.2</string>
         <key>fileName</key>
-        <string>D:/公共文件夹/tps/VIP_guibing_new.tps</string>
+        <string>D:/Work/GitHub/md2_resorcesTest/tps/proj/VIP_guibing_new.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -38,7 +38,7 @@
         <key>dataFormat</key>
         <string>cocos2d</string>
         <key>textureFileName</key>
-        <filename>../VIP_guibing_new.png</filename>
+        <filename>../publish/VIP_guibing_new.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>ditherType</key>
@@ -131,7 +131,7 @@
             <key>data</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../VIP_guibing_new.plist</filename>
+                <filename>../publish/VIP_guibing_new.plist</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -194,6 +194,8 @@
             <filename>../srcpng/VIP_guibing_new/zhizunpai_new.png</filename>
             <filename>../srcpng/VIP_guibing_new/zhizunVIPbannian_new.png</filename>
             <filename>../srcpng/VIP_guibing_new/zuanshiVIPji_new.png</filename>
+            <filename>../srcpng/huodong_husongshenshou/hongsubButton2_nor.png</filename>
+            <filename>../srcpng/huodong_husongshenshou/hongsubButton2_sel.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

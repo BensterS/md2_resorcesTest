@@ -38,7 +38,7 @@
         <key>dataFormat</key>
         <string>cocos2d</string>
         <key>textureFileName</key>
-        <filename>../huodong_husongshenshou.png</filename>
+        <filename>../publish/huodong_husongshenshou.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>ditherType</key>
@@ -131,7 +131,7 @@
             <key>data</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../huodong_husongshenshou.plist</filename>
+                <filename>../publish/huodong_husongshenshou.plist</filename>
             </struct>
         </map>
         <key>multiPack</key>

@@ -6,7 +6,7 @@
         <key>texturePackerVersion</key>
         <string>3.3.2</string>
         <key>fileName</key>
-        <string>D:/公共文件夹/tps/dati.tps</string>
+        <string>D:/Work/GitHub/md2_resorcesTest/tps/proj/dati.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -38,7 +38,7 @@
         <key>dataFormat</key>
         <string>cocos2d</string>
         <key>textureFileName</key>
-        <filename>../dati.png</filename>
+        <filename>../publish/dati.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>ditherType</key>
@@ -131,7 +131,7 @@
             <key>data</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../dati.plist</filename>
+                <filename>../publish/dati.plist</filename>
             </struct>
         </map>
         <key>multiPack</key>

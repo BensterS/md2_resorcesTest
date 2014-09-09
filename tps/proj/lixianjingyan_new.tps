@@ -6,7 +6,7 @@
         <key>texturePackerVersion</key>
         <string>3.3.2</string>
         <key>fileName</key>
-        <string>D:/公共文件夹/tps/lixianjingyan_new.tps</string>
+        <string>D:/Work/GitHub/md2_resorcesTest/tps/proj/lixianjingyan_new.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -38,7 +38,7 @@
         <key>dataFormat</key>
         <string>cocos2d</string>
         <key>textureFileName</key>
-        <filename>../lixianjingyan_new.png</filename>
+        <filename>../publish/lixianjingyan_new.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>ditherType</key>
@@ -131,7 +131,7 @@
             <key>data</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../lixianjingyan_new.plist</filename>
+                <filename>../publish/lixianjingyan_new.plist</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -176,6 +176,8 @@
             <filename>../srcpng/lixianjingyan_new/duihuan_new.png</filename>
             <filename>../srcpng/lixianjingyan_new/goumaiVIP_new.png</filename>
             <filename>../srcpng/lixianjingyan_new/lixianjingyan_new.png</filename>
+            <filename>../srcpng/huodong_husongshenshou/hongsubButton2_nor.png</filename>
+            <filename>../srcpng/huodong_husongshenshou/hongsubButton2_sel.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
