@@ -43,56 +43,44 @@
                 <key>sourceSize</key>
                 <string>{60,17}</string>
             </dict>
-            <key>lixianjingyan_new.png</key>
+            <key>hongsubButton2_nor.png</key>
             <dict>
                 <key>frame</key>
-<<<<<<< HEAD
                 <string>{{128,44},{105,40}}</string>
-=======
-                <string>{{2,108},{136,26}}</string>
->>>>>>> origin/master
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,1},{105,40}}</string>
+                <key>sourceSize</key>
+                <string>{105,42}</string>
+            </dict>
+            <key>hongsubButton2_sel.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,72},{105,40}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,1},{105,40}}</string>
+                <key>sourceSize</key>
+                <string>{105,42}</string>
+            </dict>
+            <key>lixianjingyan_new.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{136,26}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{136,26}}</string>
                 <key>sourceSize</key>
                 <string>{136,26}</string>
-            </dict>
-            <key>subButton2_nor.png</key>
-            <dict>
-                <key>frame</key>
-<<<<<<< HEAD
-                <string>{{2,72},{105,40}}</string>
-=======
-                <string>{{2,44},{105,40}}</string>
->>>>>>> origin/master
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,1},{105,40}}</string>
-                <key>sourceSize</key>
-                <string>{105,42}</string>
-            </dict>
-            <key>subButton2_sel.png</key>
-            <dict>
-                <key>frame</key>
-<<<<<<< HEAD
-                <string>{{2,2},{136,26}}</string>
-=======
-                <string>{{2,2},{105,40}}</string>
->>>>>>> origin/master
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,1},{105,40}}</string>
-                <key>sourceSize</key>
-                <string>{105,42}</string>
             </dict>
             <key>subButton2_nor.png</key>
             <dict>
@@ -130,11 +118,7 @@
             <key>size</key>
             <string>{256,256}</string>
             <key>smartupdate</key>
-<<<<<<< HEAD
             <string>$TexturePacker:SmartUpdate:53242bbc68140101a4084d30ca1aa2f7:d496bb708fa890d2508f2c2942be0224:9046842d8a89b2b9a06ea0996850b5aa$</string>
-=======
-            <string>$TexturePacker:SmartUpdate:d6504f16a1f05bc9c9d49fff7d4b5c2b:fde7a4bff282435258ab69374f6b645d:9046842d8a89b2b9a06ea0996850b5aa$</string>
->>>>>>> origin/master
             <key>textureFileName</key>
             <string>lixianjingyan_new.png</string>
         </dict>
