@@ -88,7 +88,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResources/basicElements.plist</string>
+							<string>ccbResourcesa/share.plist</string>
 							<string>detailBkg.png</string>
 						</array>
 					</dict>
@@ -224,7 +224,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResources/basicElements.plist</string>
+							<string>ccbResourcesa/share.plist</string>
 							<string>contentBkg.png</string>
 						</array>
 					</dict>
@@ -360,7 +360,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResources/basicElements.plist</string>
+							<string>ccbResourcesa/share.plist</string>
 							<string>detailBkg.png</string>
 						</array>
 					</dict>
@@ -528,7 +528,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/newpicture2.plist</string>
+									<string>ccbResourcesa/liaotian.plist</string>
 									<string>liaotianpindao_nor.png</string>
 								</array>
 							</dict>
@@ -539,7 +539,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/newpicture2.plist</string>
+									<string>ccbResourcesa/liaotian.plist</string>
 									<string>liaotianpindao_sel.png</string>
 								</array>
 							</dict>
@@ -649,7 +649,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/newpicture2.plist</string>
+									<string>ccbResourcesa/liaotian.plist</string>
 									<string>input132Frame.png</string>
 								</array>
 							</dict>
@@ -770,7 +770,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/newpicture2.plist</string>
+									<string>ccbResourcesa/liaotian.plist</string>
 									<string>input360Frame.png</string>
 								</array>
 							</dict>
@@ -891,7 +891,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/newpicture2.plist</string>
+									<string>ccbResourcesa/liaotian.plist</string>
 									<string>charu_nor.png</string>
 								</array>
 							</dict>
@@ -902,7 +902,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/newpicture2.plist</string>
+									<string>ccbResourcesa/liaotian.plist</string>
 									<string>charu_sel.png</string>
 								</array>
 							</dict>
@@ -1012,7 +1012,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/newpicture2.plist</string>
+									<string>ccbResourcesa/liaotian.plist</string>
 									<string>fasong_nor.png</string>
 								</array>
 							</dict>
@@ -1023,7 +1023,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/newpicture2.plist</string>
+									<string>ccbResourcesa/liaotian.plist</string>
 									<string>fasong_sel.png</string>
 								</array>
 							</dict>
@@ -1133,7 +1133,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/newpicture2.plist</string>
+									<string>ccbResourcesa/liaotian.plist</string>
 									<string>liaotianpindao_nor.png</string>
 								</array>
 							</dict>
@@ -1144,7 +1144,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/newpicture2.plist</string>
+									<string>ccbResourcesa/liaotian.plist</string>
 									<string>liaotianpindao_sel.png</string>
 								</array>
 							</dict>
@@ -1254,7 +1254,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/newpicture2.plist</string>
+									<string>ccbResourcesa/liaotian.plist</string>
 									<string>liaotianpindao_nor.png</string>
 								</array>
 							</dict>
@@ -1265,7 +1265,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/newpicture2.plist</string>
+									<string>ccbResourcesa/liaotian.plist</string>
 									<string>liaotianpindao_sel.png</string>
 								</array>
 							</dict>
@@ -1375,7 +1375,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/newpicture2.plist</string>
+									<string>ccbResourcesa/liaotian.plist</string>
 									<string>liaotianpindao_nor.png</string>
 								</array>
 							</dict>
@@ -1386,7 +1386,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/newpicture2.plist</string>
+									<string>ccbResourcesa/liaotian.plist</string>
 									<string>liaotianpindao_sel.png</string>
 								</array>
 							</dict>
@@ -1496,7 +1496,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/newpicture2.plist</string>
+									<string>ccbResourcesa/liaotian.plist</string>
 									<string>input494Frame.png</string>
 								</array>
 							</dict>
@@ -1617,7 +1617,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/newpicture2.plist</string>
+									<string>ccbResourcesa/liaotian.plist</string>
 									<string>liaotianpindao_nor.png</string>
 								</array>
 							</dict>
@@ -1628,7 +1628,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResources/newpicture2.plist</string>
+									<string>ccbResourcesa/liaotian.plist</string>
 									<string>liaotianpindao_sel.png</string>
 								</array>
 							</dict>
@@ -2139,7 +2139,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResources/newpicture2.plist</string>
+							<string>ccbResourcesa/liaotian.plist</string>
 							<string>anjianjiantou.png</string>
 						</array>
 					</dict>
@@ -2211,7 +2211,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResources/newpicture2.plist</string>
+							<string>ccbResourcesa/liaotian.plist</string>
 							<string>anjianjiantou.png</string>
 						</array>
 					</dict>
@@ -2283,7 +2283,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResources/newpicture2.plist</string>
+							<string>ccbResourcesa/liaotian.plist</string>
 							<string>shijianpindao_sel.png</string>
 						</array>
 					</dict>
@@ -2355,7 +2355,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResources/newpicture2.plist</string>
+							<string>ccbResourcesa/liaotian.plist</string>
 							<string>siliaopindao_nor.png</string>
 						</array>
 					</dict>
@@ -2427,7 +2427,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResources/newpicture2.plist</string>
+							<string>ccbResourcesa/liaotian.plist</string>
 							<string>bangpaipindao_nor.png</string>
 						</array>
 					</dict>
@@ -2499,7 +2499,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResources/newpicture2.plist</string>
+							<string>ccbResourcesa/liaotian.plist</string>
 							<string>duiwupindao_nor.png</string>
 						</array>
 					</dict>
@@ -2571,7 +2571,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResources/newpicture2.plist</string>
+							<string>ccbResourcesa/liaotian.plist</string>
 							<string>shijianpindao_nor.png</string>
 						</array>
 					</dict>
@@ -2728,3 +2728,4 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
