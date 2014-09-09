@@ -1981,7 +1981,7 @@
 						<key>type</key>
 						<string>Text</string>
 						<key>value</key>
-						<string>首次通过20,50,100,150,200层的玩
+						<string>首次通过20,60,100,150,200层的玩
 家即可成为该层霸主。</string>
 					</dict>
 				</array>
@@ -2885,18 +2885,4 @@
 	<integer>3</integer>
 </dict>
 </plist>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

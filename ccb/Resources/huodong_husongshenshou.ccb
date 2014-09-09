@@ -965,8 +965,8 @@
 								<string>ScaleLock</string>
 								<key>value</key>
 								<array>
-									<real>0.80000001192092896</real>
-									<real>0.80000001192092896</real>
+									<real>1</real>
+									<real>1</real>
 									<false/>
 									<integer>0</integer>
 								</array>
@@ -1014,7 +1014,7 @@
 								<key>value</key>
 								<array>
 									<string>ccbResourcesa/huodong_husongshenshou.plist</string>
-									<string>subButton1_nor.png</string>
+									<string>hongsubButton2_nor.png</string>
 								</array>
 							</dict>
 							<dict>
@@ -1025,7 +1025,7 @@
 								<key>value</key>
 								<array>
 									<string>ccbResourcesa/huodong_husongshenshou.plist</string>
-									<string>subButton1_sel.png</string>
+									<string>hongsubButton2_sel.png</string>
 								</array>
 							</dict>
 							<dict>
@@ -5976,5 +5976,4 @@
 	<integer>3</integer>
 </dict>
 </plist>
-
 
