@@ -349,6 +349,21 @@
             <filename>../srcpng/program_load/tiaozhan_boos/xiangqianfubenIcon_nor.png</filename>
             <filename>../srcpng/program_load/tiaozhan_boos/xilianfubenIcon_nor.png</filename>
             <filename>../srcpng/program_load/tiaozhan_boos/zhaosheng_tongguan.png</filename>
+            <filename>../srcpng/program_load/wanfa/quanbuButton_nor.png</filename>
+            <filename>../srcpng/program_load/wanfa/quanbuButton_sel.png</filename>
+            <filename>../srcpng/program_load/wanfa/jingyanButton_sel.png</filename>
+            <filename>../srcpng/program_load/wanfa/jingyanButton_nor.png</filename>
+            <filename>../srcpng/program_load/wanfa/petButton_nor.png</filename>
+            <filename>../srcpng/program_load/wanfa/petButton_sel.png</filename>
+            <filename>../srcpng/program_load/wanfa/qitaButton_nor.png</filename>
+            <filename>../srcpng/program_load/wanfa/qitaButton_sel.png</filename>
+            <filename>../srcpng/program_load/wanfa/zhuangbei_23Button_nor.png</filename>
+            <filename>../srcpng/program_load/wanfa/zhuangbei_23Button_sel.png</filename>
+            <filename>../srcpng/program_load/tiaozhan_boos/paohuan_dibai1.png</filename>
+            <filename>../srcpng/program_load/tiaozhan_boos/paohuan_dibai2.png</filename>
+            <filename>../srcpng/program_load/tiaozhan_boos/paohuan_dibai3.png</filename>
+            <filename>../srcpng/program_load/tiaozhan_boos/paohuan_dibai4.png</filename>
+            <filename>../srcpng/program_load/tiaozhan_boos/paohuan_dibai5.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

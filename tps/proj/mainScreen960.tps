@@ -204,6 +204,7 @@
             <filename>../srcpng/mainScreen960/VIP.png</filename>
             <filename>../srcpng/mainScreen960/VIP0.png</filename>
             <filename>../srcpng/mainScreen960/mapBkg1.png</filename>
+            <filename>../srcpng/mainScreen960/interactButton.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

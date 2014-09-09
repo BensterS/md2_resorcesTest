@@ -389,11 +389,6 @@
             <filename>../srcpng/program_load/zuanshi_new.png</filename>
             <filename>../srcpng/program_load/zuanshikabao_new.png</filename>
             <filename>../srcpng/program_load/zuanshilibao_new.png</filename>
-            <filename>../srcpng/program_load/zhanwei/zhanwei_1.png</filename>
-            <filename>../srcpng/program_load/zhanwei/zhanwei_2.png</filename>
-            <filename>../srcpng/program_load/zhanwei/zhanwei_3.png</filename>
-            <filename>../srcpng/program_load/zhanwei/zhanwei_4.png</filename>
-            <filename>../srcpng/program_load/zhanwei/zhanwei_5.png</filename>
             <filename>../srcpng/program_load/vip/VIP0.png</filename>
             <filename>../srcpng/program_load/vip/VIP1.png</filename>
             <filename>../srcpng/program_load/vip/VIP2.png</filename>
@@ -463,6 +458,12 @@
             <filename>../srcpng/program_load/yinzi/fashi_yinzi02.png</filename>
             <filename>../srcpng/program_load/yinzi/zhanshi_yinzi01.png</filename>
             <filename>../srcpng/program_load/yinzi/zhanshi_yinzi02.png</filename>
+            <filename>../srcpng/program_load/putongfuben_8Button_nor.png</filename>
+            <filename>../srcpng/program_load/putongfuben_8Button_sel.png</filename>
+            <filename>../srcpng/program_load/fangjushangdian_titleFont.png</filename>
+            <filename>../srcpng/program_load/wuqishangdian_titleFont.png</filename>
+            <filename>../srcpng/program_load/yaopinshangdian_titleFont.png</filename>
+            <filename>../srcpng/program_load/zahuoshangdian_titleFont.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
