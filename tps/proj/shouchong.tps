@@ -6,7 +6,7 @@
         <key>texturePackerVersion</key>
         <string>3.3.2</string>
         <key>fileName</key>
-        <string>D:/公共文件夹/tps/shouchong.tps</string>
+        <string>D:/Work/GitHub/md2_resorcesTest/tps/proj/shouchong.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -178,6 +178,7 @@
             <filename>../srcpng/shouchong/qianqian_nor_new.png</filename>
             <filename>../srcpng/shouchong/qianqian_sel_new.png</filename>
             <filename>../srcpng/shouchong/suochong_new.png</filename>
+            <filename>../srcpng/shouchong/chongzhi_wenzi.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

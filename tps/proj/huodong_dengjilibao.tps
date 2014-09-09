@@ -6,7 +6,7 @@
         <key>texturePackerVersion</key>
         <string>3.3.2</string>
         <key>fileName</key>
-        <string>D:/公共文件夹/tps/huodong_dengjilibao.tps</string>
+        <string>D:/Work/GitHub/md2_resorcesTest/tps/proj/huodong_dengjilibao.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -38,7 +38,7 @@
         <key>dataFormat</key>
         <string>cocos2d</string>
         <key>textureFileName</key>
-        <filename>../huodong_dengjilibao.png</filename>
+        <filename>../publish/huodong_dengjilibao.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>ditherType</key>
@@ -79,9 +79,9 @@
         <key>fixedTextureSize</key>
         <QSize>
             <key>width</key>
-            <int>-1</int>
+            <int>1024</int>
             <key>height</key>
-            <int>-1</int>
+            <int>256</int>
         </QSize>
         <key>reduceBorderArtifacts</key>
         <false/>
@@ -131,7 +131,7 @@
             <key>data</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../huodong_dengjilibao.plist</filename>
+                <filename>../publish/huodong_dengjilibao.plist</filename>
             </struct>
         </map>
         <key>multiPack</key>

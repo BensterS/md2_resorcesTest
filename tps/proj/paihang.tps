@@ -6,7 +6,7 @@
         <key>texturePackerVersion</key>
         <string>3.3.2</string>
         <key>fileName</key>
-        <string>D:/Work/GitHub/md2_resorcesTest/tps/proj/yue_huang.tps</string>
+        <string>D:/Work/GitHub/md2_resorcesTest/tps/proj/paihang.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -38,7 +38,7 @@
         <key>dataFormat</key>
         <string>cocos2d</string>
         <key>textureFileName</key>
-        <filename>../publish/yue_huang.png</filename>
+        <filename>../publish/paihang.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>ditherType</key>
@@ -131,7 +131,7 @@
             <key>data</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../publish/yue_huang.plist</filename>
+                <filename>../publish/paihang.plist</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -172,17 +172,18 @@
         </struct>
         <key>fileList</key>
         <array>
-            <filename>../srcpng/program_load/yue_huang/yue_huang0.png</filename>
-            <filename>../srcpng/program_load/yue_huang/yue_huang1.png</filename>
-            <filename>../srcpng/program_load/yue_huang/yue_huang2.png</filename>
-            <filename>../srcpng/program_load/yue_huang/yue_huang3.png</filename>
-            <filename>../srcpng/program_load/yue_huang/yue_huang4.png</filename>
-            <filename>../srcpng/program_load/yue_huang/yue_huang5.png</filename>
-            <filename>../srcpng/program_load/yue_huang/yue_huang6.png</filename>
-            <filename>../srcpng/program_load/yue_huang/yue_huang7.png</filename>
-            <filename>../srcpng/program_load/yue_huang/yue_huang8.png</filename>
-            <filename>../srcpng/program_load/yue_huang/yue_huang9.png</filename>
-            <filename>../srcpng/program_load/yue_huang/yue_huangzi.png</filename>
+            <filename>../srcpng/program_load/paihang/banghui05Button_nor.png</filename>
+            <filename>../srcpng/program_load/paihang/banghui05Button_sel.png</filename>
+            <filename>../srcpng/program_load/paihang/caifu03Button_nor.png</filename>
+            <filename>../srcpng/program_load/paihang/caifu03Button_sel.png</filename>
+            <filename>../srcpng/program_load/paihang/chongwu04Button_nor.png</filename>
+            <filename>../srcpng/program_load/paihang/chongwu04Button_sel.png</filename>
+            <filename>../srcpng/program_load/paihang/daoheng06Button_nor.png</filename>
+            <filename>../srcpng/program_load/paihang/daoheng06Button_sel.png</filename>
+            <filename>../srcpng/program_load/paihang/dengji01Button_nor.png</filename>
+            <filename>../srcpng/program_load/paihang/dengji01Button_sel.png</filename>
+            <filename>../srcpng/program_load/paihang/zhandouli02Button_nor.png</filename>
+            <filename>../srcpng/program_load/paihang/zhandouli02Button_sel.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
