@@ -7,7 +7,7 @@
             <key>contentBkg_1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{60,60}}</string>
+                <string>{{30,86},{60,60}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -20,11 +20,11 @@
             <key>duihuan_new.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,83},{42,17}}</string>
+                <string>{{109,64},{42,17}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{42,17}}</string>
                 <key>sourceSize</key>
@@ -33,20 +33,46 @@
             <key>goumaiVIP_new.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,64},{60,17}}</string>
+                <string>{{109,2},{60,17}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{60,17}}</string>
                 <key>sourceSize</key>
                 <string>{60,17}</string>
             </dict>
+            <key>hongsubButton2_nor.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,44},{105,40}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,1},{105,40}}</string>
+                <key>sourceSize</key>
+                <string>{105,42}</string>
+            </dict>
+            <key>hongsubButton2_sel.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{105,40}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,1},{105,40}}</string>
+                <key>sourceSize</key>
+                <string>{105,42}</string>
+            </dict>
             <key>lixianjingyan_new.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,102},{136,26}}</string>
+                <string>{{2,108},{136,26}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -64,9 +90,9 @@
             <key>realTextureFileName</key>
             <string>lixianjingyan_new.png</string>
             <key>size</key>
-            <string>{64,256}</string>
+            <string>{128,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:b1935f1a12a8a073b262a6f8483a547b:80ec2fefa6082b1a444a06d4f97810e7:9046842d8a89b2b9a06ea0996850b5aa$</string>
+            <string>$TexturePacker:SmartUpdate:7363fd86a7af39325ba3e78088d22d32:06f55649a22caf3dd23733805aa4de79:9046842d8a89b2b9a06ea0996850b5aa$</string>
             <key>textureFileName</key>
             <string>lixianjingyan_new.png</string>
         </dict>
