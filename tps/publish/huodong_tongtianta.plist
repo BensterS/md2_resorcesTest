@@ -108,6 +108,32 @@
                 <key>sourceSize</key>
                 <string>{66,28}</string>
             </dict>
+            <key>subButton1_nor.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{56,35},{135,52}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,1},{135,52}}</string>
+                <key>sourceSize</key>
+                <string>{135,54}</string>
+            </dict>
+            <key>subButton1_sel.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,35},{135,52}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,1},{135,52}}</string>
+                <key>sourceSize</key>
+                <string>{135,54}</string>
+            </dict>
             <key>tongtianta_titleFont.png</key>
             <dict>
                 <key>frame</key>
@@ -131,7 +157,7 @@
             <key>size</key>
             <string>{256,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:7d17b60b2463b1dce43f0f870e7ada4f:0475d717f74d9abb7dbcd28099aa0bf0:befc98871bdd6307383ddc719d086359$</string>
+            <string>$TexturePacker:SmartUpdate:ec5ee3c5597f7a8e9eb015f834cbe600:b1c26bd1432abd1ce1a85c8221ee4c38:befc98871bdd6307383ddc719d086359$</string>
             <key>textureFileName</key>
             <string>huodong_tongtianta.png</string>
         </dict>

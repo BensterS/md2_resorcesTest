@@ -181,8 +181,6 @@
             <filename>../srcpng/huodong_husongshenshou1/tisheng_biaoti.png</filename>
             <filename>../srcpng/huodong_husongshenshou1/tisheng_dikuang.png</filename>
             <filename>../srcpng/huodong_husongshenshou1/zise_font.png</filename>
-            <filename>../srcpng/huodong_husongshenshou1/hongsubButton2_nor.png</filename>
-            <filename>../srcpng/huodong_husongshenshou1/hongsubButton2_sel.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
