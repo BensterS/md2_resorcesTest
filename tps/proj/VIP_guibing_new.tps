@@ -194,8 +194,10 @@
             <filename>../srcpng/VIP_guibing_new/zhizunpai_new.png</filename>
             <filename>../srcpng/VIP_guibing_new/zhizunVIPbannian_new.png</filename>
             <filename>../srcpng/VIP_guibing_new/zuanshiVIPji_new.png</filename>
-            <filename>../srcpng/huodong_husongshenshou/hongsubButton2_nor.png</filename>
-            <filename>../srcpng/huodong_husongshenshou/hongsubButton2_sel.png</filename>
+            <filename>../srcpng/VIP_guibing_new/huangsubButton2_nor.png</filename>
+            <filename>../srcpng/VIP_guibing_new/huangsubButton2_sel.png</filename>
+            <filename>../srcpng/VIP_guibing_new/subButton2_nor.png</filename>
+            <filename>../srcpng/VIP_guibing_new/subButton2_sel.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

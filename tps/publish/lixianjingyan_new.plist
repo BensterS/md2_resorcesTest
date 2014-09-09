@@ -43,32 +43,6 @@
                 <key>sourceSize</key>
                 <string>{60,17}</string>
             </dict>
-            <key>hongsubButton2_nor.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,44},{105,40}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,1},{105,40}}</string>
-                <key>sourceSize</key>
-                <string>{105,42}</string>
-            </dict>
-            <key>hongsubButton2_sel.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,2},{105,40}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,1},{105,40}}</string>
-                <key>sourceSize</key>
-                <string>{105,42}</string>
-            </dict>
             <key>lixianjingyan_new.png</key>
             <dict>
                 <key>frame</key>
@@ -82,6 +56,32 @@
                 <key>sourceSize</key>
                 <string>{136,26}</string>
             </dict>
+            <key>subButton2_nor.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,44},{105,40}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,1},{105,40}}</string>
+                <key>sourceSize</key>
+                <string>{105,42}</string>
+            </dict>
+            <key>subButton2_sel.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{105,40}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,1},{105,40}}</string>
+                <key>sourceSize</key>
+                <string>{105,42}</string>
+            </dict>
         </dict>
         <key>metadata</key>
         <dict>
@@ -92,7 +92,7 @@
             <key>size</key>
             <string>{128,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:7363fd86a7af39325ba3e78088d22d32:06f55649a22caf3dd23733805aa4de79:9046842d8a89b2b9a06ea0996850b5aa$</string>
+            <string>$TexturePacker:SmartUpdate:d6504f16a1f05bc9c9d49fff7d4b5c2b:fde7a4bff282435258ab69374f6b645d:9046842d8a89b2b9a06ea0996850b5aa$</string>
             <key>textureFileName</key>
             <string>lixianjingyan_new.png</string>
         </dict>
