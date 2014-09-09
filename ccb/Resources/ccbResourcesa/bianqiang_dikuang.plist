@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>bianqiang_titleFont.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{173,27}}</string>
+                <key>offset</key>
+                <string>{-1,-1}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{3,6},{173,27}}</string>
+                <key>sourceSize</key>
+                <string>{181,37}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>bianqiang_dikuang.png</string>
+            <key>size</key>
+            <string>{32,256}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:89d16caa4b449f035e72aa927fb92227:350e7fd82d720b792c662f9c2e9a432f:b9b72fdc938190d4351f30005cea62da$</string>
+            <key>textureFileName</key>
+            <string>bianqiang_dikuang.png</string>
+        </dict>
+    </dict>
+</plist>
