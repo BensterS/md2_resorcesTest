@@ -6,7 +6,7 @@
         <key>texturePackerVersion</key>
         <string>3.3.2</string>
         <key>fileName</key>
-        <string>D:/公共文件夹/tps/shuzi_popup.tps</string>
+        <string>D:/Work/GitHub/md2_resorcesTest/tps/proj/shuzi_popup.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -79,9 +79,9 @@
         <key>fixedTextureSize</key>
         <QSize>
             <key>width</key>
-            <int>-1</int>
+            <int>512</int>
             <key>height</key>
-            <int>-1</int>
+            <int>64</int>
         </QSize>
         <key>reduceBorderArtifacts</key>
         <false/>

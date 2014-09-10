@@ -79,9 +79,9 @@
         <key>fixedTextureSize</key>
         <QSize>
             <key>width</key>
-            <int>-1</int>
+            <int>2048</int>
             <key>height</key>
-            <int>-1</int>
+            <int>1024</int>
         </QSize>
         <key>reduceBorderArtifacts</key>
         <false/>
@@ -294,13 +294,6 @@
             <filename>../srcpng/program_load/panhang_line.png</filename>
             <filename>../srcpng/program_load/pet_hongjiantou.png</filename>
             <filename>../srcpng/program_load/pet_lvjiantou.png</filename>
-            <filename>../srcpng/program_load/pet_zidian.png</filename>
-            <filename>../srcpng/program_load/pet_zidian1.png</filename>
-            <filename>../srcpng/program_load/pet_zidian2.png</filename>
-            <filename>../srcpng/program_load/pet_zidian3.png</filename>
-            <filename>../srcpng/program_load/pet_zidian4.png</filename>
-            <filename>../srcpng/program_load/petcellButton_nor.png</filename>
-            <filename>../srcpng/program_load/petcellButton_sel.png</filename>
             <filename>../srcpng/program_load/pinzhi1_hui.png</filename>
             <filename>../srcpng/program_load/qiangjianli_new.png</filename>
             <filename>../srcpng/program_load/qiangzhuang_biaoti.png</filename>
@@ -389,43 +382,9 @@
             <filename>../srcpng/program_load/zuanshi_new.png</filename>
             <filename>../srcpng/program_load/zuanshikabao_new.png</filename>
             <filename>../srcpng/program_load/zuanshilibao_new.png</filename>
-            <filename>../srcpng/program_load/vip/VIP0.png</filename>
-            <filename>../srcpng/program_load/vip/VIP1.png</filename>
-            <filename>../srcpng/program_load/vip/VIP2.png</filename>
-            <filename>../srcpng/program_load/vip/VIP3.png</filename>
-            <filename>../srcpng/program_load/vip/VIP4.png</filename>
-            <filename>../srcpng/program_load/vip/VIP5.png</filename>
-            <filename>../srcpng/program_load/vip/VIP6.png</filename>
-            <filename>../srcpng/program_load/leveup/0_Big.png</filename>
-            <filename>../srcpng/program_load/leveup/1_Big.png</filename>
-            <filename>../srcpng/program_load/leveup/2_Big.png</filename>
-            <filename>../srcpng/program_load/leveup/3_Big.png</filename>
-            <filename>../srcpng/program_load/leveup/4_Big.png</filename>
-            <filename>../srcpng/program_load/leveup/5_Big.png</filename>
-            <filename>../srcpng/program_load/leveup/6_Big.png</filename>
-            <filename>../srcpng/program_load/leveup/7_Big.png</filename>
-            <filename>../srcpng/program_load/leveup/8_Big.png</filename>
-            <filename>../srcpng/program_load/leveup/9_Big.png</filename>
-            <filename>../srcpng/program_load/leveup/14jikaiqi.png</filename>
-            <filename>../srcpng/program_load/leveup/19jikaiqi.png</filename>
-            <filename>../srcpng/program_load/leveup/26jikaiqi.png</filename>
-            <filename>../srcpng/program_load/leveup/32jikaiqi.png</filename>
-            <filename>../srcpng/program_load/leveup/chongkaiqianghuaIcon_nor.png</filename>
-            <filename>../srcpng/program_load/leveup/chongkaiqianghuaIcon_sel.png</filename>
-            <filename>../srcpng/program_load/leveup/chongwushengjiIcon_nor.png</filename>
             <filename>../srcpng/program_load/leveup/dengjiketisheng_font.png</filename>
             <filename>../srcpng/program_load/leveup/LevelTextEnd.png</filename>
-            <filename>../srcpng/program_load/leveup/LevelUpBkg.png</filename>
-            <filename>../srcpng/program_load/leveup/LevelUpCircleOpen.png</filename>
-            <filename>../srcpng/program_load/leveup/LevelUpLayerCircle.png</filename>
-            <filename>../srcpng/program_load/leveup/LevelUpLayerOK.png</filename>
-            <filename>../srcpng/program_load/leveup/LevelUpLayerTo.png</filename>
             <filename>../srcpng/program_load/leveup/LevelUpStart.png</filename>
-            <filename>../srcpng/program_load/leveup/LevelUpTitle.png</filename>
-            <filename>../srcpng/program_load/leveup/meiripaohuan_nor.png</filename>
-            <filename>../srcpng/program_load/leveup/shengjiezhuangbeijiIcon_nor.png</filename>
-            <filename>../srcpng/program_load/leveup/shengjiezhuangbeijiIcon_sel.png</filename>
-            <filename>../srcpng/program_load/leveup/xilianzhuangbeiIcon_nor.png</filename>
             <filename>../srcpng/program_load/diaoyu/genghuan_roundButton_nor.png</filename>
             <filename>../srcpng/program_load/diaoyu/genghuan_roundButton_sel.png</filename>
             <filename>../srcpng/program_load/diaoyu/shouqi_roundButton_nor.png</filename>

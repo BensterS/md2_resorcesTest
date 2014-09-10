@@ -6,7 +6,7 @@
         <key>texturePackerVersion</key>
         <string>3.3.2</string>
         <key>fileName</key>
-        <string>D:/Work/GitHub/md2_resorcesTest/tps/proj/pet_jinhua.tps</string>
+        <string>D:/Work/GitHub/md2_resorcesTest/tps/proj/button.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -38,7 +38,7 @@
         <key>dataFormat</key>
         <string>cocos2d</string>
         <key>textureFileName</key>
-        <filename>../publish/pet_jinhua.png</filename>
+        <filename>../publish/button.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>ditherType</key>
@@ -79,9 +79,9 @@
         <key>fixedTextureSize</key>
         <QSize>
             <key>width</key>
-            <int>512</int>
+            <int>-1</int>
             <key>height</key>
-            <int>256</int>
+            <int>-1</int>
         </QSize>
         <key>reduceBorderArtifacts</key>
         <false/>
@@ -131,7 +131,7 @@
             <key>data</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../publish/pet_jinhua.plist</filename>
+                <filename>../publish/button.plist</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -172,22 +172,44 @@
         </struct>
         <key>fileList</key>
         <array>
-            <filename>../srcpng/pet_jinhua/dangqianpinzhi_font.png</filename>
-            <filename>../srcpng/pet_jinhua/jinhua_baizi.png</filename>
-            <filename>../srcpng/pet_jinhua/jinhua_ditu.png</filename>
-            <filename>../srcpng/pet_jinhua/jinhua_jiahao.png</filename>
-            <filename>../srcpng/pet_jinhua/jinhua_tishi.png</filename>
-            <filename>../srcpng/pet_jinhua/jinhua_xian.png</filename>
-            <filename>../srcpng/pet_jinhua/jinhuapinzhi_font.png</filename>
-            <filename>../srcpng/pet_jinhua/pet_bar.png</filename>
-            <filename>../srcpng/pet_jinhua/pet_hpBar.png</filename>
-            <filename>../srcpng/pet_jinhua/pet_lanBar.png</filename>
-            <filename>../srcpng/pet_jinhua/petFrame2.png</filename>
-            <filename>../srcpng/pet_jinhua/shengji_jiantou.png</filename>
-            <filename>../srcpng/pet_jinhua/star_gray.png</filename>
-            <filename>../srcpng/pet_jinhua/star1.png</filename>
-            <filename>../srcpng/pet_jinhua/suoxucailiao_labelFont.png</filename>
-            <filename>../srcpng/pet_jinhua/zidongtianjia_baizi.png</filename>
+            <filename>../srcpng/program_load/button/107x40_nor.png</filename>
+            <filename>../srcpng/program_load/button/107x40_sel.png</filename>
+            <filename>../srcpng/program_load/button/bangding_roundButton_nor.png</filename>
+            <filename>../srcpng/program_load/button/chongwu_subButtonFont.png</filename>
+            <filename>../srcpng/program_load/button/diuqi_roundButton_nor.png</filename>
+            <filename>../srcpng/program_load/button/duanzao_buttonFont.png</filename>
+            <filename>../srcpng/program_load/button/fangru_buttonFont.png</filename>
+            <filename>../srcpng/program_load/button/goumai_baizi.png</filename>
+            <filename>../srcpng/program_load/button/hecheng_buttonFont.png</filename>
+            <filename>../srcpng/program_load/button/hongsubButton_hui.png</filename>
+            <filename>../srcpng/program_load/button/hongsubButton_nor.png</filename>
+            <filename>../srcpng/program_load/button/hongsubButton_sel.png</filename>
+            <filename>../srcpng/program_load/button/hongsubButton2_nor.png</filename>
+            <filename>../srcpng/program_load/button/hongsubButton2_sel.png</filename>
+            <filename>../srcpng/program_load/button/huangsubButton2_nor.png</filename>
+            <filename>../srcpng/program_load/button/huangsubButton2_sel.png</filename>
+            <filename>../srcpng/program_load/button/jiasuo_roundButton_nor.png</filename>
+            <filename>../srcpng/program_load/button/jiesuo_roundButton_nor.png</filename>
+            <filename>../srcpng/program_load/button/jilu_subButtonFont.png</filename>
+            <filename>../srcpng/program_load/button/learn_buttonFont.png</filename>
+            <filename>../srcpng/program_load/button/lingqu_baizi.png</filename>
+            <filename>../srcpng/program_load/button/shiyong_subButtonFont.png</filename>
+            <filename>../srcpng/program_load/button/shouchu_baizi.png</filename>
+            <filename>../srcpng/program_load/button/subButton_hui.png</filename>
+            <filename>../srcpng/program_load/button/subButton_nor.png</filename>
+            <filename>../srcpng/program_load/button/subButton_sel.png</filename>
+            <filename>../srcpng/program_load/button/subButton1_nor.png</filename>
+            <filename>../srcpng/program_load/button/subButton1_sel.png</filename>
+            <filename>../srcpng/program_load/button/subButton2_nor.png</filename>
+            <filename>../srcpng/program_load/button/subButton2_sel.png</filename>
+            <filename>../srcpng/program_load/button/tianjiafujian_baizi.png</filename>
+            <filename>../srcpng/program_load/button/xiexia_baizi.png</filename>
+            <filename>../srcpng/program_load/button/xiuli_baizi.png</filename>
+            <filename>../srcpng/program_load/button/zhanshi_buttonFont.png</filename>
+            <filename>../srcpng/program_load/button/zhanxian_baizi.png</filename>
+            <filename>../srcpng/program_load/button/zhuangbei_buttonFont.png</filename>
+            <filename>../srcpng/program_load/button/confirm_buttonFont.png</filename>
+            <filename>../srcpng/program_load/button/quxiao_baizi.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

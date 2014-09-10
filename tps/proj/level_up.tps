@@ -6,7 +6,7 @@
         <key>texturePackerVersion</key>
         <string>3.3.2</string>
         <key>fileName</key>
-        <string>D:/Work/GitHub/md2_resorcesTest/tps/proj/pet_jinhua.tps</string>
+        <string>D:/Work/GitHub/md2_resorcesTest/tps/proj/level_up.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -38,7 +38,7 @@
         <key>dataFormat</key>
         <string>cocos2d</string>
         <key>textureFileName</key>
-        <filename>../publish/pet_jinhua.png</filename>
+        <filename>../publish/level_up.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>ditherType</key>
@@ -79,9 +79,9 @@
         <key>fixedTextureSize</key>
         <QSize>
             <key>width</key>
-            <int>512</int>
+            <int>-1</int>
             <key>height</key>
-            <int>256</int>
+            <int>-1</int>
         </QSize>
         <key>reduceBorderArtifacts</key>
         <false/>
@@ -131,7 +131,7 @@
             <key>data</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../publish/pet_jinhua.plist</filename>
+                <filename>../publish/level_up.plist</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -172,22 +172,46 @@
         </struct>
         <key>fileList</key>
         <array>
-            <filename>../srcpng/pet_jinhua/dangqianpinzhi_font.png</filename>
-            <filename>../srcpng/pet_jinhua/jinhua_baizi.png</filename>
-            <filename>../srcpng/pet_jinhua/jinhua_ditu.png</filename>
-            <filename>../srcpng/pet_jinhua/jinhua_jiahao.png</filename>
-            <filename>../srcpng/pet_jinhua/jinhua_tishi.png</filename>
-            <filename>../srcpng/pet_jinhua/jinhua_xian.png</filename>
-            <filename>../srcpng/pet_jinhua/jinhuapinzhi_font.png</filename>
-            <filename>../srcpng/pet_jinhua/pet_bar.png</filename>
-            <filename>../srcpng/pet_jinhua/pet_hpBar.png</filename>
-            <filename>../srcpng/pet_jinhua/pet_lanBar.png</filename>
-            <filename>../srcpng/pet_jinhua/petFrame2.png</filename>
-            <filename>../srcpng/pet_jinhua/shengji_jiantou.png</filename>
-            <filename>../srcpng/pet_jinhua/star_gray.png</filename>
-            <filename>../srcpng/pet_jinhua/star1.png</filename>
-            <filename>../srcpng/pet_jinhua/suoxucailiao_labelFont.png</filename>
-            <filename>../srcpng/pet_jinhua/zidongtianjia_baizi.png</filename>
+            <filename>../srcpng/program_load/leveup/0_Big.png</filename>
+            <filename>../srcpng/program_load/leveup/1_Big.png</filename>
+            <filename>../srcpng/program_load/leveup/2_Big.png</filename>
+            <filename>../srcpng/program_load/leveup/3_Big.png</filename>
+            <filename>../srcpng/program_load/leveup/4_Big.png</filename>
+            <filename>../srcpng/program_load/leveup/5_Big.png</filename>
+            <filename>../srcpng/program_load/leveup/6_Big.png</filename>
+            <filename>../srcpng/program_load/leveup/7_Big.png</filename>
+            <filename>../srcpng/program_load/leveup/8_Big.png</filename>
+            <filename>../srcpng/program_load/leveup/9_Big.png</filename>
+            <filename>../srcpng/program_load/leveup/14jikaiqi.png</filename>
+            <filename>../srcpng/program_load/leveup/19jikaiqi.png</filename>
+            <filename>../srcpng/program_load/leveup/26jikaiqi.png</filename>
+            <filename>../srcpng/program_load/leveup/32jikaiqi.png</filename>
+            <filename>../srcpng/program_load/leveup/chongkaiqianghuaIcon_nor.png</filename>
+            <filename>../srcpng/program_load/leveup/chongkaiqianghuaIcon_sel.png</filename>
+            <filename>../srcpng/program_load/leveup/chongwushengjiIcon_nor.png</filename>
+            <filename>../srcpng/program_load/leveup/dengjiketisheng_font.png</filename>
+            <filename>../srcpng/program_load/leveup/LevelTextEnd.png</filename>
+            <filename>../srcpng/program_load/leveup/LevelUpBkg.png</filename>
+            <filename>../srcpng/program_load/leveup/LevelUpCircleOpen.png</filename>
+            <filename>../srcpng/program_load/leveup/LevelUpLayerCircle.png</filename>
+            <filename>../srcpng/program_load/leveup/LevelUpLayerOK.png</filename>
+            <filename>../srcpng/program_load/leveup/LevelUpLayerTo.png</filename>
+            <filename>../srcpng/program_load/leveup/LevelUpStart.png</filename>
+            <filename>../srcpng/program_load/leveup/LevelUpTitle.png</filename>
+            <filename>../srcpng/program_load/leveup/meiripaohuan_nor.png</filename>
+            <filename>../srcpng/program_load/leveup/shengji0.png</filename>
+            <filename>../srcpng/program_load/leveup/shengji1.png</filename>
+            <filename>../srcpng/program_load/leveup/shengji2.png</filename>
+            <filename>../srcpng/program_load/leveup/shengji3.png</filename>
+            <filename>../srcpng/program_load/leveup/shengji4.png</filename>
+            <filename>../srcpng/program_load/leveup/shengji5.png</filename>
+            <filename>../srcpng/program_load/leveup/shengji6.png</filename>
+            <filename>../srcpng/program_load/leveup/shengji7.png</filename>
+            <filename>../srcpng/program_load/leveup/shengji8.png</filename>
+            <filename>../srcpng/program_load/leveup/shengji9.png</filename>
+            <filename>../srcpng/program_load/leveup/shengjiezhuangbeijiIcon_nor.png</filename>
+            <filename>../srcpng/program_load/leveup/shengjiezhuangbeijiIcon_sel.png</filename>
+            <filename>../srcpng/program_load/leveup/xilianzhuangbeiIcon_nor.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

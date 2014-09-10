@@ -7,7 +7,7 @@
             <key>bar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,204},{224,23}}</string>
+                <string>{{2,66},{224,23}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -20,7 +20,7 @@
             <key>expBar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{9,173},{220,17}}</string>
+                <string>{{224,91},{220,17}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -33,7 +33,7 @@
             <key>hpBar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{9,154},{220,17}}</string>
+                <string>{{2,91},{220,17}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -46,11 +46,11 @@
             <key>huang_xian.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,81},{121,5}}</string>
+                <string>{{212,110},{121,5}}</string>
                 <key>offset</key>
                 <string>{-8,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,2},{121,5}}</string>
                 <key>sourceSize</key>
@@ -59,11 +59,11 @@
             <key>lansehuanwen_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{149,89},{85,24}}</string>
+                <string>{{472,2},{85,24}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{85,24}}</string>
                 <key>sourceSize</key>
@@ -72,7 +72,7 @@
             <key>lansehuanwen_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{149,2},{85,24}}</string>
+                <string>{{446,2},{85,24}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -85,11 +85,11 @@
             <key>touming_dise.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{85,2},{150,62}}</string>
+                <string>{{2,2},{150,62}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{2,0},{150,62}}</string>
                 <key>sourceSize</key>
@@ -98,7 +98,7 @@
             <key>vertLine.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{9,192},{3,208}}</string>
+                <string>{{2,123},{3,208}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -111,11 +111,11 @@
             <key>zhanshi_logo.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{81,77}}</string>
+                <string>{{228,2},{81,77}}</string>
                 <key>offset</key>
                 <string>{-2,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,4},{81,77}}</string>
                 <key>sourceSize</key>
@@ -124,7 +124,7 @@
             <key>zhanshi_wenzi.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{9,81},{62,32}}</string>
+                <string>{{446,89},{62,32}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -142,9 +142,9 @@
             <key>realTextureFileName</key>
             <string>hero_state.png</string>
             <key>size</key>
-            <string>{256,256}</string>
+            <string>{512,128}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:6c9e8a7cd6336e0ff57c6883ec756fb7:fb93ac7e8e74c1c4a35ec2b8ccee07b1:2ea0cb0d24761cfda6518fc87c370f92$</string>
+            <string>$TexturePacker:SmartUpdate:8eff1da2e322ebdcbd739c37b78dc525:fb93ac7e8e74c1c4a35ec2b8ccee07b1:2ea0cb0d24761cfda6518fc87c370f92$</string>
             <key>textureFileName</key>
             <string>hero_state.png</string>
         </dict>

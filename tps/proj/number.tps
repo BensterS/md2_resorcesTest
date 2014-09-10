@@ -349,6 +349,16 @@
             <filename>../srcpng/program_load/number/yue_huang8.png</filename>
             <filename>../srcpng/program_load/number/yue_huang9.png</filename>
             <filename>../srcpng/program_load/number/yue_huangzi.png</filename>
+            <filename>../srcpng/program_load/number/VIP0.png</filename>
+            <filename>../srcpng/program_load/number/VIP1.png</filename>
+            <filename>../srcpng/program_load/number/VIP2.png</filename>
+            <filename>../srcpng/program_load/number/VIP3.png</filename>
+            <filename>../srcpng/program_load/number/VIP4.png</filename>
+            <filename>../srcpng/program_load/number/VIP5.png</filename>
+            <filename>../srcpng/program_load/number/VIP6.png</filename>
+            <filename>../srcpng/program_load/number/VIP7.png</filename>
+            <filename>../srcpng/program_load/number/VIP8.png</filename>
+            <filename>../srcpng/program_load/number/VIP9.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
