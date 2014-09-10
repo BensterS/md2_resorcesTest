@@ -3130,7 +3130,7 @@
 						<key>value</key>
 						<array>
 							<real>314</real>
-							<real>390</real>
+							<real>363</real>
 							<integer>0</integer>
 						</array>
 					</dict>
@@ -3235,6 +3235,8 @@
 </string>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>animatedProperties</key>
@@ -10904,20 +10906,3 @@
 	<integer>3</integer>
 </dict>
 </plist>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
