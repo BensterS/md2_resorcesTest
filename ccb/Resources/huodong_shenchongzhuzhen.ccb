@@ -692,8 +692,8 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
-									<real>399</real>
-									<real>81</real>
+									<real>400</real>
+									<real>75</real>
 									<integer>0</integer>
 								</array>
 							</dict>
@@ -1035,7 +1035,7 @@
 						<key>value</key>
 						<array>
 							<real>400</real>
-							<real>80</real>
+							<real>74</real>
 							<integer>0</integer>
 						</array>
 					</dict>
@@ -1235,20 +1235,4 @@
 	<integer>3</integer>
 </dict>
 </plist>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
