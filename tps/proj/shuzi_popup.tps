@@ -38,7 +38,7 @@
         <key>dataFormat</key>
         <string>cocos2d</string>
         <key>textureFileName</key>
-        <filename>../shuzi_popup.png</filename>
+        <filename>../publish/shuzi_popup.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>ditherType</key>
@@ -131,7 +131,7 @@
             <key>data</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../shuzi_popup.plist</filename>
+                <filename>../publish/shuzi_popup.plist</filename>
             </struct>
         </map>
         <key>multiPack</key>

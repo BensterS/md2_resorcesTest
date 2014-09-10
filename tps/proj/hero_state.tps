@@ -38,7 +38,7 @@
         <key>dataFormat</key>
         <string>cocos2d</string>
         <key>textureFileName</key>
-        <filename>../hero_state.png</filename>
+        <filename>../publish/hero_state.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>ditherType</key>
@@ -131,7 +131,7 @@
             <key>data</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../hero_state.plist</filename>
+                <filename>../publish/hero_state.plist</filename>
             </struct>
         </map>
         <key>multiPack</key>
