@@ -1,9 +1,0 @@
-未复制成功的png
-/Users/Benster/Desktop/Works/乐多/仙魔录花千骨/md2_res_src2/tps/strpng2/xiuli_roundButton_sel.png	toFile	/Users/Benster/Desktop/Works/乐多/仙魔录花千骨/md2_res_src2/tps/srcpng/program_load/xiuli_roundButton_sel.png
-/Users/Benster/Desktop/Works/乐多/仙魔录花千骨/md2_res_src2/tps/strpng2/xiuli_roundButton_nor.png	toFile	/Users/Benster/Desktop/Works/乐多/仙魔录花千骨/md2_res_src2/tps/srcpng/program_load/xiuli_roundButton_nor.png
-/Users/Benster/Desktop/Works/乐多/仙魔录花千骨/md2_res_src2/tps/strpng2/底色字.png	toFile	/Users/Benster/Desktop/Works/乐多/仙魔录花千骨/md2_res_src2/tps/srcpng/program_load/底色字.png
-/Users/Benster/Desktop/Works/乐多/仙魔录花千骨/md2_res_src2/tps/strpng2/guidui_Button_sel.png	toFile	/Users/Benster/Desktop/Works/乐多/仙魔录花千骨/md2_res_src2/tps/srcpng/program_load/guidui_Button_sel.png
-/Users/Benster/Desktop/Works/乐多/仙魔录花千骨/md2_res_src2/tps/strpng2/bq_%d.png	toFile	/Users/Benster/Desktop/Works/乐多/仙魔录花千骨/md2_res_src2/tps/srcpng/program_load/bq_%d.png
-/Users/Benster/Desktop/Works/乐多/仙魔录花千骨/md2_res_src2/tps/strpng2/zhanwei_%d.png	toFile	/Users/Benster/Desktop/Works/乐多/仙魔录花千骨/md2_res_src2/tps/srcpng/program_load/zhanwei_%d.png
-/Users/Benster/Desktop/Works/乐多/仙魔录花千骨/md2_res_src2/tps/strpng2/xiuli_all_roundButton_nor.png	toFile	/Users/Benster/Desktop/Works/乐多/仙魔录花千骨/md2_res_src2/tps/srcpng/program_load/xiuli_all_roundButton_nor.png
-/Users/Benster/Desktop/Works/乐多/仙魔录花千骨/md2_res_src2/tps/strpng2/xiuli_all_roundButton_sel.png	toFile	/Users/Benster/Desktop/Works/乐多/仙魔录花千骨/md2_res_src2/tps/srcpng/program_load/xiuli_all_roundButton_sel.png
