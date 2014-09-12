@@ -133,7 +133,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_cell2.plist</string>
+									<string>ccb_res/pet_cell2.plist</string>
 									<string>petcellButton_nor.png</string>
 								</array>
 							</dict>
@@ -144,7 +144,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_cell2.plist</string>
+									<string>ccb_res/pet_cell2.plist</string>
 									<string>petcellButton_nor.png</string>
 								</array>
 							</dict>
@@ -155,7 +155,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_cell2.plist</string>
+									<string>ccb_res/pet_cell2.plist</string>
 									<string>petcellButton_sel.png</string>
 								</array>
 							</dict>
@@ -304,7 +304,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/pet_cell2.plist</string>
+							<string>ccb_res/pet_cell2.plist</string>
 							<string>petFrame2.png</string>
 						</array>
 					</dict>
@@ -440,7 +440,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/pet_cell2.plist</string>
+							<string>ccb_res/pet_cell2.plist</string>
 							<string>pet_wugong.png</string>
 						</array>
 					</dict>
@@ -727,6 +727,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

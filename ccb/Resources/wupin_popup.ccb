@@ -165,7 +165,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>popupBkg.png</string>
 						</array>
 					</dict>
@@ -333,7 +333,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_nor.png</string>
 								</array>
 							</dict>
@@ -344,7 +344,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_sel.png</string>
 								</array>
 							</dict>
@@ -454,7 +454,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wupin_popup.plist</string>
+									<string>ccb_res/wupin_popup.plist</string>
 									<string>cunqian_roundButton_nor.png</string>
 								</array>
 							</dict>
@@ -465,7 +465,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wupin_popup.plist</string>
+									<string>ccb_res/wupin_popup.plist</string>
 									<string>cunqian_roundButton_sel.png</string>
 								</array>
 							</dict>
@@ -575,7 +575,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wupin_popup.plist</string>
+									<string>ccb_res/wupin_popup.plist</string>
 									<string>cunqian_roundButton_nor.png</string>
 								</array>
 							</dict>
@@ -586,7 +586,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wupin_popup.plist</string>
+									<string>ccb_res/wupin_popup.plist</string>
 									<string>cunqian_roundButton_sel.png</string>
 								</array>
 							</dict>
@@ -696,7 +696,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wupin_popup.plist</string>
+									<string>ccb_res/wupin_popup.plist</string>
 									<string>cunqian_roundButton_nor.png</string>
 								</array>
 							</dict>
@@ -707,7 +707,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wupin_popup.plist</string>
+									<string>ccb_res/wupin_popup.plist</string>
 									<string>cunqian_roundButton_sel.png</string>
 								</array>
 							</dict>
@@ -817,7 +817,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wupin_popup.plist</string>
+									<string>ccb_res/wupin_popup.plist</string>
 									<string>cunqian_roundButton_nor.png</string>
 								</array>
 							</dict>
@@ -828,7 +828,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wupin_popup.plist</string>
+									<string>ccb_res/wupin_popup.plist</string>
 									<string>cunqian_roundButton_sel.png</string>
 								</array>
 							</dict>
@@ -938,7 +938,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wupin_popup.plist</string>
+									<string>ccb_res/wupin_popup.plist</string>
 									<string>cunqian_roundButton_nor.png</string>
 								</array>
 							</dict>
@@ -949,7 +949,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wupin_popup.plist</string>
+									<string>ccb_res/wupin_popup.plist</string>
 									<string>cunqian_roundButton_sel.png</string>
 								</array>
 							</dict>
@@ -1059,7 +1059,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wupin_popup.plist</string>
+									<string>ccb_res/wupin_popup.plist</string>
 									<string>cunqian_roundButton_nor.png</string>
 								</array>
 							</dict>
@@ -1070,7 +1070,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wupin_popup.plist</string>
+									<string>ccb_res/wupin_popup.plist</string>
 									<string>cunqian_roundButton_sel.png</string>
 								</array>
 							</dict>
@@ -1180,7 +1180,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_nor.png</string>
 								</array>
 							</dict>
@@ -1191,7 +1191,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_sel.png</string>
 								</array>
 							</dict>
@@ -1202,7 +1202,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_hui.png</string>
 								</array>
 							</dict>
@@ -1301,7 +1301,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wupin_popup.plist</string>
+									<string>ccb_res/wupin_popup.plist</string>
 									<string>huangsubButton_nor.png</string>
 								</array>
 							</dict>
@@ -1312,7 +1312,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wupin_popup.plist</string>
+									<string>ccb_res/wupin_popup.plist</string>
 									<string>huangsubButton_sel.png</string>
 								</array>
 							</dict>
@@ -1323,7 +1323,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_hui.png</string>
 								</array>
 							</dict>
@@ -1422,7 +1422,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_nor.png</string>
 								</array>
 							</dict>
@@ -1433,7 +1433,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_sel.png</string>
 								</array>
 							</dict>
@@ -1444,7 +1444,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_hui.png</string>
 								</array>
 							</dict>
@@ -1593,7 +1593,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>objectFrame.png</string>
 						</array>
 					</dict>
@@ -2153,7 +2153,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/wupin_popup.plist</string>
+							<string>ccb_res/wupin_popup.plist</string>
 							<string>xiuli_subButtonFont.png</string>
 						</array>
 					</dict>
@@ -2225,7 +2225,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/wupin_popup.plist</string>
+							<string>ccb_res/wupin_popup.plist</string>
 							<string>duanzao_buttonFont.png</string>
 						</array>
 					</dict>
@@ -2297,7 +2297,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/wupin_popup.plist</string>
+							<string>ccb_res/wupin_popup.plist</string>
 							<string>zhuangbei_baizi.png</string>
 						</array>
 					</dict>
@@ -2454,4 +2454,8 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 

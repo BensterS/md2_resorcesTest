@@ -77,7 +77,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>popupBkg.png</string>
 						</array>
 					</dict>
@@ -245,7 +245,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_nor.png</string>
 								</array>
 							</dict>
@@ -416,7 +416,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/pet_xuexijineng.plist</string>
+							<string>ccb_res/pet_xuexijineng.plist</string>
 							<string>xuexijineng2_labelFont.png</string>
 						</array>
 					</dict>
@@ -573,6 +573,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

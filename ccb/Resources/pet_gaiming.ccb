@@ -88,7 +88,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>logBkg.png</string>
 						</array>
 					</dict>
@@ -224,7 +224,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>inputFrame.png</string>
 						</array>
 					</dict>
@@ -360,7 +360,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>titleBkg_top.png</string>
 						</array>
 					</dict>
@@ -594,7 +594,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_nor.png</string>
 								</array>
 							</dict>
@@ -605,7 +605,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_sel.png</string>
 								</array>
 							</dict>
@@ -715,7 +715,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>subButton_nor.png</string>
 								</array>
 							</dict>
@@ -726,7 +726,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>subButton_sel.png</string>
 								</array>
 							</dict>
@@ -886,7 +886,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/pet_gaiming.plist</string>
+							<string>ccb_res/pet_gaiming.plist</string>
 							<string>queding_buttonFont.png</string>
 						</array>
 					</dict>
@@ -1074,7 +1074,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>inputFrame.png</string>
 						</array>
 					</dict>
@@ -1454,7 +1454,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/pet_gaiming.plist</string>
+							<string>ccb_res/pet_gaiming.plist</string>
 							<string>chongwugaiming_artFont.png</string>
 						</array>
 					</dict>
@@ -1611,6 +1611,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

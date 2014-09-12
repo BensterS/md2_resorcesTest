@@ -88,7 +88,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>contentBkg.png</string>
 						</array>
 					</dict>
@@ -224,7 +224,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>detailBkg.png</string>
 						</array>
 					</dict>
@@ -349,7 +349,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>biaoti_228.png</string>
 						</array>
 					</dict>
@@ -485,7 +485,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>fenge_xian.png</string>
 						</array>
 					</dict>
@@ -557,7 +557,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>fenge_xian.png</string>
 						</array>
 					</dict>
@@ -1331,7 +1331,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>fenge_xian.png</string>
 						</array>
 					</dict>
@@ -1403,7 +1403,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>fenge_xian.png</string>
 						</array>
 					</dict>
@@ -1560,6 +1560,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

@@ -133,7 +133,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/huodong_shenqi_cell.plist</string>
+									<string>ccb_res/huodong_shenqi_cell.plist</string>
 									<string>petcellButton_nor.png</string>
 								</array>
 							</dict>
@@ -144,7 +144,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/huodong_shenqi_cell.plist</string>
+									<string>ccb_res/huodong_shenqi_cell.plist</string>
 									<string>petcellButton_nor.png</string>
 								</array>
 							</dict>
@@ -155,7 +155,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/huodong_shenqi_cell.plist</string>
+									<string>ccb_res/huodong_shenqi_cell.plist</string>
 									<string>petcellButton_sel.png</string>
 								</array>
 							</dict>
@@ -536,7 +536,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>objectFrame.png</string>
 						</array>
 					</dict>
@@ -757,6 +757,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

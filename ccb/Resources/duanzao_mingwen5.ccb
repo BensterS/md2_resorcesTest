@@ -88,7 +88,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/duanzao_mingwen5.plist</string>
+							<string>ccb_res/duanzao_mingwen5.plist</string>
 							<string>wupiankuang_dikuang.png</string>
 						</array>
 					</dict>
@@ -192,7 +192,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/duanzao_mingwen5.plist</string>
+									<string>ccb_res/duanzao_mingwen5.plist</string>
 									<string>objectFrame_lock.png</string>
 								</array>
 							</dict>
@@ -363,7 +363,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/duanzao_mingwen5.plist</string>
+							<string>ccb_res/duanzao_mingwen5.plist</string>
 							<string>baise_kung.png</string>
 						</array>
 					</dict>
@@ -435,7 +435,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/duanzao_mingwen5.plist</string>
+							<string>ccb_res/duanzao_mingwen5.plist</string>
 							<string>chongzhu_xian.png</string>
 						</array>
 					</dict>
@@ -1040,6 +1040,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

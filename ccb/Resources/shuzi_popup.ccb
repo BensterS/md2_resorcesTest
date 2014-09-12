@@ -65,7 +65,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>popupBkg.png</string>
 						</array>
 					</dict>
@@ -233,7 +233,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_nor.png</string>
 								</array>
 							</dict>
@@ -244,7 +244,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_sel.png</string>
 								</array>
 							</dict>
@@ -354,7 +354,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shuzi_popup.plist</string>
+									<string>ccb_res/shuzi_popup.plist</string>
 									<string>numbButton_nor.png</string>
 								</array>
 							</dict>
@@ -365,7 +365,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shuzi_popup.plist</string>
+									<string>ccb_res/shuzi_popup.plist</string>
 									<string>numbButton_sel.png</string>
 								</array>
 							</dict>
@@ -475,7 +475,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shuzi_popup.plist</string>
+									<string>ccb_res/shuzi_popup.plist</string>
 									<string>numbButton_nor.png</string>
 								</array>
 							</dict>
@@ -486,7 +486,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shuzi_popup.plist</string>
+									<string>ccb_res/shuzi_popup.plist</string>
 									<string>numbButton_sel.png</string>
 								</array>
 							</dict>
@@ -596,7 +596,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shuzi_popup.plist</string>
+									<string>ccb_res/shuzi_popup.plist</string>
 									<string>numbButton_nor.png</string>
 								</array>
 							</dict>
@@ -607,7 +607,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shuzi_popup.plist</string>
+									<string>ccb_res/shuzi_popup.plist</string>
 									<string>numbButton_sel.png</string>
 								</array>
 							</dict>
@@ -717,7 +717,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shuzi_popup.plist</string>
+									<string>ccb_res/shuzi_popup.plist</string>
 									<string>numbButton_nor.png</string>
 								</array>
 							</dict>
@@ -728,7 +728,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shuzi_popup.plist</string>
+									<string>ccb_res/shuzi_popup.plist</string>
 									<string>numbButton_sel.png</string>
 								</array>
 							</dict>
@@ -838,7 +838,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shuzi_popup.plist</string>
+									<string>ccb_res/shuzi_popup.plist</string>
 									<string>numbButton_nor.png</string>
 								</array>
 							</dict>
@@ -849,7 +849,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shuzi_popup.plist</string>
+									<string>ccb_res/shuzi_popup.plist</string>
 									<string>numbButton_sel.png</string>
 								</array>
 							</dict>
@@ -959,7 +959,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shuzi_popup.plist</string>
+									<string>ccb_res/shuzi_popup.plist</string>
 									<string>numbButton_nor.png</string>
 								</array>
 							</dict>
@@ -970,7 +970,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shuzi_popup.plist</string>
+									<string>ccb_res/shuzi_popup.plist</string>
 									<string>numbButton_sel.png</string>
 								</array>
 							</dict>
@@ -1080,7 +1080,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shuzi_popup.plist</string>
+									<string>ccb_res/shuzi_popup.plist</string>
 									<string>numbButton_nor.png</string>
 								</array>
 							</dict>
@@ -1091,7 +1091,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shuzi_popup.plist</string>
+									<string>ccb_res/shuzi_popup.plist</string>
 									<string>numbButton_sel.png</string>
 								</array>
 							</dict>
@@ -1201,7 +1201,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shuzi_popup.plist</string>
+									<string>ccb_res/shuzi_popup.plist</string>
 									<string>numbButton_nor.png</string>
 								</array>
 							</dict>
@@ -1212,7 +1212,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shuzi_popup.plist</string>
+									<string>ccb_res/shuzi_popup.plist</string>
 									<string>numbButton_sel.png</string>
 								</array>
 							</dict>
@@ -1322,7 +1322,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shuzi_popup.plist</string>
+									<string>ccb_res/shuzi_popup.plist</string>
 									<string>numbButton_nor.png</string>
 								</array>
 							</dict>
@@ -1333,7 +1333,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shuzi_popup.plist</string>
+									<string>ccb_res/shuzi_popup.plist</string>
 									<string>numbButton_sel.png</string>
 								</array>
 							</dict>
@@ -1443,7 +1443,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shuzi_popup.plist</string>
+									<string>ccb_res/shuzi_popup.plist</string>
 									<string>numbButton_nor.png</string>
 								</array>
 							</dict>
@@ -1454,7 +1454,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shuzi_popup.plist</string>
+									<string>ccb_res/shuzi_popup.plist</string>
 									<string>numbButton_sel.png</string>
 								</array>
 							</dict>
@@ -1564,7 +1564,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shuzi_popup.plist</string>
+									<string>ccb_res/shuzi_popup.plist</string>
 									<string>numbButton_nor.png</string>
 								</array>
 							</dict>
@@ -1575,7 +1575,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shuzi_popup.plist</string>
+									<string>ccb_res/shuzi_popup.plist</string>
 									<string>numbButton_sel.png</string>
 								</array>
 							</dict>
@@ -1685,7 +1685,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shuzi_popup.plist</string>
+									<string>ccb_res/shuzi_popup.plist</string>
 									<string>numbButton_nor.png</string>
 								</array>
 							</dict>
@@ -1696,7 +1696,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shuzi_popup.plist</string>
+									<string>ccb_res/shuzi_popup.plist</string>
 									<string>numbButton_sel.png</string>
 								</array>
 							</dict>
@@ -1984,7 +1984,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>inputFrame.png</string>
 						</array>
 					</dict>
@@ -2237,7 +2237,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shuzi_popup.plist</string>
+							<string>ccb_res/shuzi_popup.plist</string>
 							<string>horiLine.png</string>
 						</array>
 					</dict>
@@ -2373,7 +2373,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shuzi_popup.plist</string>
+							<string>ccb_res/shuzi_popup.plist</string>
 							<string>interactButton_1.png</string>
 						</array>
 					</dict>
@@ -2445,7 +2445,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shuzi_popup.plist</string>
+							<string>ccb_res/shuzi_popup.plist</string>
 							<string>interactButton_2.png</string>
 						</array>
 					</dict>
@@ -2517,7 +2517,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shuzi_popup.plist</string>
+							<string>ccb_res/shuzi_popup.plist</string>
 							<string>interactButton_3.png</string>
 						</array>
 					</dict>
@@ -2589,7 +2589,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shuzi_popup.plist</string>
+							<string>ccb_res/shuzi_popup.plist</string>
 							<string>numbButton_enter.png</string>
 						</array>
 					</dict>
@@ -2661,7 +2661,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shuzi_popup.plist</string>
+							<string>ccb_res/shuzi_popup.plist</string>
 							<string>numbButton_arrow.png</string>
 						</array>
 					</dict>
@@ -2733,7 +2733,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shuzi_popup.plist</string>
+							<string>ccb_res/shuzi_popup.plist</string>
 							<string>interactButton_4.png</string>
 						</array>
 					</dict>
@@ -2805,7 +2805,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shuzi_popup.plist</string>
+							<string>ccb_res/shuzi_popup.plist</string>
 							<string>interactButton_5.png</string>
 						</array>
 					</dict>
@@ -2877,7 +2877,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shuzi_popup.plist</string>
+							<string>ccb_res/shuzi_popup.plist</string>
 							<string>interactButton_6.png</string>
 						</array>
 					</dict>
@@ -2949,7 +2949,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shuzi_popup.plist</string>
+							<string>ccb_res/shuzi_popup.plist</string>
 							<string>interactButton_0.png</string>
 						</array>
 					</dict>
@@ -3021,7 +3021,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shuzi_popup.plist</string>
+							<string>ccb_res/shuzi_popup.plist</string>
 							<string>interactButton_7.png</string>
 						</array>
 					</dict>
@@ -3093,7 +3093,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shuzi_popup.plist</string>
+							<string>ccb_res/shuzi_popup.plist</string>
 							<string>interactButton_8.png</string>
 						</array>
 					</dict>
@@ -3165,7 +3165,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shuzi_popup.plist</string>
+							<string>ccb_res/shuzi_popup.plist</string>
 							<string>interactButton_9.png</string>
 						</array>
 					</dict>
@@ -3450,6 +3450,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

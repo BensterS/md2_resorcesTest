@@ -95,7 +95,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>logBkg.png</string>
 						</array>
 					</dict>
@@ -231,7 +231,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>titleBkg_top.png</string>
 						</array>
 					</dict>
@@ -356,7 +356,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>detailBkg.png</string>
 						</array>
 					</dict>
@@ -492,7 +492,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/ditu_shijie.plist</string>
+							<string>ccb_res/ditu_shijie.plist</string>
 							<string>worldmap.png</string>
 						</array>
 					</dict>
@@ -564,7 +564,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/ditu_shijie.plist</string>
+							<string>ccb_res/ditu_shijie.plist</string>
 							<string>ditu_titleFont.png</string>
 						</array>
 					</dict>
@@ -668,7 +668,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_nor.png</string>
 								</array>
 							</dict>
@@ -679,7 +679,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_sel.png</string>
 								</array>
 							</dict>
@@ -789,7 +789,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>dangqian_roundButton_nor.png</string>
 								</array>
 							</dict>
@@ -800,7 +800,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>dangqian_roundButton_sel.png</string>
 								</array>
 							</dict>
@@ -910,7 +910,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>yueshangong_n.png</string>
 								</array>
 							</dict>
@@ -921,7 +921,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>yueshangong_h.png</string>
 								</array>
 							</dict>
@@ -1031,7 +1031,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>cikemeng_n.png</string>
 								</array>
 							</dict>
@@ -1042,7 +1042,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>cikemeng_h.png</string>
 								</array>
 							</dict>
@@ -1152,7 +1152,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>yudaomen_n.png</string>
 								</array>
 							</dict>
@@ -1163,7 +1163,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>yudaomen_h.png</string>
 								</array>
 							</dict>
@@ -1273,7 +1273,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>qingshandao_n.png</string>
 								</array>
 							</dict>
@@ -1284,7 +1284,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>qingshandao_h.png</string>
 								</array>
 							</dict>
@@ -1394,7 +1394,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>tianjianfen_n.png</string>
 								</array>
 							</dict>
@@ -1405,7 +1405,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>tianjianfen_h.png</string>
 								</array>
 							</dict>
@@ -1515,7 +1515,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>xuesongling_n.png</string>
 								</array>
 							</dict>
@@ -1526,7 +1526,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>xuesongling_h.png</string>
 								</array>
 							</dict>
@@ -1636,7 +1636,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>zhucheng_n.png</string>
 								</array>
 							</dict>
@@ -1647,7 +1647,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>zhucheng_h.png</string>
 								</array>
 							</dict>
@@ -1757,7 +1757,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>huichungu_n.png</string>
 								</array>
 							</dict>
@@ -1768,7 +1768,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>huichungu_h.png</string>
 								</array>
 							</dict>
@@ -1878,7 +1878,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>longwanxia_n.png</string>
 								</array>
 							</dict>
@@ -1889,7 +1889,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>longwanxia_h.png</string>
 								</array>
 							</dict>
@@ -1999,7 +1999,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>jiguanshan_n.png</string>
 								</array>
 							</dict>
@@ -2010,7 +2010,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>jiguanshan_h.png</string>
 								</array>
 							</dict>
@@ -2120,7 +2120,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>xixiagudao_n.png</string>
 								</array>
 							</dict>
@@ -2131,7 +2131,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>xixiagudao_h.png</string>
 								</array>
 							</dict>
@@ -2241,7 +2241,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>zhonglingdukou_n.png</string>
 								</array>
 							</dict>
@@ -2252,7 +2252,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>zhonglingdukou_h.png</string>
 								</array>
 							</dict>
@@ -2362,7 +2362,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>loushan_n.png</string>
 								</array>
 							</dict>
@@ -2373,7 +2373,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>loushan_h.png</string>
 								</array>
 							</dict>
@@ -2483,7 +2483,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>xinshoucun_n.png</string>
 								</array>
 							</dict>
@@ -2494,7 +2494,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/ditu_shijie.plist</string>
+									<string>ccb_res/ditu_shijie.plist</string>
 									<string>xinshoucun_h.png</string>
 								</array>
 							</dict>
@@ -2739,6 +2739,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

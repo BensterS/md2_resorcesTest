@@ -88,7 +88,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_diaoyu2.plist</string>
+							<string>ccb_res/huodong_diaoyu2.plist</string>
 							<string>yulan_diwen.png</string>
 						</array>
 					</dict>
@@ -160,7 +160,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_diaoyu2.plist</string>
+							<string>ccb_res/huodong_diaoyu2.plist</string>
 							<string>yulan_diwen2.png</string>
 						</array>
 					</dict>
@@ -264,7 +264,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>subButton_nor.png</string>
 								</array>
 							</dict>
@@ -275,7 +275,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>subButton_sel.png</string>
 								</array>
 							</dict>
@@ -385,7 +385,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/huodong_diaoyu2.plist</string>
+									<string>ccb_res/huodong_diaoyu2.plist</string>
 									<string>cancelButton28_nor.png</string>
 								</array>
 							</dict>
@@ -396,7 +396,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/huodong_diaoyu2.plist</string>
+									<string>ccb_res/huodong_diaoyu2.plist</string>
 									<string>cancelButton28_sel.png</string>
 								</array>
 							</dict>
@@ -556,7 +556,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_diaoyu2.plist</string>
+							<string>ccb_res/huodong_diaoyu2.plist</string>
 							<string>yulan_buttonFont.png</string>
 						</array>
 					</dict>
@@ -744,7 +744,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_diaoyu2.plist</string>
+							<string>ccb_res/huodong_diaoyu2.plist</string>
 							<string>qiangduo_buttonFont.png</string>
 						</array>
 					</dict>
@@ -901,6 +901,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

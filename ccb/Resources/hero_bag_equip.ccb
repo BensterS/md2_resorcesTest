@@ -95,7 +95,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>contentBkg.png</string>
 						</array>
 					</dict>
@@ -220,7 +220,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>detailBkg.png</string>
 						</array>
 					</dict>
@@ -356,7 +356,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/hero_bag_equip.plist</string>
+							<string>ccb_res/hero_bag_equip.plist</string>
 							<string>touming_dise.png</string>
 						</array>
 					</dict>
@@ -460,7 +460,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -581,7 +581,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -702,7 +702,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -823,7 +823,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -944,7 +944,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -1065,7 +1065,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -1186,7 +1186,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -1307,7 +1307,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -1428,7 +1428,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -1549,7 +1549,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -1848,7 +1848,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/hero_bag_equip.plist</string>
+							<string>ccb_res/hero_bag_equip.plist</string>
 							<string>bar.png</string>
 						</array>
 					</dict>
@@ -1984,7 +1984,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>moji_diwen.png</string>
 						</array>
 					</dict>
@@ -2056,7 +2056,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/hero_bag_equip.plist</string>
+							<string>ccb_res/hero_bag_equip.plist</string>
 							<string>hpBar.png</string>
 						</array>
 					</dict>
@@ -2256,7 +2256,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/hero_bag_equip.plist</string>
+							<string>ccb_res/hero_bag_equip.plist</string>
 							<string>heroBkg.png</string>
 						</array>
 					</dict>
@@ -2584,7 +2584,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/hero_bag_equip.plist</string>
+							<string>ccb_res/hero_bag_equip.plist</string>
 							<string>wuqi_1.png</string>
 						</array>
 					</dict>
@@ -2656,7 +2656,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/hero_bag_equip.plist</string>
+							<string>ccb_res/hero_bag_equip.plist</string>
 							<string>toukui_2.png</string>
 						</array>
 					</dict>
@@ -2728,7 +2728,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/hero_bag_equip.plist</string>
+							<string>ccb_res/hero_bag_equip.plist</string>
 							<string>xianglian_3.png</string>
 						</array>
 					</dict>
@@ -2800,7 +2800,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/hero_bag_equip.plist</string>
+							<string>ccb_res/hero_bag_equip.plist</string>
 							<string>yaodai_4.png</string>
 						</array>
 					</dict>
@@ -2872,7 +2872,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/hero_bag_equip.plist</string>
+							<string>ccb_res/hero_bag_equip.plist</string>
 							<string>yifu_5.png</string>
 						</array>
 					</dict>
@@ -2944,7 +2944,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/hero_bag_equip.plist</string>
+							<string>ccb_res/hero_bag_equip.plist</string>
 							<string>huwan_6.png</string>
 						</array>
 					</dict>
@@ -3016,7 +3016,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/hero_bag_equip.plist</string>
+							<string>ccb_res/hero_bag_equip.plist</string>
 							<string>huwan_6.png</string>
 						</array>
 					</dict>
@@ -3088,7 +3088,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/hero_bag_equip.plist</string>
+							<string>ccb_res/hero_bag_equip.plist</string>
 							<string>jiezhi_7.png</string>
 						</array>
 					</dict>
@@ -3160,7 +3160,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/hero_bag_equip.plist</string>
+							<string>ccb_res/hero_bag_equip.plist</string>
 							<string>xiezi_8.png</string>
 						</array>
 					</dict>
@@ -3232,7 +3232,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>zhandouli_labelfont.png</string>
 						</array>
 					</dict>
@@ -3389,6 +3389,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

@@ -88,7 +88,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>contentBkg.png</string>
 						</array>
 					</dict>
@@ -992,7 +992,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+							<string>ccb_res/wodedianpu_chongwu.plist</string>
 							<string>bar.png</string>
 						</array>
 					</dict>
@@ -1064,7 +1064,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+							<string>ccb_res/wodedianpu_chongwu.plist</string>
 							<string>bar.png</string>
 						</array>
 					</dict>
@@ -1136,7 +1136,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+							<string>ccb_res/wodedianpu_chongwu.plist</string>
 							<string>bar.png</string>
 						</array>
 					</dict>
@@ -1208,7 +1208,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+							<string>ccb_res/wodedianpu_chongwu.plist</string>
 							<string>bar.png</string>
 						</array>
 					</dict>
@@ -1280,7 +1280,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+							<string>ccb_res/wodedianpu_chongwu.plist</string>
 							<string>bar.png</string>
 						</array>
 					</dict>
@@ -1352,7 +1352,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+							<string>ccb_res/wodedianpu_chongwu.plist</string>
 							<string>hpBar.png</string>
 						</array>
 					</dict>
@@ -1424,7 +1424,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+							<string>ccb_res/wodedianpu_chongwu.plist</string>
 							<string>hpBar.png</string>
 						</array>
 					</dict>
@@ -1496,7 +1496,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+							<string>ccb_res/wodedianpu_chongwu.plist</string>
 							<string>hpBar.png</string>
 						</array>
 					</dict>
@@ -1568,7 +1568,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+							<string>ccb_res/wodedianpu_chongwu.plist</string>
 							<string>hpBar.png</string>
 						</array>
 					</dict>
@@ -1640,7 +1640,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+							<string>ccb_res/wodedianpu_chongwu.plist</string>
 							<string>hpBar.png</string>
 						</array>
 					</dict>
@@ -1712,7 +1712,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>shuzhi_diwenlan.png</string>
 						</array>
 					</dict>
@@ -1784,7 +1784,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>shuzhi_diwenlan.png</string>
 						</array>
 					</dict>
@@ -1856,7 +1856,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>shuzhi_diwenlan.png</string>
 						</array>
 					</dict>
@@ -1928,7 +1928,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>shuzhi_diwenlan.png</string>
 						</array>
 					</dict>
@@ -2000,7 +2000,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>shuzhi_diwenlan.png</string>
 						</array>
 					</dict>
@@ -2072,7 +2072,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>shuzhi_diwenlan.png</string>
 						</array>
 					</dict>
@@ -2144,7 +2144,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>shuzhi_diwenlan.png</string>
 						</array>
 					</dict>
@@ -2216,7 +2216,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>shuzhi_diwenlan.png</string>
 						</array>
 					</dict>
@@ -2288,7 +2288,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>shuzhi_diwenlan.png</string>
 						</array>
 					</dict>
@@ -2360,7 +2360,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>shuzhi_diwenlan.png</string>
 						</array>
 					</dict>
@@ -2432,7 +2432,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>shuzhi_diwenlan.png</string>
 						</array>
 					</dict>
@@ -2504,7 +2504,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>shuzhi_diwenlan.png</string>
 						</array>
 					</dict>
@@ -2576,7 +2576,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>shuzhi_diwenlan.png</string>
 						</array>
 					</dict>
@@ -2648,7 +2648,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>shuzhi_diwenlan.png</string>
 						</array>
 					</dict>
@@ -2720,7 +2720,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>shuzhi_diwenlan.png</string>
 						</array>
 					</dict>
@@ -7124,7 +7124,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+									<string>ccb_res/wodedianpu_chongwu.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -7135,7 +7135,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+									<string>ccb_res/wodedianpu_chongwu.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -7245,7 +7245,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+									<string>ccb_res/wodedianpu_chongwu.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -7256,7 +7256,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+									<string>ccb_res/wodedianpu_chongwu.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -7366,7 +7366,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+									<string>ccb_res/wodedianpu_chongwu.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -7377,7 +7377,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+									<string>ccb_res/wodedianpu_chongwu.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -7487,7 +7487,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+									<string>ccb_res/wodedianpu_chongwu.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -7498,7 +7498,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+									<string>ccb_res/wodedianpu_chongwu.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -7608,7 +7608,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+									<string>ccb_res/wodedianpu_chongwu.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -7619,7 +7619,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+									<string>ccb_res/wodedianpu_chongwu.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -7729,7 +7729,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+									<string>ccb_res/wodedianpu_chongwu.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -7740,7 +7740,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+									<string>ccb_res/wodedianpu_chongwu.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -7850,7 +7850,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+									<string>ccb_res/wodedianpu_chongwu.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -7861,7 +7861,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+									<string>ccb_res/wodedianpu_chongwu.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -7971,7 +7971,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+									<string>ccb_res/wodedianpu_chongwu.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -7982,7 +7982,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+									<string>ccb_res/wodedianpu_chongwu.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -8092,7 +8092,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+									<string>ccb_res/wodedianpu_chongwu.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -8103,7 +8103,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+									<string>ccb_res/wodedianpu_chongwu.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -8213,7 +8213,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+									<string>ccb_res/wodedianpu_chongwu.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -8224,7 +8224,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+									<string>ccb_res/wodedianpu_chongwu.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -8334,7 +8334,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+									<string>ccb_res/wodedianpu_chongwu.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -8345,7 +8345,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+									<string>ccb_res/wodedianpu_chongwu.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -8455,7 +8455,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+									<string>ccb_res/wodedianpu_chongwu.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -8466,7 +8466,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wodedianpu_chongwu.plist</string>
+									<string>ccb_res/wodedianpu_chongwu.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -8711,6 +8711,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

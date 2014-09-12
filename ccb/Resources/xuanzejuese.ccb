@@ -95,7 +95,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>logBkg.png</string>
 						</array>
 					</dict>
@@ -231,7 +231,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>titleBkg_top.png</string>
 						</array>
 					</dict>
@@ -399,7 +399,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_nor.png</string>
 								</array>
 							</dict>
@@ -410,7 +410,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_sel.png</string>
 								</array>
 							</dict>
@@ -520,7 +520,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/xuanzejuese.plist</string>
+									<string>ccb_res/xuanzejuese.plist</string>
 									<string>button_small01_nor.png</string>
 								</array>
 							</dict>
@@ -531,7 +531,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/xuanzejuese.plist</string>
+									<string>ccb_res/xuanzejuese.plist</string>
 									<string>button_small02_sel.png</string>
 								</array>
 							</dict>
@@ -542,7 +542,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/xuanzejuese.plist</string>
+									<string>ccb_res/xuanzejuese.plist</string>
 									<string>button_small03_disa.png</string>
 								</array>
 							</dict>
@@ -641,7 +641,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/xuanzejuese.plist</string>
+									<string>ccb_res/xuanzejuese.plist</string>
 									<string>button_mid_nor.png</string>
 								</array>
 							</dict>
@@ -652,7 +652,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/xuanzejuese.plist</string>
+									<string>ccb_res/xuanzejuese.plist</string>
 									<string>button_mid_sel.png</string>
 								</array>
 							</dict>
@@ -663,7 +663,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/xuanzejuese.plist</string>
+									<string>ccb_res/xuanzejuese.plist</string>
 									<string>button_mid_disa.png</string>
 								</array>
 							</dict>
@@ -812,7 +812,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/xuanzejuese.plist</string>
+							<string>ccb_res/xuanzejuese.plist</string>
 							<string>cancelhero_buttonFont.png</string>
 						</array>
 					</dict>
@@ -884,7 +884,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/xuanzejuese.plist</string>
+							<string>ccb_res/xuanzejuese.plist</string>
 							<string>entergame_buttonFont.png</string>
 						</array>
 					</dict>
@@ -956,7 +956,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/xuanzejuese.plist</string>
+							<string>ccb_res/xuanzejuese.plist</string>
 							<string>anjian_Menu.png</string>
 						</array>
 					</dict>
@@ -1229,6 +1229,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

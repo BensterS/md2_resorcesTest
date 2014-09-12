@@ -95,7 +95,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>contentBkg.png</string>
 						</array>
 					</dict>
@@ -231,7 +231,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/pet_huanhua.plist</string>
+							<string>ccb_res/pet_huanhua.plist</string>
 							<string>duabzao_diwen.png</string>
 						</array>
 					</dict>
@@ -303,7 +303,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>contentBkg.png</string>
 						</array>
 					</dict>
@@ -471,7 +471,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_nor.png</string>
 								</array>
 							</dict>
@@ -482,7 +482,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_sel.png</string>
 								</array>
 							</dict>
@@ -493,7 +493,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_hui.png</string>
 								</array>
 							</dict>
@@ -594,7 +594,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -765,7 +765,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/pet_huanhua.plist</string>
+							<string>ccb_res/pet_huanhua.plist</string>
 							<string>shengji_jiantou.png</string>
 						</array>
 					</dict>
@@ -837,7 +837,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/pet_huanhua.plist</string>
+							<string>ccb_res/pet_huanhua.plist</string>
 							<string>suoxucailiao_labelFont.png</string>
 						</array>
 					</dict>
@@ -898,7 +898,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/pet_huanhua.plist</string>
+							<string>ccb_res/pet_huanhua.plist</string>
 							<string>tuisong_di2.png</string>
 						</array>
 					</dict>
@@ -1023,7 +1023,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/pet_huanhua.plist</string>
+							<string>ccb_res/pet_huanhua.plist</string>
 							<string>tuisong_di2.png</string>
 						</array>
 					</dict>
@@ -1159,7 +1159,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/pet_huanhua.plist</string>
+							<string>ccb_res/pet_huanhua.plist</string>
 							<string>heroBkg.png</string>
 						</array>
 					</dict>
@@ -1295,7 +1295,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/pet_huanhua.plist</string>
+							<string>ccb_res/pet_huanhua.plist</string>
 							<string>heroBkg.png</string>
 						</array>
 					</dict>
@@ -1420,7 +1420,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/pet_huanhua.plist</string>
+							<string>ccb_res/pet_huanhua.plist</string>
 							<string>jinhua_xian.png</string>
 						</array>
 					</dict>
@@ -1564,7 +1564,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/pet_huanhua.plist</string>
+							<string>ccb_res/pet_huanhua.plist</string>
 							<string>jinhua_xian.png</string>
 						</array>
 					</dict>
@@ -1700,7 +1700,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>biaoti_228.png</string>
 						</array>
 					</dict>
@@ -1964,7 +1964,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>moji_diwen.png</string>
 						</array>
 					</dict>
@@ -2036,7 +2036,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>moji_diwen.png</string>
 						</array>
 					</dict>
@@ -2918,7 +2918,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>zhandouli_labelfont.png</string>
 						</array>
 					</dict>
@@ -2990,7 +2990,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>zhandouli_labelfont.png</string>
 						</array>
 					</dict>
@@ -3318,7 +3318,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/pet_huanhua.plist</string>
+							<string>ccb_res/pet_huanhua.plist</string>
 							<string>huanhua_baizi.png</string>
 						</array>
 					</dict>
@@ -3475,6 +3475,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

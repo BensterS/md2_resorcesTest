@@ -88,7 +88,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_wanmeitongguan.plist</string>
+							<string>ccb_res/huodong_wanmeitongguan.plist</string>
 							<string>tongguan_dikuang.png</string>
 						</array>
 					</dict>
@@ -160,7 +160,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_wanmeitongguan.plist</string>
+							<string>ccb_res/huodong_wanmeitongguan.plist</string>
 							<string>gongxini.png</string>
 						</array>
 					</dict>
@@ -264,7 +264,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>subButton_nor.png</string>
 								</array>
 							</dict>
@@ -275,7 +275,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>subButton_sel.png</string>
 								</array>
 							</dict>
@@ -435,7 +435,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_wanmeitongguan.plist</string>
+							<string>ccb_res/huodong_wanmeitongguan.plist</string>
 							<string>fanpaijiangli_font.png</string>
 						</array>
 					</dict>
@@ -507,7 +507,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_wanmeitongguan.plist</string>
+							<string>ccb_res/huodong_wanmeitongguan.plist</string>
 							<string>zhaosheng_tongguan.png</string>
 						</array>
 					</dict>
@@ -579,7 +579,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_wanmeitongguan.plist</string>
+							<string>ccb_res/huodong_wanmeitongguan.plist</string>
 							<string>huodejingyan.png</string>
 						</array>
 					</dict>
@@ -651,7 +651,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_wanmeitongguan.plist</string>
+							<string>ccb_res/huodong_wanmeitongguan.plist</string>
 							<string>1xing_tongguang.png</string>
 						</array>
 					</dict>
@@ -723,7 +723,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_wanmeitongguan.plist</string>
+							<string>ccb_res/huodong_wanmeitongguan.plist</string>
 							<string>daxing_nor.png</string>
 						</array>
 					</dict>
@@ -795,7 +795,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_wanmeitongguan.plist</string>
+							<string>ccb_res/huodong_wanmeitongguan.plist</string>
 							<string>daxing_nor.png</string>
 						</array>
 					</dict>
@@ -867,7 +867,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_wanmeitongguan.plist</string>
+							<string>ccb_res/huodong_wanmeitongguan.plist</string>
 							<string>daxing_nor.png</string>
 						</array>
 					</dict>
@@ -939,7 +939,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_wanmeitongguan.plist</string>
+							<string>ccb_res/huodong_wanmeitongguan.plist</string>
 							<string>daxing_sel.png</string>
 						</array>
 					</dict>
@@ -1011,7 +1011,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_wanmeitongguan.plist</string>
+							<string>ccb_res/huodong_wanmeitongguan.plist</string>
 							<string>daxing_sel.png</string>
 						</array>
 					</dict>
@@ -1083,7 +1083,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_wanmeitongguan.plist</string>
+							<string>ccb_res/huodong_wanmeitongguan.plist</string>
 							<string>daxing_sel.png</string>
 						</array>
 					</dict>
@@ -1588,6 +1588,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

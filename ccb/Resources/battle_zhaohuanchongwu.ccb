@@ -65,7 +65,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/battle_zhaohuanchongwu.plist</string>
+							<string>ccb_res/battle_zhaohuanchongwu.plist</string>
 							<string>popupBkg2.png</string>
 						</array>
 					</dict>
@@ -201,7 +201,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/battle_zhaohuanchongwu.plist</string>
+							<string>ccb_res/battle_zhaohuanchongwu.plist</string>
 							<string>jinengliebiao_artFont.png</string>
 						</array>
 					</dict>
@@ -305,7 +305,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_nor.png</string>
 								</array>
 							</dict>
@@ -316,7 +316,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_sel.png</string>
 								</array>
 							</dict>
@@ -561,6 +561,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

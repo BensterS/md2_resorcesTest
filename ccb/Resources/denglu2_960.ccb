@@ -95,7 +95,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/denglu2_960.plist</string>
+							<string>ccb_res/denglu2_960.plist</string>
 							<string>denglu_ditukuang.png</string>
 						</array>
 					</dict>
@@ -199,7 +199,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/denglu2_960.plist</string>
+									<string>ccb_res/denglu2_960.plist</string>
 									<string>78_nor.png</string>
 								</array>
 							</dict>
@@ -210,7 +210,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/denglu2_960.plist</string>
+									<string>ccb_res/denglu2_960.plist</string>
 									<string>78_sel.png</string>
 								</array>
 							</dict>
@@ -320,7 +320,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/denglu2_960.plist</string>
+									<string>ccb_res/denglu2_960.plist</string>
 									<string>78_nor.png</string>
 								</array>
 							</dict>
@@ -331,7 +331,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/denglu2_960.plist</string>
+									<string>ccb_res/denglu2_960.plist</string>
 									<string>78_sel.png</string>
 								</array>
 							</dict>
@@ -441,7 +441,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/denglu2_960.plist</string>
+									<string>ccb_res/denglu2_960.plist</string>
 									<string>shurukuang_115.png</string>
 								</array>
 							</dict>
@@ -562,7 +562,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/denglu2_960.plist</string>
+									<string>ccb_res/denglu2_960.plist</string>
 									<string>shurukuang_115.png</string>
 								</array>
 							</dict>
@@ -733,7 +733,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/denglu2_960.plist</string>
+							<string>ccb_res/denglu2_960.plist</string>
 							<string>zhuanghao_denglu.png</string>
 						</array>
 					</dict>
@@ -805,7 +805,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/denglu2_960.plist</string>
+							<string>ccb_res/denglu2_960.plist</string>
 							<string>mima_denglu.png</string>
 						</array>
 					</dict>
@@ -877,7 +877,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/denglu2_960.plist</string>
+							<string>ccb_res/denglu2_960.plist</string>
 							<string>zhuce_nor.png</string>
 						</array>
 					</dict>
@@ -1077,7 +1077,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/denglu2_960.plist</string>
+							<string>ccb_res/denglu2_960.plist</string>
 							<string>denglu01_nor.png</string>
 						</array>
 					</dict>
@@ -1370,7 +1370,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/denglu2_960.plist</string>
+							<string>ccb_res/denglu2_960.plist</string>
 							<string>denglu1_hiuxian.png</string>
 						</array>
 					</dict>
@@ -1591,6 +1591,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

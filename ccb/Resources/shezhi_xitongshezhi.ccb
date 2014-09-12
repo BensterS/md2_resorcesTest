@@ -95,7 +95,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>logBkg.png</string>
 						</array>
 					</dict>
@@ -231,7 +231,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>titleBkg_top.png</string>
 						</array>
 					</dict>
@@ -367,7 +367,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>detailBkg.png</string>
 						</array>
 					</dict>
@@ -503,7 +503,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shezhi_xitongshezhi.plist</string>
+							<string>ccb_res/shezhi_xitongshezhi.plist</string>
 							<string>xitongshezhi_titleFont.png</string>
 						</array>
 					</dict>
@@ -575,7 +575,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shezhi_xitongshezhi.plist</string>
+							<string>ccb_res/shezhi_xitongshezhi.plist</string>
 							<string>anjiantiao_Menu.png</string>
 						</array>
 					</dict>
@@ -647,7 +647,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shezhi_xitongshezhi.plist</string>
+							<string>ccb_res/shezhi_xitongshezhi.plist</string>
 							<string>anjiantiao_Menu.png</string>
 						</array>
 					</dict>
@@ -751,7 +751,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_nor.png</string>
 								</array>
 							</dict>
@@ -762,7 +762,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_sel.png</string>
 								</array>
 							</dict>
@@ -872,7 +872,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>subButton_nor.png</string>
 								</array>
 							</dict>
@@ -883,7 +883,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>subButton_sel.png</string>
 								</array>
 							</dict>
@@ -993,7 +993,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>subButton_nor.png</string>
 								</array>
 							</dict>
@@ -1004,7 +1004,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>subButton_sel.png</string>
 								</array>
 							</dict>
@@ -1114,7 +1114,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>subButton_nor.png</string>
 								</array>
 							</dict>
@@ -1125,7 +1125,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>subButton_sel.png</string>
 								</array>
 							</dict>
@@ -1235,7 +1235,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>inputFrame.png</string>
 								</array>
 							</dict>
@@ -1246,7 +1246,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>inputFrame.png</string>
 								</array>
 							</dict>
@@ -1356,7 +1356,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>inputFrame.png</string>
 								</array>
 							</dict>
@@ -1367,7 +1367,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>inputFrame.png</string>
 								</array>
 							</dict>
@@ -1477,7 +1477,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>inputFrame.png</string>
 								</array>
 							</dict>
@@ -1488,7 +1488,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>inputFrame.png</string>
 								</array>
 							</dict>
@@ -1598,7 +1598,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>inputFrame.png</string>
 								</array>
 							</dict>
@@ -1609,7 +1609,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>inputFrame.png</string>
 								</array>
 							</dict>
@@ -1719,7 +1719,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>inputFrame.png</string>
 								</array>
 							</dict>
@@ -1730,7 +1730,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>inputFrame.png</string>
 								</array>
 							</dict>
@@ -1840,7 +1840,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>inputFrame.png</string>
 								</array>
 							</dict>
@@ -1851,7 +1851,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>inputFrame.png</string>
 								</array>
 							</dict>
@@ -1961,7 +1961,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>inputFrame.png</string>
 								</array>
 							</dict>
@@ -1972,7 +1972,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>inputFrame.png</string>
 								</array>
 							</dict>
@@ -2082,7 +2082,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>inputFrame.png</string>
 								</array>
 							</dict>
@@ -2093,7 +2093,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>inputFrame.png</string>
 								</array>
 							</dict>
@@ -2203,7 +2203,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>inputFrame.png</string>
 								</array>
 							</dict>
@@ -2214,7 +2214,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>inputFrame.png</string>
 								</array>
 							</dict>
@@ -2324,7 +2324,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>inputFrame.png</string>
 								</array>
 							</dict>
@@ -2335,7 +2335,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>inputFrame.png</string>
 								</array>
 							</dict>
@@ -2445,7 +2445,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shezhi_xitongshezhi.plist</string>
+									<string>ccb_res/shezhi_xitongshezhi.plist</string>
 									<string>anjian_Menu.png</string>
 								</array>
 							</dict>
@@ -2566,7 +2566,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shezhi_xitongshezhi.plist</string>
+									<string>ccb_res/shezhi_xitongshezhi.plist</string>
 									<string>anjian_Menu.png</string>
 								</array>
 							</dict>
@@ -4293,7 +4293,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shezhi_xitongshezhi.plist</string>
+							<string>ccb_res/shezhi_xitongshezhi.plist</string>
 							<string>ok.png</string>
 						</array>
 					</dict>
@@ -4365,7 +4365,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shezhi_xitongshezhi.plist</string>
+							<string>ccb_res/shezhi_xitongshezhi.plist</string>
 							<string>ok.png</string>
 						</array>
 					</dict>
@@ -4437,7 +4437,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shezhi_xitongshezhi.plist</string>
+							<string>ccb_res/shezhi_xitongshezhi.plist</string>
 							<string>ok.png</string>
 						</array>
 					</dict>
@@ -4509,7 +4509,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shezhi_xitongshezhi.plist</string>
+							<string>ccb_res/shezhi_xitongshezhi.plist</string>
 							<string>ok.png</string>
 						</array>
 					</dict>
@@ -4581,7 +4581,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shezhi_xitongshezhi.plist</string>
+							<string>ccb_res/shezhi_xitongshezhi.plist</string>
 							<string>ok.png</string>
 						</array>
 					</dict>
@@ -4653,7 +4653,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shezhi_xitongshezhi.plist</string>
+							<string>ccb_res/shezhi_xitongshezhi.plist</string>
 							<string>ok.png</string>
 						</array>
 					</dict>
@@ -4725,7 +4725,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shezhi_xitongshezhi.plist</string>
+							<string>ccb_res/shezhi_xitongshezhi.plist</string>
 							<string>ok.png</string>
 						</array>
 					</dict>
@@ -4797,7 +4797,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shezhi_xitongshezhi.plist</string>
+							<string>ccb_res/shezhi_xitongshezhi.plist</string>
 							<string>ok.png</string>
 						</array>
 					</dict>
@@ -4869,7 +4869,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shezhi_xitongshezhi.plist</string>
+							<string>ccb_res/shezhi_xitongshezhi.plist</string>
 							<string>ok.png</string>
 						</array>
 					</dict>
@@ -4941,7 +4941,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shezhi_xitongshezhi.plist</string>
+							<string>ccb_res/shezhi_xitongshezhi.plist</string>
 							<string>ok.png</string>
 						</array>
 					</dict>
@@ -5013,7 +5013,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shezhi_xitongshezhi.plist</string>
+							<string>ccb_res/shezhi_xitongshezhi.plist</string>
 							<string>yonghuzhongxin_font.png</string>
 						</array>
 					</dict>
@@ -5085,7 +5085,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shezhi_xitongshezhi.plist</string>
+							<string>ccb_res/shezhi_xitongshezhi.plist</string>
 							<string>huifumoren_font.png</string>
 						</array>
 					</dict>
@@ -5157,7 +5157,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shezhi_xitongshezhi.plist</string>
+							<string>ccb_res/shezhi_xitongshezhi.plist</string>
 							<string>baocunshezhi_font.png</string>
 						</array>
 					</dict>
@@ -5229,7 +5229,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shezhi_xitongshezhi.plist</string>
+							<string>ccb_res/shezhi_xitongshezhi.plist</string>
 							<string>lianxiwomen_buttonFont.png</string>
 						</array>
 					</dict>
@@ -5392,6 +5392,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

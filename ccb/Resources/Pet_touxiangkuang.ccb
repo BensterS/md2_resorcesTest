@@ -120,7 +120,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/Pet_touxiangkuang.plist</string>
+									<string>ccb_res/Pet_touxiangkuang.plist</string>
 									<string>pet_touxiangkuang.png</string>
 								</array>
 							</dict>
@@ -291,7 +291,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/Pet_touxiangkuang.plist</string>
+							<string>ccb_res/Pet_touxiangkuang.plist</string>
 							<string>pet_hp.png</string>
 						</array>
 					</dict>
@@ -363,7 +363,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/Pet_touxiangkuang.plist</string>
+							<string>ccb_res/Pet_touxiangkuang.plist</string>
 							<string>pet_exp.png</string>
 						</array>
 					</dict>
@@ -636,6 +636,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

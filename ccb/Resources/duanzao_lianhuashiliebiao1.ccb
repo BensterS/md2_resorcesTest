@@ -108,7 +108,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/duanzao_lianhuashiliebiao1.plist</string>
+									<string>ccb_res/duanzao_lianhuashiliebiao1.plist</string>
 									<string>lianhuashi_kuang_nor.png</string>
 								</array>
 							</dict>
@@ -119,7 +119,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/duanzao_lianhuashiliebiao1.plist</string>
+									<string>ccb_res/duanzao_lianhuashiliebiao1.plist</string>
 									<string>lianhuashi_kuang_sel.png</string>
 								</array>
 							</dict>
@@ -279,7 +279,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/duanzao_lianhuashiliebiao1.plist</string>
+							<string>ccb_res/duanzao_lianhuashiliebiao1.plist</string>
 							<string>wupin_kung.png</string>
 						</array>
 					</dict>
@@ -564,6 +564,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

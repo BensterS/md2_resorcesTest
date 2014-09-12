@@ -125,7 +125,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_jinengCell.plist</string>
+									<string>ccb_res/pet_jinengCell.plist</string>
 									<string>petnewButton_nor.png</string>
 								</array>
 							</dict>
@@ -246,7 +246,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_jinengCell.plist</string>
+									<string>ccb_res/pet_jinengCell.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -257,7 +257,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_jinengCell.plist</string>
+									<string>ccb_res/pet_jinengCell.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -367,7 +367,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_jinengCell.plist</string>
+									<string>ccb_res/pet_jinengCell.plist</string>
 									<string>boxButto_nor.png</string>
 								</array>
 							</dict>
@@ -378,7 +378,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_jinengCell.plist</string>
+									<string>ccb_res/pet_jinengCell.plist</string>
 									<string>boxButto_sel.png</string>
 								</array>
 							</dict>
@@ -538,7 +538,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/pet_jinengCell.plist</string>
+							<string>ccb_res/pet_jinengCell.plist</string>
 							<string>quedingOK_buttonFont.png</string>
 						</array>
 					</dict>
@@ -927,6 +927,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

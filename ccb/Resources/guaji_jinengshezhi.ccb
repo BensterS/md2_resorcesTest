@@ -65,7 +65,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>popupBkg.png</string>
 						</array>
 					</dict>
@@ -201,7 +201,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/guaji_jinengshezhi.plist</string>
+							<string>ccb_res/guaji_jinengshezhi.plist</string>
 							<string>jinengshezhi01_artFont.png</string>
 						</array>
 					</dict>
@@ -305,7 +305,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_nor.png</string>
 								</array>
 							</dict>
@@ -316,7 +316,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_sel.png</string>
 								</array>
 							</dict>
@@ -426,7 +426,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -437,7 +437,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame_selected.png</string>
 								</array>
 							</dict>
@@ -547,7 +547,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -558,7 +558,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame_selected.png</string>
 								</array>
 							</dict>
@@ -668,7 +668,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -679,7 +679,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame_selected.png</string>
 								</array>
 							</dict>
@@ -789,7 +789,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -800,7 +800,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame_selected.png</string>
 								</array>
 							</dict>
@@ -910,7 +910,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -921,7 +921,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame_selected.png</string>
 								</array>
 							</dict>
@@ -1031,7 +1031,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -1042,7 +1042,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame_selected.png</string>
 								</array>
 							</dict>
@@ -1152,7 +1152,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -1163,7 +1163,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame_selected.png</string>
 								</array>
 							</dict>
@@ -1273,7 +1273,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -1284,7 +1284,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame_selected.png</string>
 								</array>
 							</dict>
@@ -1700,7 +1700,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/guaji_jinengshezhi.plist</string>
+							<string>ccb_res/guaji_jinengshezhi.plist</string>
 							<string>xiaokuang.png</string>
 						</array>
 					</dict>
@@ -1772,7 +1772,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/guaji_jinengshezhi.plist</string>
+							<string>ccb_res/guaji_jinengshezhi.plist</string>
 							<string>xiaokuang.png</string>
 						</array>
 					</dict>
@@ -1844,7 +1844,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/guaji_jinengshezhi.plist</string>
+							<string>ccb_res/guaji_jinengshezhi.plist</string>
 							<string>xiaokuang.png</string>
 						</array>
 					</dict>
@@ -1916,7 +1916,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/guaji_jinengshezhi.plist</string>
+							<string>ccb_res/guaji_jinengshezhi.plist</string>
 							<string>xiaokuang.png</string>
 						</array>
 					</dict>
@@ -1988,7 +1988,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/guaji_jinengshezhi.plist</string>
+							<string>ccb_res/guaji_jinengshezhi.plist</string>
 							<string>xiaokuang.png</string>
 						</array>
 					</dict>
@@ -2060,7 +2060,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/guaji_jinengshezhi.plist</string>
+							<string>ccb_res/guaji_jinengshezhi.plist</string>
 							<string>xiaokuang.png</string>
 						</array>
 					</dict>
@@ -2132,7 +2132,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/guaji_jinengshezhi.plist</string>
+							<string>ccb_res/guaji_jinengshezhi.plist</string>
 							<string>xiaokuang.png</string>
 						</array>
 					</dict>
@@ -2204,7 +2204,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/guaji_jinengshezhi.plist</string>
+							<string>ccb_res/guaji_jinengshezhi.plist</string>
 							<string>xiaokuang.png</string>
 						</array>
 					</dict>
@@ -2276,7 +2276,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/guaji_jinengshezhi.plist</string>
+							<string>ccb_res/guaji_jinengshezhi.plist</string>
 							<string>xiaoOK.png</string>
 						</array>
 					</dict>
@@ -2348,7 +2348,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/guaji_jinengshezhi.plist</string>
+							<string>ccb_res/guaji_jinengshezhi.plist</string>
 							<string>xiaoOK.png</string>
 						</array>
 					</dict>
@@ -2420,7 +2420,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/guaji_jinengshezhi.plist</string>
+							<string>ccb_res/guaji_jinengshezhi.plist</string>
 							<string>xiaoOK.png</string>
 						</array>
 					</dict>
@@ -2492,7 +2492,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/guaji_jinengshezhi.plist</string>
+							<string>ccb_res/guaji_jinengshezhi.plist</string>
 							<string>xiaoOK.png</string>
 						</array>
 					</dict>
@@ -2564,7 +2564,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/guaji_jinengshezhi.plist</string>
+							<string>ccb_res/guaji_jinengshezhi.plist</string>
 							<string>xiaoOK.png</string>
 						</array>
 					</dict>
@@ -2636,7 +2636,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/guaji_jinengshezhi.plist</string>
+							<string>ccb_res/guaji_jinengshezhi.plist</string>
 							<string>xiaoOK.png</string>
 						</array>
 					</dict>
@@ -2708,7 +2708,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/guaji_jinengshezhi.plist</string>
+							<string>ccb_res/guaji_jinengshezhi.plist</string>
 							<string>xiaoOK.png</string>
 						</array>
 					</dict>
@@ -2780,7 +2780,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/guaji_jinengshezhi.plist</string>
+							<string>ccb_res/guaji_jinengshezhi.plist</string>
 							<string>xiaoOK.png</string>
 						</array>
 					</dict>
@@ -2937,6 +2937,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

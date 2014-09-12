@@ -88,7 +88,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen6.plist</string>
+							<string>ccb_res/tishiScreen6.plist</string>
 							<string>LevelUpBkg.png</string>
 						</array>
 					</dict>
@@ -160,7 +160,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen6.plist</string>
+							<string>ccb_res/tishiScreen6.plist</string>
 							<string>LevelUpLayerCircle.png</string>
 						</array>
 					</dict>
@@ -232,7 +232,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen6.plist</string>
+							<string>ccb_res/tishiScreen6.plist</string>
 							<string>LevelUpLayerCircle.png</string>
 						</array>
 					</dict>
@@ -304,7 +304,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen6.plist</string>
+							<string>ccb_res/tishiScreen6.plist</string>
 							<string>LevelUpLayerCircle.png</string>
 						</array>
 					</dict>
@@ -376,7 +376,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen6.plist</string>
+							<string>ccb_res/tishiScreen6.plist</string>
 							<string>LevelUpLayerCircle.png</string>
 						</array>
 					</dict>
@@ -448,7 +448,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen6.plist</string>
+							<string>ccb_res/tishiScreen6.plist</string>
 							<string>LevelUpLayerCircle.png</string>
 						</array>
 					</dict>
@@ -520,7 +520,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen6.plist</string>
+							<string>ccb_res/tishiScreen6.plist</string>
 							<string>LevelUpLayerTo.png</string>
 						</array>
 					</dict>
@@ -592,7 +592,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen6.plist</string>
+							<string>ccb_res/tishiScreen6.plist</string>
 							<string>shengji_lvjiantou.png</string>
 						</array>
 					</dict>
@@ -688,7 +688,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_nor.png</string>
 								</array>
 							</dict>
@@ -699,7 +699,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_sel.png</string>
 								</array>
 							</dict>
@@ -710,7 +710,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_hui.png</string>
 								</array>
 							</dict>
@@ -940,7 +940,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen6.plist</string>
+							<string>ccb_res/tishiScreen6.plist</string>
 							<string>confirm_buttonFont.png</string>
 						</array>
 					</dict>
@@ -1083,6 +1083,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

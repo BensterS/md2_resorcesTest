@@ -65,7 +65,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/basicLayer.plist</string>
+							<string>ccb_res/basicLayer.plist</string>
 							<string>layerBkg.png</string>
 						</array>
 					</dict>
@@ -201,7 +201,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/basicLayer.plist</string>
+							<string>ccb_res/basicLayer.plist</string>
 							<string>tabBkg.png</string>
 						</array>
 					</dict>
@@ -369,7 +369,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_nor.png</string>
 								</array>
 							</dict>
@@ -380,7 +380,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_sel.png</string>
 								</array>
 							</dict>
@@ -540,7 +540,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/basicLayer.plist</string>
+							<string>ccb_res/basicLayer.plist</string>
 							<string>beibaoButton_nor.png</string>
 						</array>
 					</dict>
@@ -612,7 +612,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/basicLayer.plist</string>
+							<string>ccb_res/basicLayer.plist</string>
 							<string>jueseButton_nor.png</string>
 						</array>
 					</dict>
@@ -684,7 +684,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/basicLayer.plist</string>
+							<string>ccb_res/basicLayer.plist</string>
 							<string>juesejinengButton_nor.png</string>
 						</array>
 					</dict>
@@ -756,7 +756,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/basicLayer.plist</string>
+							<string>ccb_res/basicLayer.plist</string>
 							<string>rongyuButton_nor.png</string>
 						</array>
 					</dict>
@@ -828,7 +828,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/basicLayer.plist</string>
+							<string>ccb_res/basicLayer.plist</string>
 							<string>renwuButton_nor.png</string>
 						</array>
 					</dict>
@@ -900,7 +900,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/basicLayer.plist</string>
+							<string>ccb_res/basicLayer.plist</string>
 							<string>liantiButton_nor.png</string>
 						</array>
 					</dict>
@@ -1138,6 +1138,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

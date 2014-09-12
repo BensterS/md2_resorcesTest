@@ -88,7 +88,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_gerenleitai.plist</string>
+							<string>ccb_res/huodong_gerenleitai.plist</string>
 							<string>gerenlietai_dikuang.png</string>
 						</array>
 					</dict>
@@ -160,7 +160,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_gerenleitai.plist</string>
+							<string>ccb_res/huodong_gerenleitai.plist</string>
 							<string>gerenleitai_font.png</string>
 						</array>
 					</dict>
@@ -232,7 +232,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_gerenleitai.plist</string>
+							<string>ccb_res/huodong_gerenleitai.plist</string>
 							<string>daojishi_font.png</string>
 						</array>
 					</dict>
@@ -304,7 +304,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>shuzhi_diwenlan.png</string>
 						</array>
 					</dict>
@@ -376,7 +376,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>shuzhi_diwenlan.png</string>
 						</array>
 					</dict>
@@ -576,7 +576,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_gerenleitai.plist</string>
+							<string>ccb_res/huodong_gerenleitai.plist</string>
 							<string>gerenjifeng_font.png</string>
 						</array>
 					</dict>
@@ -648,7 +648,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_gerenleitai.plist</string>
+							<string>ccb_res/huodong_gerenleitai.plist</string>
 							<string>jinfengpaihang_font.png</string>
 						</array>
 					</dict>
@@ -880,7 +880,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/huodong_gerenleitai.plist</string>
+									<string>ccb_res/huodong_gerenleitai.plist</string>
 									<string>banganjian_nor.png</string>
 								</array>
 							</dict>
@@ -891,7 +891,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/huodong_gerenleitai.plist</string>
+									<string>ccb_res/huodong_gerenleitai.plist</string>
 									<string>banganjian_sel.png</string>
 								</array>
 							</dict>
@@ -1136,6 +1136,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

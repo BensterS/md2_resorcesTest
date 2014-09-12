@@ -88,7 +88,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>tishi_logBkg.png</string>
 						</array>
 					</dict>
@@ -213,7 +213,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>detailBkg.png</string>
 						</array>
 					</dict>
@@ -349,7 +349,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>titleBkg_top.png</string>
 						</array>
 					</dict>
@@ -645,7 +645,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_nor.png</string>
 								</array>
 							</dict>
@@ -656,7 +656,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_sel.png</string>
 								</array>
 							</dict>
@@ -766,7 +766,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>subButton_nor.png</string>
 								</array>
 							</dict>
@@ -777,7 +777,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>subButton_sel.png</string>
 								</array>
 							</dict>
@@ -887,7 +887,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>subButton_nor.png</string>
 								</array>
 							</dict>
@@ -898,7 +898,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>subButton_sel.png</string>
 								</array>
 							</dict>
@@ -909,7 +909,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>subButton_hui.png</string>
 								</array>
 							</dict>
@@ -1008,7 +1008,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>inputFrame.png</string>
 								</array>
 							</dict>
@@ -1019,7 +1019,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>inputFrame.png</string>
 								</array>
 							</dict>
@@ -1129,7 +1129,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>subButton_nor.png</string>
 								</array>
 							</dict>
@@ -1140,7 +1140,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>subButton_sel.png</string>
 								</array>
 							</dict>
@@ -1250,7 +1250,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/tishiScreen_convoy.plist</string>
+									<string>ccb_res/tishiScreen_convoy.plist</string>
 									<string>yunbiao_huanchedikuang.png</string>
 								</array>
 							</dict>
@@ -1261,7 +1261,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/tishiScreen_convoy.plist</string>
+									<string>ccb_res/tishiScreen_convoy.plist</string>
 									<string>yunbiao_huanchedikuang.png</string>
 								</array>
 							</dict>
@@ -1421,7 +1421,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen_convoy.plist</string>
+							<string>ccb_res/tishiScreen_convoy.plist</string>
 							<string>buhuaiche_font.png</string>
 						</array>
 					</dict>
@@ -1493,7 +1493,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen_convoy.plist</string>
+							<string>ccb_res/tishiScreen_convoy.plist</string>
 							<string>huaiche_font.png</string>
 						</array>
 					</dict>
@@ -1565,7 +1565,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen_convoy.plist</string>
+							<string>ccb_res/tishiScreen_convoy.plist</string>
 							<string>tishi_titleFont.png</string>
 						</array>
 					</dict>
@@ -1765,7 +1765,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen_convoy.plist</string>
+							<string>ccb_res/tishiScreen_convoy.plist</string>
 							<string>ok.png</string>
 						</array>
 					</dict>
@@ -1837,7 +1837,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen_convoy.plist</string>
+							<string>ccb_res/tishiScreen_convoy.plist</string>
 							<string>kaishiyunbiao_font.png</string>
 						</array>
 					</dict>
@@ -2236,6 +2236,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

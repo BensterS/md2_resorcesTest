@@ -77,7 +77,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>popupBkg.png</string>
 						</array>
 					</dict>
@@ -202,7 +202,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/zuoqi_skill.plist</string>
+							<string>ccb_res/zuoqi_skill.plist</string>
 							<string>petFrame_di.png</string>
 						</array>
 					</dict>
@@ -370,7 +370,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_nor.png</string>
 								</array>
 							</dict>
@@ -381,7 +381,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_sel.png</string>
 								</array>
 							</dict>
@@ -799,7 +799,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/zuoqi_skill.plist</string>
+							<string>ccb_res/zuoqi_skill.plist</string>
 							<string>diaoyu_xian.png</string>
 						</array>
 					</dict>
@@ -2407,7 +2407,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>moji_diwen.png</string>
 						</array>
 					</dict>
@@ -2479,7 +2479,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>zhandouli_labelfont.png</string>
 						</array>
 					</dict>
@@ -2636,6 +2636,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

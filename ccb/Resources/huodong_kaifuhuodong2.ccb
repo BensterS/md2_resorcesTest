@@ -88,7 +88,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_kaifuhuodong2.plist</string>
+							<string>ccb_res/huodong_kaifuhuodong2.plist</string>
 							<string>kaifu_dikuang1.png</string>
 						</array>
 					</dict>
@@ -160,7 +160,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_kaifuhuodong2.plist</string>
+							<string>ccb_res/huodong_kaifuhuodong2.plist</string>
 							<string>zhuangyuan_jiangbei.png</string>
 						</array>
 					</dict>
@@ -360,7 +360,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_kaifuhuodong2.plist</string>
+							<string>ccb_res/huodong_kaifuhuodong2.plist</string>
 							<string>dengji_huangzi.png</string>
 						</array>
 					</dict>
@@ -432,7 +432,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_kaifuhuodong2.plist</string>
+							<string>ccb_res/huodong_kaifuhuodong2.plist</string>
 							<string>jiangli_huangzi.png</string>
 						</array>
 					</dict>
@@ -504,7 +504,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_kaifuhuodong2.plist</string>
+							<string>ccb_res/huodong_kaifuhuodong2.plist</string>
 							<string>moneyIcon_nor.png</string>
 						</array>
 					</dict>
@@ -917,6 +917,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

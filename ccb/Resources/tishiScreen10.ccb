@@ -76,7 +76,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen10.plist</string>
+							<string>ccb_res/tishiScreen10.plist</string>
 							<string>tishi_dikuang2.png</string>
 						</array>
 					</dict>
@@ -180,7 +180,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/tishiScreen10.plist</string>
+									<string>ccb_res/tishiScreen10.plist</string>
 									<string>tisheng_anjian_nor.png</string>
 								</array>
 							</dict>
@@ -191,7 +191,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/tishiScreen10.plist</string>
+									<string>ccb_res/tishiScreen10.plist</string>
 									<string>tisheng_anjian_sel.png</string>
 								</array>
 							</dict>
@@ -301,7 +301,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/tishiScreen10.plist</string>
+									<string>ccb_res/tishiScreen10.plist</string>
 									<string>tisheng_anjian_nor.png</string>
 								</array>
 							</dict>
@@ -312,7 +312,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/tishiScreen10.plist</string>
+									<string>ccb_res/tishiScreen10.plist</string>
 									<string>tisheng_anjian_sel.png</string>
 								</array>
 							</dict>
@@ -422,7 +422,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/tishiScreen10.plist</string>
+									<string>ccb_res/tishiScreen10.plist</string>
 									<string>tisheng_anjian_nor.png</string>
 								</array>
 							</dict>
@@ -433,7 +433,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/tishiScreen10.plist</string>
+									<string>ccb_res/tishiScreen10.plist</string>
 									<string>tisheng_anjian_sel.png</string>
 								</array>
 							</dict>
@@ -543,7 +543,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/tishiScreen10.plist</string>
+									<string>ccb_res/tishiScreen10.plist</string>
 									<string>tisheng_anjian_nor.png</string>
 								</array>
 							</dict>
@@ -554,7 +554,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/tishiScreen10.plist</string>
+									<string>ccb_res/tishiScreen10.plist</string>
 									<string>tisheng_anjian_sel.png</string>
 								</array>
 							</dict>
@@ -664,7 +664,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/tishiScreen10.plist</string>
+									<string>ccb_res/tishiScreen10.plist</string>
 									<string>tisheng_anjian_nor.png</string>
 								</array>
 							</dict>
@@ -675,7 +675,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/tishiScreen10.plist</string>
+									<string>ccb_res/tishiScreen10.plist</string>
 									<string>tisheng_anjian_sel.png</string>
 								</array>
 							</dict>
@@ -785,7 +785,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/tishiScreen10.plist</string>
+									<string>ccb_res/tishiScreen10.plist</string>
 									<string>tisheng_anjian_nor.png</string>
 								</array>
 							</dict>
@@ -796,7 +796,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/tishiScreen10.plist</string>
+									<string>ccb_res/tishiScreen10.plist</string>
 									<string>tisheng_anjian_sel.png</string>
 								</array>
 							</dict>
@@ -906,7 +906,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/tishiScreen10.plist</string>
+									<string>ccb_res/tishiScreen10.plist</string>
 									<string>tisheng_anjian_nor.png</string>
 								</array>
 							</dict>
@@ -917,7 +917,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/tishiScreen10.plist</string>
+									<string>ccb_res/tishiScreen10.plist</string>
 									<string>tisheng_anjian_sel.png</string>
 								</array>
 							</dict>
@@ -1066,7 +1066,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>fontBkg_sel.png</string>
 						</array>
 					</dict>
@@ -1202,7 +1202,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen10.plist</string>
+							<string>ccb_res/tishiScreen10.plist</string>
 							<string>cike_logo.png</string>
 						</array>
 					</dict>
@@ -1274,7 +1274,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen10.plist</string>
+							<string>ccb_res/tishiScreen10.plist</string>
 							<string>tishi_dengji.png</string>
 						</array>
 					</dict>
@@ -1346,7 +1346,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>shuzhi_diwenlan.png</string>
 						</array>
 					</dict>
@@ -2571,6 +2571,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

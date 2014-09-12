@@ -88,7 +88,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>contentBkg.png</string>
 						</array>
 					</dict>
@@ -213,7 +213,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/zuoqi_jinjie.plist</string>
+							<string>ccb_res/zuoqi_jinjie.plist</string>
 							<string>zuoqidiwen.png</string>
 						</array>
 					</dict>
@@ -349,7 +349,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/zuoqi_jinjie.plist</string>
+							<string>ccb_res/zuoqi_jinjie.plist</string>
 							<string>zuoqidiwen.png</string>
 						</array>
 					</dict>
@@ -485,7 +485,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>shuzhi_diwenlan.png</string>
 						</array>
 					</dict>
@@ -557,7 +557,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>shuzhi_diwenlan.png</string>
 						</array>
 					</dict>
@@ -629,7 +629,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>shuzhi_diwenlan.png</string>
 						</array>
 					</dict>
@@ -733,7 +733,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_nor.png</string>
 								</array>
 							</dict>
@@ -744,7 +744,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_sel.png</string>
 								</array>
 							</dict>
@@ -755,7 +755,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_hui.png</string>
 								</array>
 							</dict>
@@ -904,7 +904,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>objectFrame.png</string>
 						</array>
 					</dict>
@@ -976,7 +976,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/zuoqi_jinjie.plist</string>
+							<string>ccb_res/zuoqi_jinjie.plist</string>
 							<string>arrow_icon.png</string>
 						</array>
 					</dict>
@@ -1944,7 +1944,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/zuoqi_jinjie.plist</string>
+							<string>ccb_res/zuoqi_jinjie.plist</string>
 							<string>jinjie_baizi.png</string>
 						</array>
 					</dict>
@@ -2016,7 +2016,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>objectFrame_hui.png</string>
 						</array>
 					</dict>
@@ -2088,7 +2088,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/zuoqi_jinjie.plist</string>
+							<string>ccb_res/zuoqi_jinjie.plist</string>
 							<string>tbaoIcon_nor.png</string>
 						</array>
 					</dict>
@@ -2373,6 +2373,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

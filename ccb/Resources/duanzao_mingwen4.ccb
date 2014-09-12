@@ -88,7 +88,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>fontBkg_sel.png</string>
 						</array>
 					</dict>
@@ -224,7 +224,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/duanzao_mingwen4.plist</string>
+							<string>ccb_res/duanzao_mingwen4.plist</string>
 							<string>shuzhichongzhu1_font.png</string>
 						</array>
 					</dict>
@@ -296,7 +296,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/duanzao_mingwen4.plist</string>
+							<string>ccb_res/duanzao_mingwen4.plist</string>
 							<string>wupiankuang_dikuang.png</string>
 						</array>
 					</dict>
@@ -368,7 +368,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/duanzao_mingwen4.plist</string>
+							<string>ccb_res/duanzao_mingwen4.plist</string>
 							<string>wupiankuang_dikuang.png</string>
 						</array>
 					</dict>
@@ -440,7 +440,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/duanzao_mingwen4.plist</string>
+							<string>ccb_res/duanzao_mingwen4.plist</string>
 							<string>chongzhu_xian.png</string>
 						</array>
 					</dict>
@@ -608,7 +608,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/duanzao_mingwen4.plist</string>
+									<string>ccb_res/duanzao_mingwen4.plist</string>
 									<string>duanzao_wupingkuang.png</string>
 								</array>
 							</dict>
@@ -729,7 +729,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -850,7 +850,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -971,7 +971,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_nor.png</string>
 								</array>
 							</dict>
@@ -982,7 +982,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_sel.png</string>
 								</array>
 							</dict>
@@ -993,7 +993,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_hui.png</string>
 								</array>
 							</dict>
@@ -1092,7 +1092,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/duanzao_mingwen4.plist</string>
+									<string>ccb_res/duanzao_mingwen4.plist</string>
 									<string>help_nor.png</string>
 								</array>
 							</dict>
@@ -1103,7 +1103,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/duanzao_mingwen4.plist</string>
+									<string>ccb_res/duanzao_mingwen4.plist</string>
 									<string>help_sel.png</string>
 								</array>
 							</dict>
@@ -1263,7 +1263,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/duanzao_mingwen4.plist</string>
+							<string>ccb_res/duanzao_mingwen4.plist</string>
 							<string>baise_kung.png</string>
 						</array>
 					</dict>
@@ -1591,7 +1591,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/duanzao_mingwen4.plist</string>
+							<string>ccb_res/duanzao_mingwen4.plist</string>
 							<string>shuzhichongzhu_font.png</string>
 						</array>
 					</dict>
@@ -2279,7 +2279,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>shuzhi_diwenlan.png</string>
 						</array>
 					</dict>
@@ -2351,7 +2351,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>shuzhi_diwenlan.png</string>
 						</array>
 					</dict>
@@ -2740,6 +2740,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

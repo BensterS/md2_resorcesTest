@@ -88,7 +88,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>contentBkg.png</string>
 						</array>
 					</dict>
@@ -224,7 +224,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>contentBkg.png</string>
 						</array>
 					</dict>
@@ -349,7 +349,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shangcheng1.plist</string>
+							<string>ccb_res/shangcheng1.plist</string>
 							<string>horiLine.png</string>
 						</array>
 					</dict>
@@ -485,7 +485,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shangcheng1.plist</string>
+							<string>ccb_res/shangcheng1.plist</string>
 							<string>contentBkg_1.png</string>
 						</array>
 					</dict>
@@ -629,7 +629,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shangcheng1.plist</string>
+							<string>ccb_res/shangcheng1.plist</string>
 							<string>contentBkg_1.png</string>
 						</array>
 					</dict>
@@ -773,7 +773,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shangcheng1.plist</string>
+							<string>ccb_res/shangcheng1.plist</string>
 							<string>contentBkg_1.png</string>
 						</array>
 					</dict>
@@ -909,7 +909,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shangcheng1.plist</string>
+							<string>ccb_res/shangcheng1.plist</string>
 							<string>shangchengmeizi_banshen_new.png</string>
 						</array>
 					</dict>
@@ -1013,7 +1013,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -1134,7 +1134,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>objectFrame.png</string>
 								</array>
 							</dict>
@@ -1255,7 +1255,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shangcheng1.plist</string>
+									<string>ccb_res/shangcheng1.plist</string>
 									<string>chongzhiMenu_nor.png</string>
 								</array>
 							</dict>
@@ -1266,7 +1266,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/shangcheng1.plist</string>
+									<string>ccb_res/shangcheng1.plist</string>
 									<string>chongzhiMenu_sel.png</string>
 								</array>
 							</dict>
@@ -1426,7 +1426,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shangcheng1.plist</string>
+							<string>ccb_res/shangcheng1.plist</string>
 							<string>chongzhi_wenzi.png</string>
 						</array>
 					</dict>
@@ -1498,7 +1498,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shangcheng1.plist</string>
+							<string>ccb_res/shangcheng1.plist</string>
 							<string>HOT_new.png</string>
 						</array>
 					</dict>
@@ -1570,7 +1570,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shangcheng1.plist</string>
+							<string>ccb_res/shangcheng1.plist</string>
 							<string>xianshiqianggou_new.png</string>
 						</array>
 					</dict>
@@ -1642,7 +1642,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shangcheng1.plist</string>
+							<string>ccb_res/shangcheng1.plist</string>
 							<string>shengyushijian_new.png</string>
 						</array>
 					</dict>
@@ -1714,7 +1714,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shangcheng1.plist</string>
+							<string>ccb_res/shangcheng1.plist</string>
 							<string>moneyIcon_nor.png</string>
 						</array>
 					</dict>
@@ -2506,7 +2506,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shangcheng1.plist</string>
+							<string>ccb_res/shangcheng1.plist</string>
 							<string>moneyIcon_nor.png</string>
 						</array>
 					</dict>
@@ -2578,7 +2578,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shangcheng1.plist</string>
+							<string>ccb_res/shangcheng1.plist</string>
 							<string>moneyIcon_nor.png</string>
 						</array>
 					</dict>
@@ -3138,7 +3138,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shangcheng1.plist</string>
+							<string>ccb_res/shangcheng1.plist</string>
 							<string>lvshuzi_Font.png</string>
 						</array>
 					</dict>
@@ -3210,7 +3210,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/shangcheng1.plist</string>
+							<string>ccb_res/shangcheng1.plist</string>
 							<string>moneyIcon_nor.png</string>
 						</array>
 					</dict>
@@ -3367,6 +3367,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

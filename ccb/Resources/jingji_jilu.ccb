@@ -88,7 +88,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>contentBkg.png</string>
 						</array>
 					</dict>
@@ -213,7 +213,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/jingji_jilu.plist</string>
+							<string>ccb_res/jingji_jilu.plist</string>
 							<string>horiLine.png</string>
 						</array>
 					</dict>
@@ -690,6 +690,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

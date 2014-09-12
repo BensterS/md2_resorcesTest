@@ -65,7 +65,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/liaotian_duihuakuang.plist</string>
+							<string>ccb_res/liaotian_duihuakuang.plist</string>
 							<string>liaotianBgk.png</string>
 						</array>
 					</dict>
@@ -233,7 +233,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/liaotian_duihuakuang.plist</string>
+									<string>ccb_res/liaotian_duihuakuang.plist</string>
 									<string>duihuaIcon_nor.png</string>
 								</array>
 							</dict>
@@ -244,7 +244,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/liaotian_duihuakuang.plist</string>
+									<string>ccb_res/liaotian_duihuakuang.plist</string>
 									<string>duihuaIcon_sel.png</string>
 								</array>
 							</dict>
@@ -489,6 +489,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

@@ -88,7 +88,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>contentBkg.png</string>
 						</array>
 					</dict>
@@ -224,7 +224,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>contentBkg.png</string>
 						</array>
 					</dict>
@@ -360,7 +360,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>detailBkg.png</string>
 						</array>
 					</dict>
@@ -528,7 +528,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/hero_task.plist</string>
+									<string>ccb_res/hero_task.plist</string>
 									<string>listButton.png</string>
 								</array>
 							</dict>
@@ -539,7 +539,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/hero_task.plist</string>
+									<string>ccb_res/hero_task.plist</string>
 									<string>listButton.png</string>
 								</array>
 							</dict>
@@ -649,7 +649,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/hero_task.plist</string>
+									<string>ccb_res/hero_task.plist</string>
 									<string>yijierenwu_buttonFont.png</string>
 								</array>
 							</dict>
@@ -660,7 +660,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/hero_task.plist</string>
+									<string>ccb_res/hero_task.plist</string>
 									<string>yijierenwu_buttonFont.png</string>
 								</array>
 							</dict>
@@ -770,7 +770,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/hero_task.plist</string>
+									<string>ccb_res/hero_task.plist</string>
 									<string>listButton.png</string>
 								</array>
 							</dict>
@@ -781,7 +781,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/hero_task.plist</string>
+									<string>ccb_res/hero_task.plist</string>
 									<string>listButton.png</string>
 								</array>
 							</dict>
@@ -891,7 +891,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/hero_task.plist</string>
+									<string>ccb_res/hero_task.plist</string>
 									<string>kejierenwu_buttonFont.png</string>
 								</array>
 							</dict>
@@ -902,7 +902,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/hero_task.plist</string>
+									<string>ccb_res/hero_task.plist</string>
 									<string>kejierenwu_buttonFont.png</string>
 								</array>
 							</dict>
@@ -1012,7 +1012,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/hero_task.plist</string>
+									<string>ccb_res/hero_task.plist</string>
 									<string>fangqi_roundButton_nor.png</string>
 								</array>
 							</dict>
@@ -1023,7 +1023,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/hero_task.plist</string>
+									<string>ccb_res/hero_task.plist</string>
 									<string>fangqi_roundButton_sel.png</string>
 								</array>
 							</dict>
@@ -1133,7 +1133,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_nor.png</string>
 								</array>
 							</dict>
@@ -1144,7 +1144,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_sel.png</string>
 								</array>
 							</dict>
@@ -1155,7 +1155,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_hui.png</string>
 								</array>
 							</dict>
@@ -1304,7 +1304,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/hero_task.plist</string>
+							<string>ccb_res/hero_task.plist</string>
 							<string>renwumiaoshu_artFont.png</string>
 						</array>
 					</dict>
@@ -1376,7 +1376,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/hero_task.plist</string>
+							<string>ccb_res/hero_task.plist</string>
 							<string>renwumubiao_artFont.png</string>
 						</array>
 					</dict>
@@ -1448,7 +1448,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/hero_task.plist</string>
+							<string>ccb_res/hero_task.plist</string>
 							<string>renwujiangli_artFont.png</string>
 						</array>
 					</dict>
@@ -1904,7 +1904,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/hero_task.plist</string>
+							<string>ccb_res/hero_task.plist</string>
 							<string>renwuxunlu_baizi.png</string>
 						</array>
 					</dict>
@@ -2061,6 +2061,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

@@ -344,7 +344,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chuangguan02.plist</string>
+							<string>ccb_res/huodong_chuangguan02.plist</string>
 							<string>canquan_renwukuang.png</string>
 						</array>
 					</dict>
@@ -629,6 +629,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

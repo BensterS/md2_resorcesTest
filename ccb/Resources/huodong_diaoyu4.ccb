@@ -88,7 +88,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_diaoyu4.plist</string>
+							<string>ccb_res/huodong_diaoyu4.plist</string>
 							<string>diaoyu_diwen.png</string>
 						</array>
 					</dict>
@@ -477,6 +477,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

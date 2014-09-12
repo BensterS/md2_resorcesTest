@@ -65,7 +65,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>logBkg.png</string>
 						</array>
 					</dict>
@@ -201,7 +201,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>titleBkg_top.png</string>
 						</array>
 					</dict>
@@ -337,7 +337,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/lingqijuanxian.plist</string>
+							<string>ccb_res/lingqijuanxian.plist</string>
 							<string>beijingtu_new.png</string>
 						</array>
 					</dict>
@@ -441,7 +441,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_nor.png</string>
 								</array>
 							</dict>
@@ -452,7 +452,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_sel.png</string>
 								</array>
 							</dict>
@@ -562,7 +562,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/lingqijuanxian.plist</string>
+									<string>ccb_res/lingqijuanxian.plist</string>
 									<string>dicao2_new.png</string>
 								</array>
 							</dict>
@@ -683,7 +683,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/lingqijuanxian.plist</string>
+									<string>ccb_res/lingqijuanxian.plist</string>
 									<string>dicao2_new.png</string>
 								</array>
 							</dict>
@@ -804,7 +804,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/lingqijuanxian.plist</string>
+									<string>ccb_res/lingqijuanxian.plist</string>
 									<string>dicao2_new.png</string>
 								</array>
 							</dict>
@@ -925,7 +925,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/lingqijuanxian.plist</string>
+									<string>ccb_res/lingqijuanxian.plist</string>
 									<string>dicao1_new.png</string>
 								</array>
 							</dict>
@@ -1046,7 +1046,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/lingqijuanxian.plist</string>
+									<string>ccb_res/lingqijuanxian.plist</string>
 									<string>dicao1_new.png</string>
 								</array>
 							</dict>
@@ -1167,7 +1167,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/lingqijuanxian.plist</string>
+									<string>ccb_res/lingqijuanxian.plist</string>
 									<string>juanxiananniu_nor_new.png</string>
 								</array>
 							</dict>
@@ -1178,7 +1178,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/lingqijuanxian.plist</string>
+									<string>ccb_res/lingqijuanxian.plist</string>
 									<string>juanxiananniu_sel_new.png</string>
 								</array>
 							</dict>
@@ -1340,7 +1340,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/lingqijuanxian.plist</string>
+							<string>ccb_res/lingqijuanxian.plist</string>
 							<string>lingqijuanxian_new.png</string>
 						</array>
 					</dict>
@@ -1412,7 +1412,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/lingqijuanxian.plist</string>
+							<string>ccb_res/lingqijuanxian.plist</string>
 							<string>ziseqiu_new.png</string>
 						</array>
 					</dict>
@@ -1484,7 +1484,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/lingqijuanxian.plist</string>
+							<string>ccb_res/lingqijuanxian.plist</string>
 							<string>lvseqiu_new.png</string>
 						</array>
 					</dict>
@@ -1556,7 +1556,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/lingqijuanxian.plist</string>
+							<string>ccb_res/lingqijuanxian.plist</string>
 							<string>heiseqiu_new.png</string>
 						</array>
 					</dict>
@@ -1628,7 +1628,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/lingqijuanxian.plist</string>
+							<string>ccb_res/lingqijuanxian.plist</string>
 							<string>baiseqiu_new.png</string>
 						</array>
 					</dict>
@@ -1700,7 +1700,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/lingqijuanxian.plist</string>
+							<string>ccb_res/lingqijuanxian.plist</string>
 							<string>lanseqiu_new.png</string>
 						</array>
 					</dict>
@@ -1772,7 +1772,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/lingqijuanxian.plist</string>
+							<string>ccb_res/lingqijuanxian.plist</string>
 							<string>juanxian_new.png</string>
 						</array>
 					</dict>
@@ -1844,7 +1844,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/lingqijuanxian.plist</string>
+							<string>ccb_res/lingqijuanxian.plist</string>
 							<string>jiangli_new.png</string>
 						</array>
 					</dict>
@@ -1916,7 +1916,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/lingqijuanxian.plist</string>
+							<string>ccb_res/lingqijuanxian.plist</string>
 							<string>xiaohao_new.png</string>
 						</array>
 					</dict>
@@ -1988,7 +1988,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/lingqijuanxian.plist</string>
+							<string>ccb_res/lingqijuanxian.plist</string>
 							<string>jiangli_new.png</string>
 						</array>
 					</dict>
@@ -2060,7 +2060,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/lingqijuanxian.plist</string>
+							<string>ccb_res/lingqijuanxian.plist</string>
 							<string>jiangli_new.png</string>
 						</array>
 					</dict>
@@ -2132,7 +2132,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/lingqijuanxian.plist</string>
+							<string>ccb_res/lingqijuanxian.plist</string>
 							<string>jiangli_new.png</string>
 						</array>
 					</dict>
@@ -2204,7 +2204,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/lingqijuanxian.plist</string>
+							<string>ccb_res/lingqijuanxian.plist</string>
 							<string>jiangli_new.png</string>
 						</array>
 					</dict>
@@ -2276,7 +2276,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/lingqijuanxian.plist</string>
+							<string>ccb_res/lingqijuanxian.plist</string>
 							<string>xiaohao_new.png</string>
 						</array>
 					</dict>
@@ -2348,7 +2348,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/lingqijuanxian.plist</string>
+							<string>ccb_res/lingqijuanxian.plist</string>
 							<string>xiaohao_new.png</string>
 						</array>
 					</dict>
@@ -2420,7 +2420,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/lingqijuanxian.plist</string>
+							<string>ccb_res/lingqijuanxian.plist</string>
 							<string>xiaohao_new.png</string>
 						</array>
 					</dict>
@@ -2492,7 +2492,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/lingqijuanxian.plist</string>
+							<string>ccb_res/lingqijuanxian.plist</string>
 							<string>xiaohao_new.png</string>
 						</array>
 					</dict>
@@ -4949,6 +4949,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

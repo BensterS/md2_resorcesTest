@@ -220,7 +220,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>fontBkg_sel.png</string>
 						</array>
 					</dict>
@@ -356,7 +356,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/duanzao_mingwen1.plist</string>
+							<string>ccb_res/duanzao_mingwen1.plist</string>
 							<string>mingwenshuoming_font.png</string>
 						</array>
 					</dict>
@@ -513,6 +513,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

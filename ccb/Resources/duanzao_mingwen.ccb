@@ -88,7 +88,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>contentBkg.png</string>
 						</array>
 					</dict>
@@ -224,7 +224,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/duanzao_mingwen.plist</string>
+							<string>ccb_res/duanzao_mingwen.plist</string>
 							<string>duabzao_diwen.png</string>
 						</array>
 					</dict>
@@ -366,7 +366,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/duanzao_mingwen.plist</string>
+							<string>ccb_res/duanzao_mingwen.plist</string>
 							<string>chongzhuBkg.png</string>
 						</array>
 					</dict>
@@ -502,7 +502,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>fontBkg_sel.png</string>
 						</array>
 					</dict>
@@ -638,7 +638,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/duanzao_mingwen.plist</string>
+							<string>ccb_res/duanzao_mingwen.plist</string>
 							<string>mingwenshuxing_font.png</string>
 						</array>
 					</dict>
@@ -699,7 +699,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/duanzao_mingwen.plist</string>
+							<string>ccb_res/duanzao_mingwen.plist</string>
 							<string>chongzhuBkg.png</string>
 						</array>
 					</dict>
@@ -920,6 +920,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

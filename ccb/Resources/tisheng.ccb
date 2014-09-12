@@ -88,7 +88,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tisheng.plist</string>
+							<string>ccb_res/tisheng.plist</string>
 							<string>tisheng_dikuang.png</string>
 						</array>
 					</dict>
@@ -160,7 +160,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tisheng.plist</string>
+							<string>ccb_res/tisheng.plist</string>
 							<string>tisheng_biaoti.png</string>
 						</array>
 					</dict>
@@ -232,7 +232,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tisheng.plist</string>
+							<string>ccb_res/tisheng.plist</string>
 							<string>tisheng_artFont.png</string>
 						</array>
 					</dict>
@@ -336,7 +336,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_nor.png</string>
 								</array>
 							</dict>
@@ -347,7 +347,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_sel.png</string>
 								</array>
 							</dict>
@@ -592,6 +592,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

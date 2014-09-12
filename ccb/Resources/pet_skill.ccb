@@ -95,7 +95,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>contentBkg.png</string>
 						</array>
 					</dict>
@@ -231,7 +231,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>contentBkg.png</string>
 						</array>
 					</dict>
@@ -367,7 +367,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/pet_skill.plist</string>
+							<string>ccb_res/pet_skill.plist</string>
 							<string>duabzao_diwen.png</string>
 						</array>
 					</dict>
@@ -471,7 +471,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -482,7 +482,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -493,7 +493,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_dis.png</string>
 								</array>
 							</dict>
@@ -592,7 +592,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -603,7 +603,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -614,7 +614,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_dis.png</string>
 								</array>
 							</dict>
@@ -713,7 +713,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -724,7 +724,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -735,7 +735,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_dis.png</string>
 								</array>
 							</dict>
@@ -834,7 +834,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -845,7 +845,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -856,7 +856,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_dis.png</string>
 								</array>
 							</dict>
@@ -955,7 +955,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -966,7 +966,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -977,7 +977,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_dis.png</string>
 								</array>
 							</dict>
@@ -1076,7 +1076,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -1087,7 +1087,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -1098,7 +1098,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_dis.png</string>
 								</array>
 							</dict>
@@ -1197,7 +1197,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -1208,7 +1208,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -1219,7 +1219,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_dis.png</string>
 								</array>
 							</dict>
@@ -1318,7 +1318,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -1329,7 +1329,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -1340,7 +1340,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_dis.png</string>
 								</array>
 							</dict>
@@ -1439,7 +1439,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -1450,7 +1450,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -1461,7 +1461,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_dis.png</string>
 								</array>
 							</dict>
@@ -1560,7 +1560,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -1571,7 +1571,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -1582,7 +1582,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_dis.png</string>
 								</array>
 							</dict>
@@ -1681,7 +1681,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -1692,7 +1692,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -1703,7 +1703,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_dis.png</string>
 								</array>
 							</dict>
@@ -1802,7 +1802,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_nor.png</string>
 								</array>
 							</dict>
@@ -1813,7 +1813,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_sel.png</string>
 								</array>
 							</dict>
@@ -1824,7 +1824,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/pet_skill.plist</string>
+									<string>ccb_res/pet_skill.plist</string>
 									<string>skillFrame_dis.png</string>
 								</array>
 							</dict>
@@ -1973,7 +1973,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/pet_skill.plist</string>
+							<string>ccb_res/pet_skill.plist</string>
 							<string>petskill_art.png</string>
 						</array>
 					</dict>
@@ -2045,7 +2045,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>fontBkg_sel.png</string>
 						</array>
 					</dict>
@@ -2117,7 +2117,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>fontBkg_sel.png</string>
 						</array>
 					</dict>
@@ -2189,7 +2189,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>fontBkg_sel.png</string>
 						</array>
 					</dict>
@@ -2261,7 +2261,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>fontBkg_sel.png</string>
 						</array>
 					</dict>
@@ -2333,7 +2333,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>fontBkg_sel.png</string>
 						</array>
 					</dict>
@@ -2405,7 +2405,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>fontBkg_sel.png</string>
 						</array>
 					</dict>
@@ -2477,7 +2477,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>fontBkg_sel.png</string>
 						</array>
 					</dict>
@@ -2549,7 +2549,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>fontBkg_sel.png</string>
 						</array>
 					</dict>
@@ -2621,7 +2621,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>fontBkg_sel.png</string>
 						</array>
 					</dict>
@@ -2693,7 +2693,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>fontBkg_sel.png</string>
 						</array>
 					</dict>
@@ -2765,7 +2765,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>fontBkg_sel.png</string>
 						</array>
 					</dict>
@@ -2837,7 +2837,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>fontBkg_sel.png</string>
 						</array>
 					</dict>
@@ -2909,7 +2909,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>biaoti_228.png</string>
 						</array>
 					</dict>
@@ -4794,6 +4794,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

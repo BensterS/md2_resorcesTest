@@ -88,7 +88,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>contentBkg.png</string>
 						</array>
 					</dict>
@@ -224,7 +224,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>chongzhi_newdikuang.png</string>
 						</array>
 					</dict>
@@ -296,7 +296,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>chongzhi_newdikuang.png</string>
 						</array>
 					</dict>
@@ -368,7 +368,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>chongzhi_newdikuang.png</string>
 						</array>
 					</dict>
@@ -440,7 +440,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>chongzhi_newdikuang.png</string>
 						</array>
 					</dict>
@@ -512,7 +512,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>chongzhi_newdikuang.png</string>
 						</array>
 					</dict>
@@ -584,7 +584,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>chongzhi_newdikuang.png</string>
 						</array>
 					</dict>
@@ -656,7 +656,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>picture_1.png</string>
 						</array>
 					</dict>
@@ -728,7 +728,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>picture_2.png</string>
 						</array>
 					</dict>
@@ -800,7 +800,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>picture_3.png</string>
 						</array>
 					</dict>
@@ -872,7 +872,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>picture_4.png</string>
 						</array>
 					</dict>
@@ -944,7 +944,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>picture_5.png</string>
 						</array>
 					</dict>
@@ -1016,7 +1016,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>picture_6.png</string>
 						</array>
 					</dict>
@@ -1120,7 +1120,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+									<string>ccb_res/huodong_chongzhi3.plist</string>
 									<string>lvseanjian_nor.png</string>
 								</array>
 							</dict>
@@ -1131,7 +1131,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+									<string>ccb_res/huodong_chongzhi3.plist</string>
 									<string>lvseanjian_sel.png</string>
 								</array>
 							</dict>
@@ -1241,7 +1241,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+									<string>ccb_res/huodong_chongzhi3.plist</string>
 									<string>lvseanjian_nor.png</string>
 								</array>
 							</dict>
@@ -1252,7 +1252,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+									<string>ccb_res/huodong_chongzhi3.plist</string>
 									<string>lvseanjian_sel.png</string>
 								</array>
 							</dict>
@@ -1362,7 +1362,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+									<string>ccb_res/huodong_chongzhi3.plist</string>
 									<string>lvseanjian_nor.png</string>
 								</array>
 							</dict>
@@ -1373,7 +1373,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+									<string>ccb_res/huodong_chongzhi3.plist</string>
 									<string>lvseanjian_sel.png</string>
 								</array>
 							</dict>
@@ -1483,7 +1483,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+									<string>ccb_res/huodong_chongzhi3.plist</string>
 									<string>lvseanjian_nor.png</string>
 								</array>
 							</dict>
@@ -1494,7 +1494,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+									<string>ccb_res/huodong_chongzhi3.plist</string>
 									<string>lvseanjian_sel.png</string>
 								</array>
 							</dict>
@@ -1604,7 +1604,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+									<string>ccb_res/huodong_chongzhi3.plist</string>
 									<string>lvseanjian_nor.png</string>
 								</array>
 							</dict>
@@ -1615,7 +1615,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+									<string>ccb_res/huodong_chongzhi3.plist</string>
 									<string>lvseanjian_sel.png</string>
 								</array>
 							</dict>
@@ -1725,7 +1725,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+									<string>ccb_res/huodong_chongzhi3.plist</string>
 									<string>lvseanjian_nor.png</string>
 								</array>
 							</dict>
@@ -1736,7 +1736,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+									<string>ccb_res/huodong_chongzhi3.plist</string>
 									<string>lvseanjian_sel.png</string>
 								</array>
 							</dict>
@@ -1896,7 +1896,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>shoumingwenzi_1.png</string>
 						</array>
 					</dict>
@@ -1968,7 +1968,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>shoumingwenzi_2.png</string>
 						</array>
 					</dict>
@@ -2040,7 +2040,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>shoumingwenzi_3.png</string>
 						</array>
 					</dict>
@@ -2112,7 +2112,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>shoumingwenzi_4.png</string>
 						</array>
 					</dict>
@@ -2184,7 +2184,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>shoumingwenzi_5.png</string>
 						</array>
 					</dict>
@@ -2256,7 +2256,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>shoumingwenzi_6.png</string>
 						</array>
 					</dict>
@@ -2328,7 +2328,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>yuanbao2_iocn.png</string>
 						</array>
 					</dict>
@@ -2400,7 +2400,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>yuanbao2_iocn.png</string>
 						</array>
 					</dict>
@@ -2472,7 +2472,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>yuanbao2_iocn.png</string>
 						</array>
 					</dict>
@@ -2544,7 +2544,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>yuanbao2_iocn.png</string>
 						</array>
 					</dict>
@@ -2616,7 +2616,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>yuanbao2_iocn.png</string>
 						</array>
 					</dict>
@@ -2688,7 +2688,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>yuanbao2_iocn.png</string>
 						</array>
 					</dict>
@@ -2760,7 +2760,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>yuanbao1_iocn.png</string>
 						</array>
 					</dict>
@@ -2832,7 +2832,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>yuanbao1_iocn.png</string>
 						</array>
 					</dict>
@@ -2904,7 +2904,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>yuanbao1_iocn.png</string>
 						</array>
 					</dict>
@@ -2976,7 +2976,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>yuanbao1_iocn.png</string>
 						</array>
 					</dict>
@@ -3048,7 +3048,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>yuanbao1_iocn.png</string>
 						</array>
 					</dict>
@@ -3120,7 +3120,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>yuanbao1_iocn.png</string>
 						</array>
 					</dict>
@@ -3192,7 +3192,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>renmingbishuzi_6.png</string>
 						</array>
 					</dict>
@@ -3264,7 +3264,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>yuan_wenzi.png</string>
 						</array>
 					</dict>
@@ -3336,7 +3336,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>yuan_wenzi.png</string>
 						</array>
 					</dict>
@@ -3408,7 +3408,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>renmingbishuzi_3.png</string>
 						</array>
 					</dict>
@@ -3480,7 +3480,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>renmingbishuzi_0.png</string>
 						</array>
 					</dict>
@@ -3552,7 +3552,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>yuan_wenzi.png</string>
 						</array>
 					</dict>
@@ -3624,7 +3624,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>renmingbishuzi_6.png</string>
 						</array>
 					</dict>
@@ -3696,7 +3696,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>renmingbishuzi_8.png</string>
 						</array>
 					</dict>
@@ -3768,7 +3768,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>yuan_wenzi.png</string>
 						</array>
 					</dict>
@@ -3840,7 +3840,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>renmingbishuzi_1.png</string>
 						</array>
 					</dict>
@@ -3912,7 +3912,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>renmingbishuzi_9.png</string>
 						</array>
 					</dict>
@@ -3984,7 +3984,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>renmingbishuzi_8.png</string>
 						</array>
 					</dict>
@@ -4056,7 +4056,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>yuan_wenzi.png</string>
 						</array>
 					</dict>
@@ -4128,7 +4128,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>renmingbishuzi_3.png</string>
 						</array>
 					</dict>
@@ -4200,7 +4200,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>renmingbishuzi_2.png</string>
 						</array>
 					</dict>
@@ -4272,7 +4272,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>renmingbishuzi_8.png</string>
 						</array>
 					</dict>
@@ -4344,7 +4344,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>yuan_wenzi.png</string>
 						</array>
 					</dict>
@@ -4416,7 +4416,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>renmingbishuzi_6.png</string>
 						</array>
 					</dict>
@@ -4488,7 +4488,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>renmingbishuzi_4.png</string>
 						</array>
 					</dict>
@@ -4560,7 +4560,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_chongzhi3.plist</string>
+							<string>ccb_res/huodong_chongzhi3.plist</string>
 							<string>renmingbishuzi_8.png</string>
 						</array>
 					</dict>
@@ -6157,6 +6157,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

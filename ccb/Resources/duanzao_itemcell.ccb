@@ -133,7 +133,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/duanzao_itemcell.plist</string>
+									<string>ccb_res/duanzao_itemcell.plist</string>
 									<string>petcellButton_nor.png</string>
 								</array>
 							</dict>
@@ -144,8 +144,8 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/duanzao_itemcell.plist</string>
-									<string>petcellButton_sel.png</string>
+									<string>ccb_res/duanzao_itemcell.plist</string>
+									<string>petcellButton_nor.png</string>
 								</array>
 							</dict>
 							<dict>
@@ -155,11 +155,13 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string></string>
-									<string></string>
+									<string>ccb_res/duanzao_itemcell.plist</string>
+									<string>petcellButton_sel.png</string>
 								</array>
 							</dict>
 						</array>
+						<key>selected</key>
+						<true/>
 					</dict>
 				</array>
 				<key>customClass</key>
@@ -432,7 +434,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>objectFrame.png</string>
 						</array>
 					</dict>
@@ -717,21 +719,3 @@
 	<integer>3</integer>
 </dict>
 </plist>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

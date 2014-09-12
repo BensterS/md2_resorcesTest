@@ -120,7 +120,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/wanjia_tongxiangkuang.plist</string>
+									<string>ccb_res/wanjia_tongxiangkuang.plist</string>
 									<string>wanjia_touxiangkuang.png</string>
 								</array>
 							</dict>
@@ -291,7 +291,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/wanjia_tongxiangkuang.plist</string>
+							<string>ccb_res/wanjia_tongxiangkuang.plist</string>
 							<string>pet_hp.png</string>
 						</array>
 					</dict>
@@ -680,6 +680,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

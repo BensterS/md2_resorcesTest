@@ -88,7 +88,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_shenchongzhuzhen1.plist</string>
+							<string>ccb_res/huodong_shenchongzhuzhen1.plist</string>
 							<string>paohuan_dibai2.png</string>
 						</array>
 					</dict>
@@ -160,7 +160,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_shenchongzhuzhen1.plist</string>
+							<string>ccb_res/huodong_shenchongzhuzhen1.plist</string>
 							<string>mingcheng_zhuzhen.png</string>
 						</array>
 					</dict>
@@ -232,7 +232,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_shenchongzhuzhen1.plist</string>
+							<string>ccb_res/huodong_shenchongzhuzhen1.plist</string>
 							<string>leixing_zhuzhen.png</string>
 						</array>
 					</dict>
@@ -548,7 +548,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_shenchongzhuzhen1.plist</string>
+							<string>ccb_res/huodong_shenchongzhuzhen1.plist</string>
 							<string>pet_zidian4.png</string>
 						</array>
 					</dict>
@@ -620,7 +620,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_shenchongzhuzhen1.plist</string>
+							<string>ccb_res/huodong_shenchongzhuzhen1.plist</string>
 							<string>paohuan_xuanzhekuang.png</string>
 						</array>
 					</dict>
@@ -777,6 +777,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

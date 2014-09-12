@@ -95,7 +95,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/xuanzefuwuqi.plist</string>
+							<string>ccb_res/xuanzefuwuqi.plist</string>
 							<string>fuwuqi_ditukuang.png</string>
 						</array>
 					</dict>
@@ -199,7 +199,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/xuanzefuwuqi.plist</string>
+									<string>ccb_res/xuanzefuwuqi.plist</string>
 									<string>denglu_nor.png</string>
 								</array>
 							</dict>
@@ -210,7 +210,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/xuanzefuwuqi.plist</string>
+									<string>ccb_res/xuanzefuwuqi.plist</string>
 									<string>denglu_sel.png</string>
 								</array>
 							</dict>
@@ -320,7 +320,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/xuanzefuwuqi.plist</string>
+									<string>ccb_res/xuanzefuwuqi.plist</string>
 									<string>jinru_nor.png</string>
 								</array>
 							</dict>
@@ -331,7 +331,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/xuanzefuwuqi.plist</string>
+									<string>ccb_res/xuanzefuwuqi.plist</string>
 									<string>jinru_sel.png</string>
 								</array>
 							</dict>
@@ -576,6 +576,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

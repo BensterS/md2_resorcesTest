@@ -65,7 +65,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/share.plist</string>
+							<string>ccb_res/share.plist</string>
 							<string>popupBkg.png</string>
 						</array>
 					</dict>
@@ -201,7 +201,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/pet_qianghuaxiaoguo.plist</string>
+							<string>ccb_res/pet_qianghuaxiaoguo.plist</string>
 							<string>qianghua_chongkaixiaoguo.png</string>
 						</array>
 					</dict>
@@ -273,7 +273,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/pet_qianghuaxiaoguo.plist</string>
+							<string>ccb_res/pet_qianghuaxiaoguo.plist</string>
 							<string>horiLine_276.png</string>
 						</array>
 					</dict>
@@ -345,7 +345,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/pet_qianghuaxiaoguo.plist</string>
+							<string>ccb_res/pet_qianghuaxiaoguo.plist</string>
 							<string>horiLine_276.png</string>
 						</array>
 					</dict>
@@ -417,7 +417,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/pet_qianghuaxiaoguo.plist</string>
+							<string>ccb_res/pet_qianghuaxiaoguo.plist</string>
 							<string>horiLine_276.png</string>
 						</array>
 					</dict>
@@ -521,7 +521,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_nor.png</string>
 								</array>
 							</dict>
@@ -532,7 +532,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>cancelButton_sel.png</string>
 								</array>
 							</dict>
@@ -1930,6 +1930,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 

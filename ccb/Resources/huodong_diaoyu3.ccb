@@ -88,7 +88,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_diaoyu3.plist</string>
+							<string>ccb_res/huodong_diaoyu3.plist</string>
 							<string>yulan_diwen2.png</string>
 						</array>
 					</dict>
@@ -224,7 +224,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_diaoyu3.plist</string>
+							<string>ccb_res/huodong_diaoyu3.plist</string>
 							<string>yulan_diwen.png</string>
 						</array>
 					</dict>
@@ -258,7 +258,7 @@
 								<key>value</key>
 								<array>
 									<real>124</real>
-									<real>37</real>
+									<real>27</real>
 									<integer>0</integer>
 								</array>
 							</dict>
@@ -280,8 +280,8 @@
 								<string>ScaleLock</string>
 								<key>value</key>
 								<array>
-									<real>1</real>
-									<real>1</real>
+									<real>0.80000001192092896</real>
+									<real>0.80000001192092896</real>
 									<false/>
 									<integer>0</integer>
 								</array>
@@ -328,7 +328,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>subButton_nor.png</string>
 								</array>
 							</dict>
@@ -339,7 +339,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>subButton_sel.png</string>
 								</array>
 							</dict>
@@ -355,8 +355,6 @@
 								</array>
 							</dict>
 						</array>
-						<key>selected</key>
-						<true/>
 					</dict>
 					<dict>
 						<key>baseClass</key>
@@ -451,7 +449,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/huodong_diaoyu3.plist</string>
+									<string>ccb_res/huodong_diaoyu3.plist</string>
 									<string>cancelButton28_nor.png</string>
 								</array>
 							</dict>
@@ -462,7 +460,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/huodong_diaoyu3.plist</string>
+									<string>ccb_res/huodong_diaoyu3.plist</string>
 									<string>cancelButton28_sel.png</string>
 								</array>
 							</dict>
@@ -622,7 +620,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_diaoyu3.plist</string>
+							<string>ccb_res/huodong_diaoyu3.plist</string>
 							<string>wode_buttonFont.png</string>
 						</array>
 					</dict>
@@ -651,7 +649,7 @@
 						<key>value</key>
 						<array>
 							<real>124</real>
-							<real>37</real>
+							<real>27</real>
 							<integer>0</integer>
 						</array>
 					</dict>
@@ -694,11 +692,13 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/huodong_diaoyu3.plist</string>
+							<string>ccb_res/huodong_diaoyu3.plist</string>
 							<string>shuohuo_buttonFont.png</string>
 						</array>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
@@ -851,20 +851,3 @@
 	<integer>3</integer>
 </dict>
 </plist>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

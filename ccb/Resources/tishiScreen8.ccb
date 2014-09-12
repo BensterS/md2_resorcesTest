@@ -88,7 +88,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen8.plist</string>
+							<string>ccb_res/tishiScreen8.plist</string>
 							<string>shengji_newditu.png</string>
 						</array>
 					</dict>
@@ -192,7 +192,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_nor.png</string>
 								</array>
 							</dict>
@@ -203,7 +203,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_sel.png</string>
 								</array>
 							</dict>
@@ -214,7 +214,7 @@
 								<string>SpriteFrame</string>
 								<key>value</key>
 								<array>
-									<string>ccbResourcesa/share.plist</string>
+									<string>ccb_res/share.plist</string>
 									<string>hongsubButton_hui.png</string>
 								</array>
 							</dict>
@@ -363,7 +363,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen8.plist</string>
+							<string>ccb_res/tishiScreen8.plist</string>
 							<string>zhdaole_font.png</string>
 						</array>
 					</dict>
@@ -435,7 +435,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen8.plist</string>
+							<string>ccb_res/tishiScreen8.plist</string>
 							<string>kaiqigongneng_font.png</string>
 						</array>
 					</dict>
@@ -507,7 +507,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen8.plist</string>
+							<string>ccb_res/tishiScreen8.plist</string>
 							<string>shengji3.png</string>
 						</array>
 					</dict>
@@ -579,7 +579,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen8.plist</string>
+							<string>ccb_res/tishiScreen8.plist</string>
 							<string>shengji0.png</string>
 						</array>
 					</dict>
@@ -651,7 +651,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen8.plist</string>
+							<string>ccb_res/tishiScreen8.plist</string>
 							<string>shenqi_nor.png</string>
 						</array>
 					</dict>
@@ -723,7 +723,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen8.plist</string>
+							<string>ccb_res/tishiScreen8.plist</string>
 							<string>meiripaohuan_nor.png</string>
 						</array>
 					</dict>
@@ -795,7 +795,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen8.plist</string>
+							<string>ccb_res/tishiScreen8.plist</string>
 							<string>diaoyuIcon_nor.png</string>
 						</array>
 					</dict>
@@ -867,7 +867,7 @@
 						<string>SpriteFrame</string>
 						<key>value</key>
 						<array>
-							<string>ccbResourcesa/tishiScreen8.plist</string>
+							<string>ccb_res/tishiScreen8.plist</string>
 							<string>kaiqizhengcheng_font.png</string>
 						</array>
 					</dict>
@@ -1024,6 +1024,10 @@
 	<integer>3</integer>
 </dict>
 </plist>
+
+
+
+
 
 
 
